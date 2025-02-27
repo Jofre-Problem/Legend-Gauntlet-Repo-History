@@ -1,4 +1,4 @@
-# Lost Judgment Legend Gauntlet MOD History
+# Legend Gauntlet MOD History
 
 Keeping track of changes of .jsons of this MOD.
 
