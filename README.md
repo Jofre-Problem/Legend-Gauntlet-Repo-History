@@ -5,9 +5,9 @@ Keeping track of changes of .jsons of this MOD. Such as various folder containin
 
 # History
 
-2.0 - Publised on Nexus on 19 Nov 2024
-Demo Discord - Published on LG MODS Discord Server on 1 February 2025
-Patches - ...
+- 2.0 - Publised on Nexus on 19 Nov 2024
+- Demo Discord - Published on LG MODS Discord Server on 1 February 2025
+- Patches - ...
 
 # Credits
 
