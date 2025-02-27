@@ -1,0 +1,2963 @@
+{
+  "VERSION": 2,
+  "REVISION": 0,
+  "ROW_COUNT": 215,
+  "COLUMN_COUNT": 9,
+  "TEXT_COUNT": 101,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 166,
+  "STORAGE_MODE": 1,
+  "columnValidity": {
+    "": "0",
+    "name_texture_id": "1",
+    "daimon_texture_id": "1",
+    "type": "1",
+    "message": "1",
+    "player": "1",
+    "ui_scene": "1",
+    "hide_localized_text": "1",
+    "chapter": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "name_texture_id": 1,
+    "daimon_texture_id": 1,
+    "type": 2,
+    "message": 13,
+    "player": 2,
+    "ui_scene": 1,
+    "hide_localized_text": 6,
+    "chapter": 2
+  },
+  "COLUMN_INDICES": [
+    3,
+    8,
+    1,
+    2,
+    6,
+    4,
+    5,
+    7,
+    0
+  ],
+  "0": {
+    "": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "padv": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "message": "Premium Adventure",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "judge_chapter_01": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "judge_chapter_02": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "judge_chapter_03": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "judge_chapter_04": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "judge_chapter_05": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "judge_chapter_06": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "judge_chapter_07": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "judge_chapter_08": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "judge_chapter_09": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "judge_chapter_10": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "judge_chapter_11": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "judge_chapter_12": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "judge_chapter_13": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "bc_sb_chinpira": {
+      "name_texture_id": 1532,
+      "daimon_texture_id": 0,
+      "type": 9,
+      "message": "Street Punks",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "16": {
+    "bc_sb_umazuki": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "bc_sb_kasai": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "bc_sb_kyourei": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "bc_sb_murase": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "bc_sb_nazo": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "bc_sb_matsukane": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "bc_sb_sharuru": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "bc_sb_homeless": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "bc_sb_higashi": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "bc_sb_honda": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "bc_sb_shioya": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "bc_sb_sakakiba": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "bc_sb_tashiro": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "bc_sb_hamura": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "bc_sb_mashiko": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "bc_sb_adtec9": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "bc_sb_koga": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "33": {
+    "bc_sb_kido": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "34": {
+    "bc_sb_kousei": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "35": {
+    "bc_sb_kuroiwa": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "36": {
+    "bc_sb_ozaki": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "37": {
+    "bc_eb_kasai": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "38": {
+    "bc_eb_honda": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "39": {
+    "bc_eb_sakakiba": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "40": {
+    "bc_eb_koga": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "41": {
+    "bc_eb_matsukane": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "42": {
+    "bc_eb_kyourei": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "43": {
+    "jcap_yagami": {
+      "name_texture_id": 7949,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Head of Yagami Detective Agency, Takayuki Yagami",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "44": {
+    "judge_first_zako": {
+      "name_texture_id": 2559,
+      "daimon_texture_id": 0,
+      "type": 1,
+      "message": "Subtitles for enemies",
+      "player": 0,
+      "ui_scene": 399,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "45": {
+    "judge_first_boss": {
+      "name_texture_id": 1532,
+      "daimon_texture_id": 0,
+      "type": 9,
+      "message": "Subtitles for bosses",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "46": {
+    "zako_judge_test": {
+      "name_texture_id": 2559,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "47": {
+    "boss_judge_test": {
+      "name_texture_id": 1532,
+      "daimon_texture_id": 0,
+      "type": 9,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "48": {
+    "boss_2lines_judge_test": {
+      "name_texture_id": 1532,
+      "daimon_texture_id": 0,
+      "type": 11,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "49": {
+    "jcap_hamura": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "50": {
+    "jcap_shintani": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "51": {
+    "jcap_genda": {
+      "name_texture_id": 7934,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Head of Genda Law Office, Takashi Genda",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "52": {
+    "jcap_saori": {
+      "name_texture_id": 7942,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Genda Law Office Attorney Saori Shirosaki",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "53": {
+    "jcap_hoshino": {
+      "name_texture_id": 7936,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Genda Law Office Attorney Issei Hoshino",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "54": {
+    "jcap_matsukane": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "55": {
+    "jcap_kaitou": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "56": {
+    "jcap_mafuyu": {
+      "name_texture_id": 7939,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Tokyo District Prosecutor Mafuyu Fujii",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "57": {
+    "jcap_izumida": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "58": {
+    "jcap_morita": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "59": {
+    "jcap_hattori": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "60": {
+    "jcap_murase": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "61": {
+    "jcap_kuroiwa": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "62": {
+    "jcap_ayabe": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "63": {
+    "jcap_higashi": {
+      "name_texture_id": 7935,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Head of Game Center Charles, Toru Higashi",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "64": {
+    "jcap_sugiura": {
+      "name_texture_id": 7945,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Yokohama 99 Inc. Investigator Fumiya Sugiura",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "65": {
+    "jcap_shioya": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "66": {
+    "jcap_ookubo": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "67": {
+    "jcap_kido": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "68": {
+    "jcap_shouno": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "69": {
+    "jcap_ichinose": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "70": {
+    "jcap_kajihira": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "71": {
+    "bc_eb_sugoroku01": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "72": {
+    "bc_eb_sugoroku02": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "73": {
+    "bc_eb_sugoroku03": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "74": {
+    "previous_story": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "75": {
+    "bc_eb_chinpira": {
+      "name_texture_id": 2559,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Street Punks",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "76": {
+    "bc_eb_panty": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "77": {
+    "bc_eb_oshiri": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "78": {
+    "bc_eb_debagame": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "79": {
+    "bc_eb_ishikawa": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "80": {
+    "bc_eb_bomber": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "81": {
+    "bc_eb_tachiwaru_man": {
+      "name_texture_id": 2660,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Nasty Man",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "82": {
+    "bc_eb_tachiwaru_men": {
+      "name_texture_id": 2661,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Nasty Men",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "83": {
+    "bc_eb_garawaru_man": {
+      "name_texture_id": 2648,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Unsavory Man",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "84": {
+    "bc_eb_garawaru_men": {
+      "name_texture_id": 2649,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Unsavory Men",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "85": {
+    "bc_eb_ayashii_man": {
+      "name_texture_id": 2643,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Suspicious Man",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "86": {
+    "bc_eb_kamuro_people": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "87": {
+    "bc_eb_yakuza": {
+      "name_texture_id": 2663,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Yakuza",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "88": {
+    "bc_eb_nazo_men": {
+      "name_texture_id": 2654,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Mysterious Men",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "89": {
+    "bc_eb_kaito": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "90": {
+    "bc_eb_crow": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "91": {
+    "bc_eb_settodan": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 106
+    }
+  },
+  "92": {
+    "bc_sb_amon": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 107
+    }
+  },
+  "93": {
+    "bc_eb_gamo": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 108
+    }
+  },
+  "94": {
+    "bc_eb_ryan": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 109
+    }
+  },
+  "95": {
+    "bc_eb_tanago": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 110
+    }
+  },
+  "96": {
+    "bc_eb_keihin_chinpira": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 111
+    }
+  },
+  "97": {
+    "bc_eb_ryuzenji": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 112
+    }
+  },
+  "98": {
+    "bc_sb_police": {
+      "name_texture_id": 0,
+      "daimon_texture_id": 0,
+      "type": 0,
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 113
+    }
+  },
+  "99": {
+    "bc_sb_kosuke": {
+      "name_texture_id": 7907,
+      "daimon_texture_id": 0,
+      "type": 9,
+      "message": "Kosuke",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 114
+    }
+  },
+  "100": {
+    "bc_sb_tencho": {
+      "name_texture_id": 7915,
+      "daimon_texture_id": 0,
+      "type": 9,
+      "message": "Shady Bar Owner",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 189
+    }
+  },
+  "101": {
+    "bc_sb_furyo_men": {
+      "name_texture_id": 7904,
+      "daimon_texture_id": 0,
+      "type": 9,
+      "message": "Delinquent Students",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "102": {
+    "bc_sb_kamen": {
+      "name_texture_id": 7906,
+      "daimon_texture_id": 0,
+      "type": 9,
+      "message": "Masked Men",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "103": {
+    "bc_sb_benri_kuwana": {
+      "name_texture_id": 7901,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "message": "Handyman Jin Kuwana",
+      "player": 0,
+      "ui_scene": 398,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "104": {
+    "bc_sb_tesso": {
+      "name_texture_id": 7916,
+      "daimon_texture_id": 0,
+      "type": 1,
+      "message": "Yokohama Liumang White Mask 3rd Branch Leader Tesso",
+      "player": 0,
+      "ui_scene": 399,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "105": {
+    "bc_sb_yokohama": {
+      "name_texture_id": 7918,
+      "daimon_texture_id": 0,
+      "type": 1,
+      "message": "Yokohama Liumang Guys",
+      "player": 0,
+      "ui_scene": 399,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "106": {
+    "bc_sb_hangure": {
+      "name_texture_id": 7905,
+      "daimon_texture_id": 0,
+      "type": 9,
+      "message": "Street Thugs",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "107": {
+    "bc_sb_rk_man": {
+      "name_texture_id": 7912,
+      "daimon_texture_id": 0,
+      "type": 9,
+      "message": "RK Member",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 115
+    }
+  },
+  "108": {
+    "bc_sb_rk_men": {
+      "name_texture_id": 7913,
+      "daimon_texture_id": 0,
+      "type": 9,
+      "message": "RK Members",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 116
+    }
+  },
+  "109": {
+    "bc_sb_akutsu": {
+      "name_texture_id": 7900,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "message": "RK Commander Daimu Akutsu",
+      "player": 0,
+      "ui_scene": 397,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "110": {
+    "bc_sb_souma": {
+      "name_texture_id": 7914,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "message": "RK Leader Kazuki Soma",
+      "player": 0,
+      "ui_scene": 398,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 117
+    }
+  },
+  "111": {
+    "bc_sb_fukumen": {
+      "name_texture_id": 7903,
+      "daimon_texture_id": 0,
+      "type": 9,
+      "message": "Masked Men",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 118
+    }
+  },
+  "112": {
+    "bc_sb_oshiego": {
+      "name_texture_id": 7911,
+      "daimon_texture_id": 0,
+      "type": 1,
+      "message": "Kuwana's Former Students",
+      "player": 0,
+      "ui_scene": 399,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 119
+    }
+  },
+  "113": {
+    "bc_sb_watanabe": {
+      "name_texture_id": 7917,
+      "daimon_texture_id": 3609,
+      "type": 1,
+      "message": "Kanagawa PD, Division One Kisuke Watanabe",
+      "player": 0,
+      "ui_scene": 399,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "114": {
+    "bc_sb_kuwana": {
+      "name_texture_id": 7908,
+      "daimon_texture_id": 0,
+      "type": 1,
+      "message": "Jin Kuwana",
+      "player": 0,
+      "ui_scene": 399,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 120
+    }
+  },
+  "115": {
+    "bc_eb_ayashii_men": {
+      "name_texture_id": 7864,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Suspicious Men",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 121
+    }
+  },
+  "116": {
+    "bc_eb_nazo_man": {
+      "name_texture_id": 7875,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Mysterious Man",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 122
+    }
+  },
+  "117": {
+    "bc_eb_furyo_man": {
+      "name_texture_id": 7867,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Delinquent Student",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 123
+    }
+  },
+  "118": {
+    "bc_eb_furyo_men": {
+      "name_texture_id": 7868,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Delinquent Students",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 124
+    }
+  },
+  "119": {
+    "bc_eb_rk_man": {
+      "name_texture_id": 7879,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "RK Member",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 125
+    }
+  },
+  "120": {
+    "bc_eb_narikin_man": {
+      "name_texture_id": 7873,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Nouveau Riche",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 126
+    }
+  },
+  "121": {
+    "bc_eb_narikin_men": {
+      "name_texture_id": 7874,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Nouveau Riche",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 127
+    }
+  },
+  "122": {
+    "bc_eb_fukutoku_chinpira": {
+      "name_texture_id": 7866,
+      "daimon_texture_id": 0,
+      "type": 1,
+      "message": "Fukutokucho Punk",
+      "player": 0,
+      "ui_scene": 400,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 128
+    }
+  },
+  "123": {
+    "bc_eb_snack_chinpira": {
+      "name_texture_id": 7898,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Bar District Punk",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 129
+    }
+  },
+  "124": {
+    "bc_eb_chuka_chinpira": {
+      "name_texture_id": 7865,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Chinatown Punk",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 130
+    }
+  },
+  "125": {
+    "bc_eb_hanten_chinpira": {
+      "name_texture_id": 7870,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Restaurant Row Punk",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 131
+    }
+  },
+  "126": {
+    "bc_eb_hamakita_chinpira": {
+      "name_texture_id": 7869,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Hamakita Park Punk",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 132
+    }
+  },
+  "127": {
+    "bc_eb_moto_kasai": {
+      "name_texture_id": 7871,
+      "daimon_texture_id": 0,
+      "type": 2,
+      "message": "Ex-Keihin Kenta Kasai",
+      "player": 0,
+      "ui_scene": 398,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 133
+    }
+  },
+  "128": {
+    "bc_eb_new_sakakiba": {
+      "name_texture_id": 7877,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Neo Keihin Kaito Sakakiba",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 134
+    }
+  },
+  "129": {
+    "bc_eb_murasaki": {
+      "name_texture_id": 7872,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Made In Heaven Dan Murasaki",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 135
+    }
+  },
+  "130": {
+    "bc_eb_suo": {
+      "name_texture_id": 7899,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Made In Heaven Rep Yuma Suou",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 136
+    }
+  },
+  "131": {
+    "bc_sb_new_keihin_chinpira": {
+      "name_texture_id": 7910,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Neo Keihin Punk",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 137
+    }
+  },
+  "132": {
+    "bc_sb_new_honda": {
+      "name_texture_id": 7909,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Neo Keihin Renji Honda",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 138
+    }
+  },
+  "133": {
+    "bc_sb_fudo_honda": {
+      "name_texture_id": 7902,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Fudo Oshikiri / Neo Keihin Renji Honda",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 139
+    }
+  },
+  "134": {
+    "bc_eb_new_koga": {
+      "name_texture_id": 7876,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Neo Keihin Matsuhisa Koga",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 140
+    }
+  },
+  "135": {
+    "bc_eb_amon": {
+      "name_texture_id": 7863,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Juzo Amon",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 141
+    }
+  },
+  "136": {
+    "bc_eb_people": {
+      "name_texture_id": 7878,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Town Resident",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 142
+    }
+  },
+  "137": {
+    "bc_eb_side01": {
+      "name_texture_id": 7880,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Kalashnikov",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 143
+    }
+  },
+  "138": {
+    "bc_eb_side02": {
+      "name_texture_id": 7881,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Ebisu-sensei",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 144
+    }
+  },
+  "139": {
+    "bc_eb_side03": {
+      "name_texture_id": 7882,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Kazamiya",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 145
+    }
+  },
+  "140": {
+    "bc_eb_side04": {
+      "name_texture_id": 7883,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Kinugawa",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 146
+    }
+  },
+  "141": {
+    "bc_eb_side05": {
+      "name_texture_id": 7884,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Toru",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 147
+    }
+  },
+  "142": {
+    "bc_eb_side06": {
+      "name_texture_id": 7885,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Fujimaru",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 148
+    }
+  },
+  "143": {
+    "bc_eb_side07": {
+      "name_texture_id": 7886,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Ashihara",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 149
+    }
+  },
+  "144": {
+    "bc_eb_side08": {
+      "name_texture_id": 7887,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Ogami",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 150
+    }
+  },
+  "145": {
+    "bc_eb_side09": {
+      "name_texture_id": 7888,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Biker Gang",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 151
+    }
+  },
+  "146": {
+    "bc_eb_side10": {
+      "name_texture_id": 7889,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Neo-Keihin Kenta Kasai / Kaito Sakakiba",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 152
+    }
+  },
+  "147": {
+    "bc_eb_side11": {
+      "name_texture_id": 7890,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "The Filthy Four",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 153
+    }
+  },
+  "148": {
+    "bc_eb_side12": {
+      "name_texture_id": 7891,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Side Case Enemy (Temp)",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 154
+    }
+  },
+  "149": {
+    "bc_eb_side13": {
+      "name_texture_id": 7892,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Side Case Enemy (Temp)",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 190
+    }
+  },
+  "150": {
+    "bc_eb_side14": {
+      "name_texture_id": 7893,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Side Case Enemy (Temp)",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 191
+    }
+  },
+  "151": {
+    "bc_eb_side15": {
+      "name_texture_id": 7894,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Side Case Enemy (Temp)",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 192
+    }
+  },
+  "152": {
+    "bc_eb_side16": {
+      "name_texture_id": 7895,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Side Case Enemy (Temp)",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 193
+    }
+  },
+  "153": {
+    "bc_eb_side17": {
+      "name_texture_id": 7896,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Side Case Enemy (Temp)",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 194
+    }
+  },
+  "154": {
+    "bc_eb_side18": {
+      "name_texture_id": 7897,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Side Case Enemy (Temp)",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 195
+    }
+  },
+  "155": {
+    "jcap_kaito": {
+      "name_texture_id": 7937,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Yagami Detective Agency Investigator Masaharu Kaito",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 196
+    }
+  },
+  "156": {
+    "jcap_tsukumo": {
+      "name_texture_id": 7947,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Head of Yokohama 99 Inc., Makoto Tsukumo",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 197
+    }
+  },
+  "157": {
+    "jcap_okuda": {
+      "name_texture_id": 7941,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Seiryo High School Chairman Yuzo Okuda",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 198
+    }
+  },
+  "158": {
+    "jcap_sawa": {
+      "name_texture_id": 7943,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Seiryo High School Class 2-2 Teacher Yoko Sawa",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 199
+    }
+  },
+  "159": {
+    "jcap_kuwana": {
+      "name_texture_id": 7938,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Handyman Kuwana Representative, Jin Kuwana",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 200
+    }
+  },
+  "160": {
+    "jcap_watanabe": {
+      "name_texture_id": 7948,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Kanagawa PD, Division One Kisuke Watanabe",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 201
+    }
+  },
+  "161": {
+    "jcap_tesso": {
+      "name_texture_id": 7946,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Yokohama Liumang White Mask Branch Leader Tesso",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 202
+    }
+  },
+  "162": {
+    "jcap_akutsu": {
+      "name_texture_id": 7932,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "RK Commander Daimu Akutsu",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "163": {
+    "jcap_ehara": {
+      "name_texture_id": 7933,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Anti-Nuisance Ordinance Defendant Akihiro Ehara",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "164": {
+    "jcap_soma": {
+      "name_texture_id": 7944,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "RK Leader Kazuki Soma",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 155
+    }
+  },
+  "165": {
+    "jcap_mamiya": {
+      "name_texture_id": 7940,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Groping Victim Yui Mamiya",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "166": {
+    "coyote_chapter_01": {
+      "name_texture_id": 7919,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "player": 0,
+      "ui_scene": 1156,
+      "hide_localized_text": 0,
+      "chapter": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 156
+    }
+  },
+  "167": {
+    "coyote_chapter_02": {
+      "name_texture_id": 7920,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "player": 0,
+      "ui_scene": 1156,
+      "hide_localized_text": 0,
+      "chapter": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "168": {
+    "coyote_chapter_03": {
+      "name_texture_id": 7921,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "player": 0,
+      "ui_scene": 1156,
+      "hide_localized_text": 0,
+      "chapter": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "169": {
+    "coyote_chapter_04": {
+      "name_texture_id": 7922,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "player": 0,
+      "ui_scene": 1156,
+      "hide_localized_text": 0,
+      "chapter": 21,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "170": {
+    "coyote_chapter_05": {
+      "name_texture_id": 7923,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "player": 0,
+      "ui_scene": 1156,
+      "hide_localized_text": 0,
+      "chapter": 22,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 157
+    }
+  },
+  "171": {
+    "coyote_chapter_06": {
+      "name_texture_id": 7924,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "player": 0,
+      "ui_scene": 1156,
+      "hide_localized_text": 0,
+      "chapter": 23,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 158
+    }
+  },
+  "172": {
+    "coyote_chapter_07": {
+      "name_texture_id": 7925,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "player": 0,
+      "ui_scene": 1156,
+      "hide_localized_text": 0,
+      "chapter": 24,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 159
+    }
+  },
+  "173": {
+    "coyote_chapter_08": {
+      "name_texture_id": 7926,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "player": 0,
+      "ui_scene": 1156,
+      "hide_localized_text": 0,
+      "chapter": 25,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 160
+    }
+  },
+  "174": {
+    "coyote_chapter_09": {
+      "name_texture_id": 7927,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "player": 0,
+      "ui_scene": 1156,
+      "hide_localized_text": 0,
+      "chapter": 26,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 161
+    }
+  },
+  "175": {
+    "coyote_chapter_10": {
+      "name_texture_id": 7928,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "player": 0,
+      "ui_scene": 1156,
+      "hide_localized_text": 0,
+      "chapter": 27,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 162
+    }
+  },
+  "176": {
+    "coyote_chapter_11": {
+      "name_texture_id": 7929,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "player": 0,
+      "ui_scene": 1156,
+      "hide_localized_text": 0,
+      "chapter": 28,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 163
+    }
+  },
+  "177": {
+    "coyote_chapter_12": {
+      "name_texture_id": 7930,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "player": 0,
+      "ui_scene": 1156,
+      "hide_localized_text": 0,
+      "chapter": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "178": {
+    "coyote_chapter_13": {
+      "name_texture_id": 7931,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "player": 0,
+      "ui_scene": 1156,
+      "hide_localized_text": 0,
+      "chapter": 30,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 164
+    }
+  },
+  "179": {
+    "coyote_previous_story": {
+      "name_texture_id": 8010,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "message": "Previously...",
+      "player": 0,
+      "ui_scene": 714,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 165
+    }
+  },
+  "180": {
+    "jcap_kusumoto": {
+      "name_texture_id": 8393,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Vice Minister of the Ministry of Health Reiko Kusumoto",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 180
+    }
+  },
+  "181": {
+    "jcap_takano": {
+      "name_texture_id": 8396,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Tokyo District Prosecutor Sadao Takano",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 181
+    }
+  },
+  "182": {
+    "jcap_bando": {
+      "name_texture_id": 8395,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Tokyo PD Public Security Coordinator Hidemi Bando",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 182
+    }
+  },
+  "183": {
+    "bc_sb_gauntlet_start": {
+      "name_texture_id": 8783,
+      "daimon_texture_id": 0,
+      "type": 1,
+      "message": "START",
+      "player": 0,
+      "ui_scene": 399,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 203
+    }
+  },
+  "184": {
+    "bc_sb_sugoroku_battle": {
+      "name_texture_id": 8813,
+      "daimon_texture_id": 0,
+      "type": 1,
+      "message": "Dice & Cube: Battle Mission",
+      "player": 0,
+      "ui_scene": 400,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 204
+    }
+  },
+  "185": {
+    "bc_sb_sugoroku_rival": {
+      "name_texture_id": 8816,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Dice & Cube: Rival Battle Mission",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 205
+    }
+  },
+  "186": {
+    "bc_sb_sugoroku_kuronyan": {
+      "name_texture_id": 8815,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Dice & Cube: Kuro-nyan Battle Mission",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 206
+    }
+  },
+  "187": {
+    "bc_sb_sugoroku_athletic": {
+      "name_texture_id": 8812,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Dice & Cube: Parkour Mission",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 207
+    }
+  },
+  "188": {
+    "bc_sb_sugoroku_drone": {
+      "name_texture_id": 8814,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Dice & Cube: Drone Battle Mission",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 208
+    }
+  },
+  "189": {
+    "bc_sb_arakure": {
+      "name_texture_id": 9328,
+      "daimon_texture_id": 0,
+      "type": 9,
+      "message": "Rowdy Students",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 209
+    }
+  },
+  "190": {
+    "bc_sb_k_batou": {
+      "name_texture_id": 10539,
+      "daimon_texture_id": 0,
+      "type": 9,
+      "message": "Bato Detective Agency Investigators",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 210
+    }
+  },
+  "191": {
+    "bc_sb_k_nanpa": {
+      "name_texture_id": 10544,
+      "daimon_texture_id": 0,
+      "type": 9,
+      "message": "Pick-Up Artists",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 166
+    }
+  },
+  "192": {
+    "bc_sb_k_suikyaku": {
+      "name_texture_id": 10548,
+      "daimon_texture_id": 0,
+      "type": 9,
+      "message": "Obnoxious Drunks",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 167
+    }
+  },
+  "193": {
+    "bc_sb_k_aragaki": {
+      "name_texture_id": 10538,
+      "daimon_texture_id": 0,
+      "type": 9,
+      "message": "Aragaki Brothers",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 168
+    }
+  },
+  "194": {
+    "bc_sb_k_sakaurami": {
+      "name_texture_id": 10546,
+      "daimon_texture_id": 0,
+      "type": 9,
+      "message": "Irrational Thug",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 169
+    }
+  },
+  "195": {
+    "bc_sb_k_hudou": {
+      "name_texture_id": 10541,
+      "daimon_texture_id": 0,
+      "type": 11,
+      "message": "Ex-Omi Alliance Fudo the Killer",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 170
+    }
+  },
+  "196": {
+    "bc_sb_k_guren": {
+      "name_texture_id": 10540,
+      "daimon_texture_id": 0,
+      "type": 9,
+      "message": "Crimson Lotus",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 171
+    }
+  },
+  "197": {
+    "bc_sb_k_kenmochi": {
+      "name_texture_id": 10543,
+      "daimon_texture_id": 0,
+      "type": 11,
+      "message": "Crimson Lotus Frontman Shusuke Kenmochi",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 172
+    }
+  },
+  "198": {
+    "bc_sb_k_igarashi_senda": {
+      "name_texture_id": 10542,
+      "daimon_texture_id": 0,
+      "type": 11,
+      "message": "Bato Detective Agency Investigators Igarashi & Senda",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 173
+    }
+  },
+  "199": {
+    "bc_sb_k_tashiro": {
+      "name_texture_id": 10549,
+      "daimon_texture_id": 0,
+      "type": 11,
+      "message": "Ex-Tojo Clan, Matsugane Family Tashiro",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 174
+    }
+  },
+  "200": {
+    "bc_sb_k_sadamoto": {
+      "name_texture_id": 10545,
+      "daimon_texture_id": 0,
+      "type": 11,
+      "message": "Image Interactive CEO Kyoya Sadamoto",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 175
+    }
+  },
+  "201": {
+    "bc_sb_k_shirakaba": {
+      "name_texture_id": 10547,
+      "daimon_texture_id": 0,
+      "type": 11,
+      "message": "Shirakaba Clinic Director Yasutaka Shirakaba",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 176
+    }
+  },
+  "202": {
+    "bc_eb_k_guren": {
+      "name_texture_id": 10537,
+      "daimon_texture_id": 0,
+      "type": 8,
+      "message": "Crimson Lotus",
+      "player": 0,
+      "ui_scene": 0,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 177
+    }
+  },
+  "203": {
+    "jcap_igarashi": {
+      "name_texture_id": 10493,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Bato Detective Agency Investigator & Chief Consultant Masao Igarashi",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 178
+    }
+  },
+  "204": {
+    "jcap_senda": {
+      "name_texture_id": 10499,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Bato Detective Agency Investigator Shiro Senda",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 179
+    }
+  },
+  "205": {
+    "jcap_jun": {
+      "name_texture_id": 10494,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Runaway Boy Jun Sadamoto",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 211
+    }
+  },
+  "206": {
+    "jcap_kenmochi": {
+      "name_texture_id": 10495,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Crimson Lotus Frontman Shusuke Kenmochi",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 212
+    }
+  },
+  "207": {
+    "jcap_maho": {
+      "name_texture_id": 10496,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "College Student Maho Natsume",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 213
+    }
+  },
+  "208": {
+    "jcap_mikiko": {
+      "name_texture_id": 10497,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Office Worker Mikiko Natsume",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 214
+    }
+  },
+  "209": {
+    "jcap_sadamoto": {
+      "name_texture_id": 10498,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Image Interactive CEO Kyoya Sadamoto",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 183
+    }
+  },
+  "210": {
+    "jcap_shirakaba": {
+      "name_texture_id": 10500,
+      "daimon_texture_id": 0,
+      "type": 10,
+      "message": "Shirakaba Clinic Director Yasutaka Shirakaba",
+      "player": 0,
+      "ui_scene": 1158,
+      "hide_localized_text": 0,
+      "chapter": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 184
+    }
+  },
+  "211": {
+    "coyote_chapter_k_01": {
+      "name_texture_id": 10397,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "player": 0,
+      "ui_scene": 1156,
+      "hide_localized_text": 0,
+      "chapter": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 185
+    }
+  },
+  "212": {
+    "coyote_chapter_k_02": {
+      "name_texture_id": 10398,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "player": 0,
+      "ui_scene": 1156,
+      "hide_localized_text": 0,
+      "chapter": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 186
+    }
+  },
+  "213": {
+    "coyote_chapter_k_03": {
+      "name_texture_id": 10399,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "player": 0,
+      "ui_scene": 1156,
+      "hide_localized_text": 0,
+      "chapter": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 187
+    }
+  },
+  "214": {
+    "coyote_chapter_k_04": {
+      "name_texture_id": 10400,
+      "daimon_texture_id": 0,
+      "type": 5,
+      "player": 0,
+      "ui_scene": 1156,
+      "hide_localized_text": 0,
+      "chapter": 21,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 188
+    }
+  }
+}

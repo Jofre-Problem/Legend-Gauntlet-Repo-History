@@ -1,0 +1,197 @@
+{
+  "VERSION": 2,
+  "REVISION": 0,
+  "ROW_COUNT": 18,
+  "COLUMN_COUNT": 4,
+  "TEXT_COUNT": 0,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 579,
+  "STORAGE_MODE": 1,
+  "columnValidity": {
+    "": "0",
+    "damage": "1",
+    "level": "1",
+    "attr": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "damage": 0,
+    "level": 0,
+    "attr": 2
+  },
+  "COLUMN_INDICES": [
+    1,
+    2,
+    3,
+    0
+  ],
+  "0": {
+    "": {
+      "damage": 0,
+      "level": 0,
+      "attr": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "normal": {
+      "damage": 400,
+      "level": 2,
+      "attr": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "clan": {
+      "damage": 0,
+      "level": 0,
+      "attr": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "smg": {
+      "damage": 150,
+      "level": 2,
+      "attr": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "4": {
+    "electric": {
+      "damage": 100,
+      "level": 2,
+      "attr": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "5": {
+    "piyori": {
+      "damage": 100,
+      "level": 2,
+      "attr": 11,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "6": {
+    "shotgun": {
+      "damage": 3000,
+      "level": 3,
+      "attr": 51,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "7": {
+    "hinawa": {
+      "damage": 1400,
+      "level": 3,
+      "attr": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "8": {
+    "shotgun_fire": {
+      "damage": 1000,
+      "level": 3,
+      "attr": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "9": {
+    "light": {
+      "damage": 10,
+      "level": 1,
+      "attr": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "10": {
+    "amon2": {
+      "damage": 0,
+      "level": 0,
+      "attr": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "11": {
+    "smg_s": {
+      "damage": 100,
+      "level": 3,
+      "attr": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "12": {
+    "notfly": {
+      "damage": 2000,
+      "level": 2,
+      "attr": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "13": {
+    "smg_l": {
+      "damage": 1000,
+      "level": 2,
+      "attr": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "14": {
+    "notfly_koga": {
+      "damage": 0,
+      "level": 0,
+      "attr": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "15": {
+    "normal_police": {
+      "damage": 0,
+      "level": 0,
+      "attr": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "16": {
+    "boss": {
+      "damage": 2000,
+      "level": 1,
+      "attr": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "rocket": {
+      "damage": 3000,
+      "level": 5,
+      "attr": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  }
+}

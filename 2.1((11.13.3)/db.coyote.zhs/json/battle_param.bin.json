@@ -1,0 +1,1448 @@
+{
+  "VERSION": 2,
+  "REVISION": 0,
+  "ROW_COUNT": 177,
+  "COLUMN_COUNT": 3,
+  "TEXT_COUNT": 0,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 330,
+  "STORAGE_MODE": 1,
+  "columnValidity": {
+    "": "0",
+    "value": "1",
+    "param": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "value": 3,
+    "param": 7
+  },
+  "COLUMN_INDICES": [
+    1,
+    2,
+    0
+  ],
+  "0": {
+    "": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "heat_up_damage_ratio": {
+      "value": 0,
+      "param": 0.0002300000051036477,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "heat_down_damage_ratio": {
+      "value": 0,
+      "param": 0.0005000000237487257,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 154
+    }
+  },
+  "3": {
+    "default_enemy_hp": {
+      "value": 1000,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 153
+    }
+  },
+  "4": {
+    "heat_time_down_ratio": {
+      "value": 0,
+      "param": 0.25,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 114
+    }
+  },
+  "5": {
+    "heat_time_down_ratio_1": {
+      "value": 0,
+      "param": 0.22499999403953552,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 116
+    }
+  },
+  "6": {
+    "heat_time_down_ratio_2": {
+      "value": 0,
+      "param": 0.20000000298023224,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 118
+    }
+  },
+  "7": {
+    "heat_time_down_ratio_3": {
+      "value": 0,
+      "param": 0.17499999701976776,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 127
+    }
+  },
+  "8": {
+    "heat_time_down_action": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 126
+    }
+  },
+  "9": {
+    "reaction_match_yrot_max": {
+      "value": 4096,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "10": {
+    "reaction_match_yrot_ratio": {
+      "value": 0,
+      "param": 5.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "11": {
+    "reaction_match_ypos_max": {
+      "value": 0,
+      "param": 2.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "12": {
+    "reaction_match_ypos_ratio": {
+      "value": 0,
+      "param": 2.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "13": {
+    "reaction_match_yvec_max": {
+      "value": 0,
+      "param": 1.5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "14": {
+    "reaction_match_yvec_ratio": {
+      "value": 0,
+      "param": 1.5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "15": {
+    "debug_fall_fighter_ypos": {
+      "value": 0,
+      "param": -80.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "16": {
+    "lever_force_strong_param": {
+      "value": 0,
+      "param": 0.800000011920929,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "17": {
+    "trigger_push_fighter_lever_angle": {
+      "value": 8192,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "18": {
+    "trigger_push_fighter_dist": {
+      "value": 0,
+      "param": 0.8999999761581421,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "19": {
+    "trigger_push_fighter_to_direction": {
+      "value": 8192,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "20": {
+    "heat_up_guard_success": {
+      "value": 0,
+      "param": 0.10000000149011612,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "21": {
+    "heat_up_asset_break": {
+      "value": 0,
+      "param": 0.10000000149011612,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "22": {
+    "sphit_damage_1": {
+      "value": 5,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "23": {
+    "sphit_damage_2": {
+      "value": 5,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "24": {
+    "sphit_damage_3": {
+      "value": 5,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "25": {
+    "sphit_damage_4": {
+      "value": 5,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "26": {
+    "sphit_damage_5": {
+      "value": 10,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "27": {
+    "sphit_damage_6": {
+      "value": 15,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 138
+    }
+  },
+  "28": {
+    "sphit_damage_7": {
+      "value": 35,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "29": {
+    "sphit_damage_8": {
+      "value": 75,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "30": {
+    "sphit_damage_9": {
+      "value": 120,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "31": {
+    "sphit_damage_10": {
+      "value": 165,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "32": {
+    "sync_move_revise_ratio": {
+      "value": 0,
+      "param": 0.20000000298023224,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "33": {
+    "sphit_last_damage_ratio": {
+      "value": 0,
+      "param": 4.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "34": {
+    "dragon_boost_cost": {
+      "value": 0,
+      "param": 0.10000000149011612,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "35": {
+    "can_dragon_boost_level": {
+      "value": 1,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "36": {
+    "dragon_boost_speedup": {
+      "value": 0,
+      "param": 0.20000000298023224,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "37": {
+    "reaction_match_power_max": {
+      "value": 10,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "38": {
+    "pick_throw_power": {
+      "value": 0,
+      "param": 20.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "39": {
+    "guard_reaction_cancel_tick": {
+      "value": 500,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "40": {
+    "action_to_fall_speed_ratio": {
+      "value": 0,
+      "param": 0.5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "41": {
+    "special_mode_ratio": {
+      "value": 0,
+      "param": 1.149999976158142,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "42": {
+    "drunk_time_ratio": {
+      "value": 0,
+      "param": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "43": {
+    "difficult_easy_damage_ratio": {
+      "value": 0,
+      "param": -0.44999998807907104,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "44": {
+    "difficult_hard_damage_ratio": {
+      "value": 0,
+      "param": 0.20000000298023224,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "45": {
+    "difficult_legend_damage_ratio": {
+      "value": 0,
+      "param": 0.6000000238418579,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "46": {
+    "sway_param_start": {
+      "value": 0,
+      "param": 0.1850000023841858,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "47": {
+    "sway_param_up_max": {
+      "value": 0,
+      "param": 0.6000000238418579,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "48": {
+    "sway_param_up_ratio": {
+      "value": 0,
+      "param": 0.0010000000474974513,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "49": {
+    "sway_param_up_ratio2": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "50": {
+    "sway_param_stop": {
+      "value": 0,
+      "param": 0.16500000655651093,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "51": {
+    "sway_param_shift": {
+      "value": 0,
+      "param": 0.03711500018835068,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 176
+    }
+  },
+  "52": {
+    "sway_param_skill_up0": {
+      "value": 100,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "53": {
+    "sway_param_skill_up1": {
+      "value": 120,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 137
+    }
+  },
+  "54": {
+    "sway_param_skill_up2": {
+      "value": 150,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "55": {
+    "sway_param_skill_up3": {
+      "value": 200,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "56": {
+    "stun_param_default": {
+      "value": 0,
+      "param": 6.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "57": {
+    "stun_param_clan": {
+      "value": 0,
+      "param": 3.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "58": {
+    "stun_param_recover": {
+      "value": 0,
+      "param": 0.5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "59": {
+    "stun_param_recover2": {
+      "value": 0,
+      "param": 2.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "60": {
+    "ragdoll_down_param_default": {
+      "value": 0,
+      "param": 4.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "61": {
+    "ragdoll_down_param_recover": {
+      "value": 0,
+      "param": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "62": {
+    "tame_slow_recover_param": {
+      "value": 0,
+      "param": 0.30000001192092896,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "63": {
+    "parts_joint_long_frame_speed": {
+      "value": 0,
+      "param": 2.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "64": {
+    "ragdoll_air_cond_height": {
+      "value": 0,
+      "param": 0.5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "65": {
+    "stomach_enemy_kill": {
+      "value": 0,
+      "param": 0.03999999910593033,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "66": {
+    "defence_ability_ratio": {
+      "value": 0,
+      "param": 0.0020000000949949026,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "67": {
+    "pick_area_offset": {
+      "value": 0,
+      "param": 0.4000000059604645,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "68": {
+    "pick_area_range": {
+      "value": 0,
+      "param": 3.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "69": {
+    "pick_area_narrow_range": {
+      "value": 0,
+      "param": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "70": {
+    "plain_slope_param": {
+      "value": 0,
+      "param": 0.9549999833106995,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "71": {
+    "charge_light_time": {
+      "value": 0,
+      "param": 0.800000011920929,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "72": {
+    "charge_heavy_time": {
+      "value": 0,
+      "param": 1.7999999523162842,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "73": {
+    "charge_light_time2": {
+      "value": 0,
+      "param": 0.4000000059604645,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "74": {
+    "charge_heavy_time2": {
+      "value": 0,
+      "param": 0.8999999761581421,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "75": {
+    "boss_hp_per_stock": {
+      "value": 6000,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "76": {
+    "speed_style_motion_speed": {
+      "value": 0,
+      "param": 1.100000023841858,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "77": {
+    "power_style_motion_speed": {
+      "value": 0,
+      "param": 1.25,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "78": {
+    "simple_dead_power_limit": {
+      "value": 3,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "79": {
+    "fly_dead_power_limit": {
+      "value": 3,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "80": {
+    "attr_fire_ignore_time": {
+      "value": 0,
+      "param": 5.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "81": {
+    "attr_fire_time": {
+      "value": 0,
+      "param": 2.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "82": {
+    "attr_fire_damage": {
+      "value": 900,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "83": {
+    "attr_fire_damage_ratio_clan": {
+      "value": 0,
+      "param": 0.05000000074505806,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "84": {
+    "attr_blind_ignore_time": {
+      "value": 0,
+      "param": 10.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "85": {
+    "attr_blind_time": {
+      "value": 0,
+      "param": 10.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "86": {
+    "attr_elec_ignore_time": {
+      "value": 0,
+      "param": 6.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "87": {
+    "attr_piyori_ignore_time": {
+      "value": 0,
+      "param": 10.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "88": {
+    "tougijyo_win_hp_recover": {
+      "value": 0,
+      "param": 0.15000000596046448,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "89": {
+    "long_guard_param": {
+      "value": 0,
+      "param": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "90": {
+    "boss_finish_heat_inc_param": {
+      "value": 25,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "91": {
+    "dainoji_down_time": {
+      "value": 0,
+      "param": 3.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "92": {
+    "pickup_icon_sight_range": {
+      "value": 0,
+      "param": 6.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "93": {
+    "boss_main_hp_gauge_width_min": {
+      "value": 180,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "94": {
+    "boss_main_hp_gauge_width_max": {
+      "value": 900,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "95": {
+    "boss_main_hp_gauge_fit_range_min": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "96": {
+    "boss_main_hp_gauge_fit_range_max": {
+      "value": 6000,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "97": {
+    "boss_sub_hp_gauge_width_min": {
+      "value": 36,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "98": {
+    "boss_sub_hp_gauge_width_max": {
+      "value": 180,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "99": {
+    "boss_sub_hp_gauge_fit_range_min": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "100": {
+    "boss_sub_hp_gauge_fit_range_max": {
+      "value": 6000,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "101": {
+    "zako_main_hp_gauge_width_min": {
+      "value": 120,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "102": {
+    "zako_main_hp_gauge_width_max": {
+      "value": 600,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "103": {
+    "zako_main_hp_gauge_fit_range_min": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "104": {
+    "zako_main_hp_gauge_fit_range_max": {
+      "value": 6000,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "105": {
+    "zako_sub_hp_gauge_width_min": {
+      "value": 24,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "106": {
+    "zako_sub_hp_gauge_width_max": {
+      "value": 120,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "107": {
+    "zako_sub_hp_gauge_fit_range_min": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "108": {
+    "zako_sub_hp_gauge_fit_range_max": {
+      "value": 6000,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "109": {
+    "npc_sub_hp_gauge_width_min": {
+      "value": 24,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "110": {
+    "npc_sub_hp_gauge_width_max": {
+      "value": 120,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "111": {
+    "npc_sub_hp_gauge_fit_range_min": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "112": {
+    "npc_sub_hp_gauge_fit_range_max": {
+      "value": 6000,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "113": {
+    "damage_gauge_keep_time": {
+      "value": 0,
+      "param": 1.5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "114": {
+    "just_hakkei_damage_skill_ratio": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "115": {
+    "air_combo_down_ratio": {
+      "value": 0,
+      "param": 0.05000000074505806,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "116": {
+    "reduce_hact_use_ratio": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 106
+    }
+  },
+  "117": {
+    "binbo_money_param": {
+      "value": 100000,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 107
+    }
+  },
+  "118": {
+    "stun_timer": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 108
+    }
+  },
+  "119": {
+    "": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 109
+    }
+  },
+  "120": {
+    "": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 110
+    }
+  },
+  "121": {
+    "": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 111
+    }
+  },
+  "122": {
+    "": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 112
+    }
+  },
+  "123": {
+    "": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 113
+    }
+  },
+  "124": {
+    "": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 133
+    }
+  },
+  "125": {
+    "": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 134
+    }
+  },
+  "126": {
+    "skill_buy_target_need_money_min": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 135
+    }
+  },
+  "127": {
+    "skill_buy_target_need_money_link_chara_level": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 136
+    }
+  },
+  "128": {
+    "": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 117
+    }
+  },
+  "129": {
+    "": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 115
+    }
+  },
+  "130": {
+    "": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 139
+    }
+  },
+  "131": {
+    "": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 140
+    }
+  },
+  "132": {
+    "": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 141
+    }
+  },
+  "133": {
+    "mid_boss_sub_hp_gauge_width_min": {
+      "value": 30,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 145
+    }
+  },
+  "134": {
+    "mid_boss_sub_hp_gauge_width_max": {
+      "value": 150,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 142
+    }
+  },
+  "135": {
+    "mid_boss_sub_hp_gauge_fit_range_min": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 143
+    }
+  },
+  "136": {
+    "mid_boss_sub_hp_gauge_fit_range_max": {
+      "value": 7500,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 144
+    }
+  },
+  "137": {
+    "difficult_normal_damage_ratio": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 146
+    }
+  },
+  "138": {
+    "hp_up_guard_success": {
+      "value": 0,
+      "param": 0.10000000149011612,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 149
+    }
+  },
+  "139": {
+    "zanshin_heat_up": {
+      "value": 0,
+      "param": 0.20000000298023224,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 147
+    }
+  },
+  "140": {
+    "sabaki_heat_up": {
+      "value": 0,
+      "param": 0.20000000298023224,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 148
+    }
+  },
+  "141": {
+    "just_guard_heat_up": {
+      "value": 0,
+      "param": 0.20000000298023224,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 172
+    }
+  },
+  "142": {
+    "boost_attack_up_01": {
+      "value": 20,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 150
+    }
+  },
+  "143": {
+    "boost_attack_up_02": {
+      "value": 40,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 151
+    }
+  },
+  "144": {
+    "boost_attack_up_03": {
+      "value": 60,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 152
+    }
+  },
+  "145": {
+    "damage_reversal_heat_up": {
+      "value": 0,
+      "param": 0.20000000298023224,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 155
+    }
+  },
+  "146": {
+    "boost_attack_up_issenn": {
+      "value": 50,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 156
+    }
+  },
+  "147": {
+    "pinch_throw_up": {
+      "value": 50,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 157
+    }
+  },
+  "148": {
+    "pinch_attack_up": {
+      "value": 25,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 158
+    }
+  },
+  "149": {
+    "boost_plus_attack_up": {
+      "value": 50,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 173
+    }
+  },
+  "150": {
+    "counter_ma_attack_up": {
+      "value": 25,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 159
+    }
+  },
+  "151": {
+    "boost_plus_counter_ma": {
+      "value": 25,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 160
+    }
+  },
+  "152": {
+    "box_hp_to_battle": {
+      "value": 2000,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 161
+    }
+  },
+  "153": {
+    "player_skill_ngr_sabaki_up": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 162
+    }
+  },
+  "154": {
+    "player_skill_ngr_sabaki_ex": {
+      "value": 0,
+      "param": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 163
+    }
+  },
+  "155": {
+    "car_hit_damage": {
+      "value": 300,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 164
+    }
+  },
+  "156": {
+    "ogi_buff_time_01": {
+      "value": 0,
+      "param": 8.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 165
+    }
+  },
+  "157": {
+    "ogi_buff_time_02": {
+      "value": 0,
+      "param": 12.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 166
+    }
+  },
+  "158": {
+    "ogi_issenn_attack_up": {
+      "value": 25,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 171
+    }
+  },
+  "159": {
+    "bibiri_prob_by_disarm": {
+      "value": 0,
+      "param": 0.30000001192092896,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 167
+    }
+  },
+  "160": {
+    "bibiri_prob_by_sabaki": {
+      "value": 0,
+      "param": 0.10000000149011612,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 168
+    }
+  },
+  "161": {
+    "bibiri_prob_by_player_skill_ngr_sabaki_ex": {
+      "value": 5,
+      "param": 0.6000000238418579,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 169
+    }
+  },
+  "162": {
+    "bibiri_prob_by_player_skill_ngr_sabaki_up": {
+      "value": 0,
+      "param": 0.30000001192092896,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 170
+    }
+  },
+  "163": {
+    "bibiri_prob_by_player_skill_enb_air_bibiri": {
+      "value": 0,
+      "param": 0.5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 174
+    }
+  },
+  "164": {
+    "bibiri_prob_by_quick_enemy_defeat": {
+      "value": 100,
+      "param": 5.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 175
+    }
+  },
+  "165": {
+    "bibiri_prob_by_boot_ex_action": {
+      "value": 150,
+      "param": 4.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 119
+    }
+  },
+  "166": {
+    "bibiri_prob_by_defeat_boss": {
+      "value": 200,
+      "param": 6.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 120
+    }
+  },
+  "167": {
+    "ikari_prob_by_kamae_provoke": {
+      "value": 0,
+      "param": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 129
+    }
+  },
+  "168": {
+    "ikari_prob_by_no_kamae_provoke": {
+      "value": 0,
+      "param": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 130
+    }
+  },
+  "169": {
+    "ikari_prob_by_attack_avoid": {
+      "value": 0,
+      "param": 0.10000000149011612,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 121
+    }
+  },
+  "170": {
+    "ikari_prob_by_alive_only_mosa": {
+      "value": 0,
+      "param": 1.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 122
+    }
+  },
+  "171": {
+    "bibiri_add_prob_parry_easy_bibiri": {
+      "value": 2,
+      "param": 0.5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 123
+    }
+  },
+  "172": {
+    "counter_attack_up": {
+      "value": 25,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 124
+    }
+  },
+  "173": {
+    "damage_up_hact_ratio": {
+      "value": 0,
+      "param": 0.25,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 125
+    }
+  },
+  "174": {
+    "cancel_ikari_prob_by_sabaki_for_zako": {
+      "value": 2,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 128
+    }
+  },
+  "175": {
+    "cancel_ikari_prob_by_sabaki_for_mosa": {
+      "value": 4,
+      "param": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 131
+    }
+  },
+  "176": {
+    "difficult_ex_easy_damage_ratio": {
+      "value": 0,
+      "param": -0.5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 132
+    }
+  }
+}

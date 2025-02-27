@@ -1,0 +1,1534 @@
+{
+  "VERSION": 2,
+  "REVISION": 0,
+  "ROW_COUNT": 106,
+  "COLUMN_COUNT": 9,
+  "TEXT_COUNT": 0,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 289,
+  "STORAGE_MODE": 1,
+  "columnValidity": {
+    "": "0",
+    "command_set": "1",
+    "is_boss": "1",
+    "chara_id": "1",
+    "fighter_type": "1",
+    "weapon": "1",
+    "hp_max": "1",
+    "is_npc": "1",
+    "ai_param": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "command_set": 2,
+    "is_boss": 6,
+    "chara_id": 1,
+    "fighter_type": 2,
+    "weapon": 1,
+    "hp_max": 0,
+    "is_npc": 6,
+    "ai_param": 1
+  },
+  "COLUMN_INDICES": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    7,
+    0
+  ],
+  "0": {
+    "": {
+      "command_set": 0,
+      "is_boss": 0,
+      "chara_id": 0,
+      "fighter_type": 0,
+      "weapon": 0,
+      "hp_max": 0,
+      "is_npc": 0,
+      "ai_param": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "player": {
+      "command_set": 63,
+      "is_boss": 0,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 0,
+      "is_npc": 0,
+      "ai_param": 24,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "2": {
+    "zako": {
+      "command_set": 2,
+      "is_boss": 0,
+      "chara_id": 15356,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 1000,
+      "is_npc": 0,
+      "ai_param": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "3": {
+    "chinpira": {
+      "command_set": 5,
+      "is_boss": 1,
+      "chara_id": 15378,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 1000,
+      "is_npc": 0,
+      "ai_param": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "4": {
+    "gorotuki": {
+      "command_set": 8,
+      "is_boss": 1,
+      "chara_id": 21401,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 1000,
+      "is_npc": 0,
+      "ai_param": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "5": {
+    "zako_kenka": {
+      "command_set": 17,
+      "is_boss": 1,
+      "chara_id": 21393,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 1000,
+      "is_npc": 0,
+      "ai_param": 46,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "6": {
+    "zako_guard": {
+      "command_set": 9,
+      "is_boss": 1,
+      "chara_id": 15667,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 1000,
+      "is_npc": 0,
+      "ai_param": 6,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "7": {
+    "zako_tackle": {
+      "command_set": 47,
+      "is_boss": 0,
+      "chara_id": 15667,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 1000,
+      "is_npc": 0,
+      "ai_param": 6,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "8": {
+    "infighter": {
+      "command_set": 10,
+      "is_boss": 0,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 2000,
+      "is_npc": 0,
+      "ai_param": 8,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "9": {
+    "kakutou": {
+      "command_set": 14,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 2000,
+      "is_npc": 0,
+      "ai_param": 9,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "10": {
+    "karate": {
+      "command_set": 15,
+      "is_boss": 0,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 2000,
+      "is_npc": 0,
+      "ai_param": 10,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "11": {
+    "boxer": {
+      "command_set": 4,
+      "is_boss": 0,
+      "chara_id": 1,
+      "fighter_type": 9,
+      "weapon": 0,
+      "hp_max": 2000,
+      "is_npc": 0,
+      "ai_param": 47,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "12": {
+    "kick_boxer": {
+      "command_set": 16,
+      "is_boss": 0,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 2000,
+      "is_npc": 0,
+      "ai_param": 144,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "13": {
+    "jaka": {
+      "command_set": 0,
+      "is_boss": 0,
+      "chara_id": 0,
+      "fighter_type": 0,
+      "weapon": 0,
+      "hp_max": 0,
+      "is_npc": 0,
+      "ai_param": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "14": {
+    "chuka_lea": {
+      "command_set": 0,
+      "is_boss": 0,
+      "chara_id": 0,
+      "fighter_type": 0,
+      "weapon": 0,
+      "hp_max": 0,
+      "is_npc": 0,
+      "ai_param": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "15": {
+    "chuka": {
+      "command_set": 0,
+      "is_boss": 0,
+      "chara_id": 0,
+      "fighter_type": 0,
+      "weapon": 0,
+      "hp_max": 0,
+      "is_npc": 0,
+      "ai_param": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "16": {
+    "zako_yopparai": {
+      "command_set": 60,
+      "is_boss": 0,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 1000,
+      "is_npc": 0,
+      "ai_param": 7,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "17": {
+    "power": {
+      "command_set": 39,
+      "is_boss": 0,
+      "chara_id": 21239,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 3500,
+      "is_npc": 0,
+      "ai_param": 51,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "18": {
+    "fat": {
+      "command_set": 7,
+      "is_boss": 0,
+      "chara_id": 15666,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 3500,
+      "is_npc": 1,
+      "ai_param": 52,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "19": {
+    "sbc": {
+      "command_set": 41,
+      "is_boss": 0,
+      "chara_id": 21424,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 3500,
+      "is_npc": 0,
+      "ai_param": 53,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "20": {
+    "dorobou": {
+      "command_set": 6,
+      "is_boss": 0,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 1000,
+      "is_npc": 0,
+      "ai_param": 17,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "21": {
+    "zako_throw": {
+      "command_set": 0,
+      "is_boss": 0,
+      "chara_id": 0,
+      "fighter_type": 0,
+      "weapon": 0,
+      "hp_max": 0,
+      "is_npc": 0,
+      "ai_param": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "22": {
+    "zako_machinegun": {
+      "command_set": 0,
+      "is_boss": 0,
+      "chara_id": 0,
+      "fighter_type": 0,
+      "weapon": 0,
+      "hp_max": 0,
+      "is_npc": 0,
+      "ai_param": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "23": {
+    "zako_wpt": {
+      "command_set": 0,
+      "is_boss": 0,
+      "chara_id": 0,
+      "fighter_type": 0,
+      "weapon": 0,
+      "hp_max": 0,
+      "is_npc": 0,
+      "ai_param": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "24": {
+    "zako_wpi": {
+      "command_set": 0,
+      "is_boss": 0,
+      "chara_id": 0,
+      "fighter_type": 0,
+      "weapon": 0,
+      "hp_max": 0,
+      "is_npc": 0,
+      "ai_param": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "25": {
+    "zako_wpj": {
+      "command_set": 0,
+      "is_boss": 0,
+      "chara_id": 0,
+      "fighter_type": 0,
+      "weapon": 0,
+      "hp_max": 0,
+      "is_npc": 0,
+      "ai_param": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "26": {
+    "ninja_wpe": {
+      "command_set": 0,
+      "is_boss": 0,
+      "chara_id": 0,
+      "fighter_type": 0,
+      "weapon": 0,
+      "hp_max": 0,
+      "is_npc": 0,
+      "ai_param": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "27": {
+    "naguttemiro": {
+      "command_set": 0,
+      "is_boss": 0,
+      "chara_id": 0,
+      "fighter_type": 0,
+      "weapon": 0,
+      "hp_max": 0,
+      "is_npc": 0,
+      "ai_param": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "28": {
+    "bourei_wpe": {
+      "command_set": 0,
+      "is_boss": 0,
+      "chara_id": 0,
+      "fighter_type": 0,
+      "weapon": 0,
+      "hp_max": 0,
+      "is_npc": 0,
+      "ai_param": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "29": {
+    "mosa_rikiya": {
+      "command_set": 30,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 107,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "30": {
+    "mosa_daigo": {
+      "command_set": 22,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 108,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "31": {
+    "mosa_karate": {
+      "command_set": 25,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 109,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "32": {
+    "mosa_kick": {
+      "command_set": 26,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 110,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "33": {
+    "mosa_wrestler": {
+      "command_set": 36,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 111,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "34": {
+    "mosa_mask": {
+      "command_set": 29,
+      "is_boss": 0,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 112,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "35": {
+    "mosa_yahata": {
+      "command_set": 37,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 113,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "36": {
+    "mosa_kuze": {
+      "command_set": 27,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 114,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "37": {
+    "mosa_sougou": {
+      "command_set": 32,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 115,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "38": {
+    "mosa_lee": {
+      "command_set": 28,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 116,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "39": {
+    "mosa_kanda": {
+      "command_set": 24,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 117,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "40": {
+    "mosa_sbs": {
+      "command_set": 31,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 118,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "41": {
+    "mosa_cook": {
+      "command_set": 28,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 5282,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 119,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "42": {
+    "mosa_katana": {
+      "command_set": 20,
+      "is_boss": 1,
+      "chara_id": 21396,
+      "fighter_type": 1,
+      "weapon": 711,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 120,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "43": {
+    "mosa_wpd": {
+      "command_set": 33,
+      "is_boss": 1,
+      "chara_id": 15380,
+      "fighter_type": 1,
+      "weapon": 710,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 121,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "44": {
+    "mosa_gun": {
+      "command_set": 20,
+      "is_boss": 1,
+      "chara_id": 17602,
+      "fighter_type": 1,
+      "weapon": 1558,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 122,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "45": {
+    "mosa_snd": {
+      "command_set": 3,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 711,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 123,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "46": {
+    "mosa_wpg": {
+      "command_set": 61,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 714,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 124,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "47": {
+    "npc_kaito": {
+      "command_set": 13,
+      "is_boss": 1,
+      "chara_id": 12230,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 90,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "48": {
+    "npc_sugiura": {
+      "command_set": 43,
+      "is_boss": 0,
+      "chara_id": 11944,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 1,
+      "ai_param": 91,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "49": {
+    "ynk": {
+      "command_set": 59,
+      "is_boss": 0,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 2000,
+      "is_npc": 0,
+      "ai_param": 20,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "50": {
+    "zako2": {
+      "command_set": 84,
+      "is_boss": 0,
+      "chara_id": 17595,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 1000,
+      "is_npc": 0,
+      "ai_param": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "51": {
+    "zako3": {
+      "command_set": 85,
+      "is_boss": 1,
+      "chara_id": 15406,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 1000,
+      "is_npc": 0,
+      "ai_param": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "52": {
+    "dekunobou": {
+      "command_set": 1,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "53": {
+    "boss_rugby_a": {
+      "command_set": 89,
+      "is_boss": 1,
+      "chara_id": 20092,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 26,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "54": {
+    "boss_rugby_b": {
+      "command_set": 47,
+      "is_boss": 0,
+      "chara_id": 20093,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 1000,
+      "is_npc": 0,
+      "ai_param": 27,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "55": {
+    "npc_higashi": {
+      "command_set": 91,
+      "is_boss": 0,
+      "chara_id": 11985,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 1,
+      "ai_param": 44,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "56": {
+    "mg_boxing_zako": {
+      "command_set": 86,
+      "is_boss": 0,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 10000,
+      "is_npc": 0,
+      "ai_param": 43,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "57": {
+    "issen_kenpo": {
+      "command_set": 95,
+      "is_boss": 0,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 2000,
+      "is_npc": 0,
+      "ai_param": 48,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "58": {
+    "hagoku_kenpo": {
+      "command_set": 94,
+      "is_boss": 0,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 2000,
+      "is_npc": 0,
+      "ai_param": 50,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "59": {
+    "enbu_kenpo": {
+      "command_set": 93,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 2000,
+      "is_npc": 0,
+      "ai_param": 49,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "60": {
+    "ninja": {
+      "command_set": 98,
+      "is_boss": 0,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 55,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "61": {
+    "boss_street": {
+      "command_set": 0,
+      "is_boss": 0,
+      "chara_id": 0,
+      "fighter_type": 0,
+      "weapon": 0,
+      "hp_max": 0,
+      "is_npc": 0,
+      "ai_param": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "62": {
+    "boss_street_spd": {
+      "command_set": 0,
+      "is_boss": 0,
+      "chara_id": 0,
+      "fighter_type": 0,
+      "weapon": 0,
+      "hp_max": 0,
+      "is_npc": 0,
+      "ai_param": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "63": {
+    "mg_boxing_todoroki": {
+      "command_set": 103,
+      "is_boss": 0,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 10000,
+      "is_npc": 0,
+      "ai_param": 43,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "64": {
+    "boss_tesso_claw": {
+      "command_set": 106,
+      "is_boss": 1,
+      "chara_id": 20247,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 0,
+      "is_npc": 0,
+      "ai_param": 71,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "65": {
+    "mg_boxing_sakuma": {
+      "command_set": 104,
+      "is_boss": 0,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 10000,
+      "is_npc": 0,
+      "ai_param": 43,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "66": {
+    "mg_boxing_in_fighter": {
+      "command_set": 103,
+      "is_boss": 0,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 10000,
+      "is_npc": 0,
+      "ai_param": 72,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "67": {
+    "mg_boxing_out_boxer": {
+      "command_set": 104,
+      "is_boss": 0,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 10000,
+      "is_npc": 0,
+      "ai_param": 73,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "68": {
+    "boss_bad_boy": {
+      "command_set": 108,
+      "is_boss": 1,
+      "chara_id": 20245,
+      "fighter_type": 1,
+      "weapon": 3740,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 75,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "69": {
+    "boss_kuwana": {
+      "command_set": 83,
+      "is_boss": 1,
+      "chara_id": 20239,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 76,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "70": {
+    "boss_souma": {
+      "command_set": 42,
+      "is_boss": 1,
+      "chara_id": 20251,
+      "fighter_type": 1,
+      "weapon": 3022,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 79,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "71": {
+    "boss_akutsu": {
+      "command_set": 107,
+      "is_boss": 1,
+      "chara_id": 20018,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 81,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "72": {
+    "boss_watanabe": {
+      "command_set": 19,
+      "is_boss": 1,
+      "chara_id": 20012,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 286,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "73": {
+    "boss_rk_a": {
+      "command_set": 82,
+      "is_boss": 1,
+      "chara_id": 20733,
+      "fighter_type": 1,
+      "weapon": 338,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 87,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "74": {
+    "npc_kuwana": {
+      "command_set": 83,
+      "is_boss": 0,
+      "chara_id": 20239,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 1,
+      "ai_param": 147,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "75": {
+    "boss_rk_d": {
+      "command_set": 109,
+      "is_boss": 1,
+      "chara_id": 20285,
+      "fighter_type": 1,
+      "weapon": 1965,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 95,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "76": {
+    "boss_rk_b": {
+      "command_set": 110,
+      "is_boss": 1,
+      "chara_id": 20832,
+      "fighter_type": 1,
+      "weapon": 5803,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 98,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "77": {
+    "boss_rk_c": {
+      "command_set": 102,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 710,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 100,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "78": {
+    "boss_rk_e": {
+      "command_set": 101,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 102,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "79": {
+    "mosa": {
+      "command_set": 25,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 109,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "80": {
+    "mg_boxing_ban_nou": {
+      "command_set": 19,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 96,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "81": {
+    "mg_boxing_tyson": {
+      "command_set": 112,
+      "is_boss": 0,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 307,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "82": {
+    "mosa_grow_wpb": {
+      "command_set": 18,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 338,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 127,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "83": {
+    "mg_boxing_rns": {
+      "command_set": 113,
+      "is_boss": 0,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 10000,
+      "is_npc": 0,
+      "ai_param": 136,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "84": {
+    "wizard": {
+      "command_set": 116,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 2000,
+      "is_npc": 0,
+      "ai_param": 218,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "85": {
+    "tiger": {
+      "command_set": 117,
+      "is_boss": 1,
+      "chara_id": 16902,
+      "fighter_type": 3,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 223,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "86": {
+    "boss_oshikiri": {
+      "command_set": 99,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 272,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "87": {
+    "boss_kasai": {
+      "command_set": 120,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 227,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "88": {
+    "boss_honda": {
+      "command_set": 118,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 228,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "89": {
+    "boss_sakakiba": {
+      "command_set": 122,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 229,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "90": {
+    "boss_koga": {
+      "command_set": 121,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 230,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "91": {
+    "boss_amon": {
+      "command_set": 134,
+      "is_boss": 1,
+      "chara_id": 21976,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 90000,
+      "is_npc": 0,
+      "ai_param": 274,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "92": {
+    "npc_vr_yagami": {
+      "command_set": 130,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 239,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "93": {
+    "mosa_wpc": {
+      "command_set": 51,
+      "is_boss": 1,
+      "chara_id": 1,
+      "fighter_type": 1,
+      "weapon": 5545,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 258,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "94": {
+    "npc_oshikiri": {
+      "command_set": 133,
+      "is_boss": 0,
+      "chara_id": 20364,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 1,
+      "ai_param": 259,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "95": {
+    "kaito": {
+      "command_set": 13,
+      "is_boss": 1,
+      "chara_id": 12230,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 268,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "96": {
+    "sugiura": {
+      "command_set": 43,
+      "is_boss": 1,
+      "chara_id": 11944,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 269,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "97": {
+    "higashi": {
+      "command_set": 91,
+      "is_boss": 1,
+      "chara_id": 11985,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 270,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "98": {
+    "boss_kenmochi": {
+      "command_set": 144,
+      "is_boss": 1,
+      "chara_id": 22686,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 290,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "99": {
+    "boss_sadamoto": {
+      "command_set": 146,
+      "is_boss": 1,
+      "chara_id": 22645,
+      "fighter_type": 1,
+      "weapon": 6426,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 307,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "100": {
+    "boss_igarashi": {
+      "command_set": 143,
+      "is_boss": 1,
+      "chara_id": 22655,
+      "fighter_type": 1,
+      "weapon": 5777,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 95,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "101": {
+    "boss_sirakaba": {
+      "command_set": 147,
+      "is_boss": 1,
+      "chara_id": 22683,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 298,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "102": {
+    "boss_oshikiri_dlc": {
+      "command_set": 148,
+      "is_boss": 1,
+      "chara_id": 20319,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 300,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "103": {
+    "boss_senda": {
+      "command_set": 22,
+      "is_boss": 1,
+      "chara_id": 22679,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 303,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "104": {
+    "npc_senda": {
+      "command_set": 22,
+      "is_boss": 1,
+      "chara_id": 22679,
+      "fighter_type": 1,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 143,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "105": {
+    "npc_igarashi": {
+      "command_set": 145,
+      "is_boss": 1,
+      "chara_id": 22686,
+      "fighter_type": 9,
+      "weapon": 0,
+      "hp_max": 9000,
+      "is_npc": 0,
+      "ai_param": 290,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 83
+    }
+  }
+}

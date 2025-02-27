@@ -1,0 +1,256 @@
+{
+  "VERSION": 2,
+  "REVISION": 0,
+  "ROW_COUNT": 19,
+  "COLUMN_COUNT": 11,
+  "TEXT_COUNT": 6,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 546,
+  "STORAGE_MODE": 1,
+  "columnValidity": {
+    "": "0",
+    "name": "1",
+    "fullname": "1",
+    "debug_chara_id": "1",
+    "grow_id": "0",
+    "default_chara_id": "1",
+    "replace_id": "1",
+    "ctrl_type": "0",
+    "tag_id": "1",
+    "feature_explain": "0",
+    "exist_timeline": "0"
+  },
+  "columnTypes": {
+    "": -1,
+    "name": 13,
+    "fullname": 13,
+    "debug_chara_id": 1,
+    "grow_id": -1,
+    "default_chara_id": 1,
+    "replace_id": 2,
+    "ctrl_type": -1,
+    "tag_id": 1,
+    "feature_explain": -1,
+    "exist_timeline": -1
+  },
+  "COLUMN_INDICES": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    8,
+    10,
+    9,
+    7,
+    4,
+    0
+  ],
+  "0": {
+    "": {
+      "debug_chara_id": 0,
+      "default_chara_id": 0,
+      "replace_id": 0,
+      "tag_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "kiryu": {
+      "debug_chara_id": 0,
+      "default_chara_id": 0,
+      "replace_id": 0,
+      "tag_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "yagami": {
+      "name": "八神",
+      "fullname": "八神",
+      "debug_chara_id": 9607,
+      "default_chara_id": 9607,
+      "replace_id": 0,
+      "tag_id": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "majima": {
+      "debug_chara_id": 0,
+      "default_chara_id": 0,
+      "replace_id": 0,
+      "tag_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "": {
+      "debug_chara_id": 0,
+      "default_chara_id": 0,
+      "replace_id": 0,
+      "tag_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "5": {
+    "sakaida": {
+      "debug_chara_id": 0,
+      "default_chara_id": 0,
+      "replace_id": 0,
+      "tag_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "6": {
+    "": {
+      "debug_chara_id": 0,
+      "default_chara_id": 0,
+      "replace_id": 0,
+      "tag_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "7": {
+    "hoshino": {
+      "name": "星野",
+      "fullname": "星野",
+      "debug_chara_id": 20127,
+      "default_chara_id": 20127,
+      "replace_id": 0,
+      "tag_id": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "8": {
+    "test_player": {
+      "debug_chara_id": 0,
+      "default_chara_id": 0,
+      "replace_id": 2,
+      "tag_id": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "9": {
+    "": {
+      "debug_chara_id": 0,
+      "default_chara_id": 0,
+      "replace_id": 0,
+      "tag_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "10": {
+    "": {
+      "debug_chara_id": 0,
+      "default_chara_id": 0,
+      "replace_id": 0,
+      "tag_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "11": {
+    "ayaka": {
+      "debug_chara_id": 0,
+      "default_chara_id": 0,
+      "replace_id": 0,
+      "tag_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "12": {
+    "": {
+      "debug_chara_id": 0,
+      "default_chara_id": 0,
+      "replace_id": 0,
+      "tag_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "13": {
+    "": {
+      "debug_chara_id": 0,
+      "default_chara_id": 0,
+      "replace_id": 0,
+      "tag_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "14": {
+    "": {
+      "debug_chara_id": 0,
+      "default_chara_id": 0,
+      "replace_id": 0,
+      "tag_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "15": {
+    "coyote_kasuga": {
+      "debug_chara_id": 0,
+      "default_chara_id": 0,
+      "replace_id": 0,
+      "tag_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "16": {
+    "saori": {
+      "name": "沙织",
+      "fullname": "沙织",
+      "debug_chara_id": 10428,
+      "default_chara_id": 10428,
+      "replace_id": 0,
+      "tag_id": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "17": {
+    "kaito": {
+      "name": "海藤",
+      "fullname": "海藤",
+      "debug_chara_id": 12230,
+      "default_chara_id": 12230,
+      "replace_id": 0,
+      "tag_id": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "18": {
+    "saori_dress": {
+      "name": "沙织（打扮）",
+      "fullname": "沙织（打扮）",
+      "debug_chara_id": 14910,
+      "default_chara_id": 14910,
+      "replace_id": 0,
+      "tag_id": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  }
+}

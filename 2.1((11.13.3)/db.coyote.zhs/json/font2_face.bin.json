@@ -1,0 +1,1489 @@
+{
+  "VERSION": 2,
+  "REVISION": 0,
+  "ROW_COUNT": 110,
+  "COLUMN_COUNT": 12,
+  "TEXT_COUNT": 0,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 3780,
+  "STORAGE_MODE": 1,
+  "columnValidity": {
+    "": "0",
+    "source_file_name": "0",
+    "source_face_name": "0",
+    "source_face_index": "0",
+    "type": "1",
+    "character_set": "1",
+    "language": "0",
+    "texture_width": "1",
+    "texture_height": "1",
+    "texture_font_size": "1",
+    "texture_sdf_size": "1",
+    "atlas_unit": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "source_file_name": -1,
+    "source_face_name": -1,
+    "source_face_index": -1,
+    "type": 2,
+    "character_set": 2,
+    "language": -1,
+    "texture_width": 0,
+    "texture_height": 0,
+    "texture_font_size": 0,
+    "texture_sdf_size": 0,
+    "atlas_unit": 0
+  },
+  "COLUMN_INDICES": [
+    4,
+    5,
+    1,
+    3,
+    2,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    0
+  ],
+  "0": {
+    "": {
+      "type": 0,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "tt_kafutechno-u": {
+      "type": 1,
+      "character_set": 1,
+      "texture_width": 1024,
+      "texture_height": 1024,
+      "texture_font_size": 64,
+      "texture_sdf_size": 8,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "2": {
+    "tt_kafutechno-u_s": {
+      "type": 3,
+      "character_set": 1,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "3": {
+    "tbcgr_0p": {
+      "type": 1,
+      "character_set": 2,
+      "texture_width": 4096,
+      "texture_height": 2816,
+      "texture_font_size": 32,
+      "texture_sdf_size": 4,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "4": {
+    "tbcgr_0p_s": {
+      "type": 3,
+      "character_set": 2,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "5": {
+    "tbcgr_0p_bitmap": {
+      "type": 2,
+      "character_set": 2,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "6": {
+    "tbgm_0p": {
+      "type": 1,
+      "character_set": 2,
+      "texture_width": 4096,
+      "texture_height": 2816,
+      "texture_font_size": 32,
+      "texture_sdf_size": 4,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "7": {
+    "tbgm_0p_bitmap": {
+      "type": 2,
+      "character_set": 2,
+      "texture_width": 4096,
+      "texture_height": 4096,
+      "texture_font_size": 40,
+      "texture_sdf_size": 4,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "8": {
+    "metaoffcpro-condbook": {
+      "type": 1,
+      "character_set": 1,
+      "texture_width": 1024,
+      "texture_height": 1024,
+      "texture_font_size": 80,
+      "texture_sdf_size": 10,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "9": {
+    "metaoffcpro-condbook_s": {
+      "type": 3,
+      "character_set": 1,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "10": {
+    "dflihei-md": {
+      "type": 1,
+      "character_set": 3,
+      "texture_width": 8192,
+      "texture_height": 2624,
+      "texture_font_size": 32,
+      "texture_sdf_size": 4,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "11": {
+    "dflihei-md_s": {
+      "type": 3,
+      "character_set": 3,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "12": {
+    "koreangd14r": {
+      "type": 1,
+      "character_set": 5,
+      "texture_width": 8192,
+      "texture_height": 2624,
+      "texture_font_size": 32,
+      "texture_sdf_size": 4,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "13": {
+    "koreangd14r_s": {
+      "type": 3,
+      "character_set": 5,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "14": {
+    "tt_modeminb-b_s": {
+      "type": 3,
+      "character_set": 2,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "15": {
+    "tt_rodincattleya-m_s": {
+      "type": 3,
+      "character_set": 1,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "16": {
+    "tt_rodincattleya-db_s": {
+      "type": 3,
+      "character_set": 1,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "17": {
+    "tt2025m_s": {
+      "type": 3,
+      "character_set": 1,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "18": {
+    "df-kanteiryu-w11_s": {
+      "type": 3,
+      "character_set": 1,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "19": {
+    "tbgm_0p_s": {
+      "type": 3,
+      "character_set": 2,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "20": {
+    "tt_rodincattleya-m": {
+      "type": 1,
+      "character_set": 1,
+      "texture_width": 1024,
+      "texture_height": 1024,
+      "texture_font_size": 80,
+      "texture_sdf_size": 8,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "21": {
+    "tt_rodincattleya-db": {
+      "type": 1,
+      "character_set": 1,
+      "texture_width": 1280,
+      "texture_height": 1024,
+      "texture_font_size": 80,
+      "texture_sdf_size": 10,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "22": {
+    "tt2025m": {
+      "type": 1,
+      "character_set": 1,
+      "texture_width": 1024,
+      "texture_height": 1024,
+      "texture_font_size": 80,
+      "texture_sdf_size": 10,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "23": {
+    "df-kanteiryu-w11": {
+      "type": 1,
+      "character_set": 1,
+      "texture_width": 1024,
+      "texture_height": 1024,
+      "texture_font_size": 80,
+      "texture_sdf_size": 10,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "24": {
+    "default": {
+      "type": 0,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "25": {
+    "tbcgr_0p_hires": {
+      "type": 1,
+      "character_set": 2,
+      "texture_width": 8192,
+      "texture_height": 5120,
+      "texture_font_size": 64,
+      "texture_sdf_size": 8,
+      "atlas_unit": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "26": {
+    "tbgm_0p_hires": {
+      "type": 1,
+      "character_set": 2,
+      "texture_width": 8192,
+      "texture_height": 5120,
+      "texture_font_size": 64,
+      "texture_sdf_size": 8,
+      "atlas_unit": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "27": {
+    "tt_modeminblarge-h_latin_s": {
+      "type": 3,
+      "character_set": 1,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "28": {
+    "morisawaudshingo-sc-m": {
+      "type": 1,
+      "character_set": 4,
+      "texture_width": 8192,
+      "texture_height": 2624,
+      "texture_font_size": 32,
+      "texture_sdf_size": 4,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "29": {
+    "morisawaudshingo-sc-m_s": {
+      "type": 3,
+      "character_set": 4,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "30": {
+    "sugoroku_num": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "31": {
+    "casino_font": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "32": {
+    "common_font": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "33": {
+    "drone_font": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "34": {
+    "drone_num": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "35": {
+    "robot_font_enemy": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "36": {
+    "robot_font_l": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "37": {
+    "robot_font_player": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "38": {
+    "stealth_font": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "39": {
+    "timer_font": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "40": {
+    "baseball_01_judge": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "41": {
+    "baseball_03_judge": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "42": {
+    "batting_fee_num_coyote": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "43": {
+    "batting_judge": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "44": {
+    "bj_number_coyote": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "45": {
+    "total_number_coyote": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "46": {
+    "num_century_gothic_bi80_judge": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "47": {
+    "num_century_gothic_r44_judge": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "48": {
+    "num_centurygothic_b118_judge": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "49": {
+    "num_centurygothic_bi77_narrow_judge": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "50": {
+    "num_cutin_round_judge": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "51": {
+    "num_dartout_judge": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "52": {
+    "num_round_judge": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "53": {
+    "num_score_ll_sub_judge": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "54": {
+    "nokorihai_num_judge": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "55": {
+    "peeping_text": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "56": {
+    "poker_text_coyote": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "57": {
+    "sidecase_num_judge": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "58": {
+    "lv_up_text_judge": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "59": {
+    "girl_lv_judge": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "60": {
+    "lv_up_result_text_judge": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "61": {
+    "time_assign_girl_judge": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "62": {
+    "time_assign_guest_judge": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "63": {
+    "time_judge": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "64": {
+    "shop_money_judge": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "65": {
+    "store_money_judge": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "66": {
+    "cutin_num_blue": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "67": {
+    "cutin_num_red": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "68": {
+    "sugoroku_num_blue": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "69": {
+    "sugoroku_num_red": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "70": {
+    "sugoroku_total_num": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "71": {
+    "zombie_shooter_font": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "72": {
+    "zombie_shooter_num": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "73": {
+    "sega_kakugothicdb": {
+      "type": 1,
+      "character_set": 9,
+      "texture_width": 512,
+      "texture_height": 512,
+      "texture_font_size": 32,
+      "texture_sdf_size": 4,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "74": {
+    "tt_rodin-b_en_all": {
+      "type": 0,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "75": {
+    "tt_newrodin-b_en_all": {
+      "type": 1,
+      "character_set": 1,
+      "texture_width": 512,
+      "texture_height": 512,
+      "texture_font_size": 32,
+      "texture_sdf_size": 4,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "76": {
+    "tt_modeminb-b_ja_staffroll_s": {
+      "type": 3,
+      "character_set": 10,
+      "texture_width": 512,
+      "texture_height": 512,
+      "texture_font_size": 64,
+      "texture_sdf_size": 8,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "77": {
+    "koreangd14r_ja_staffroll_s": {
+      "type": 3,
+      "character_set": 10,
+      "texture_width": 512,
+      "texture_height": 512,
+      "texture_font_size": 64,
+      "texture_sdf_size": 8,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "78": {
+    "dflihei-md_ja_staffroll_s": {
+      "type": 3,
+      "character_set": 10,
+      "texture_width": 512,
+      "texture_height": 512,
+      "texture_font_size": 64,
+      "texture_sdf_size": 8,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "79": {
+    "morisawaudshingo-sc-m_staffroll_s": {
+      "type": 3,
+      "character_set": 10,
+      "texture_width": 512,
+      "texture_height": 512,
+      "texture_font_size": 64,
+      "texture_sdf_size": 8,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "80": {
+    "dflihei-md_hires": {
+      "type": 1,
+      "character_set": 3,
+      "texture_width": 16384,
+      "texture_height": 5120,
+      "texture_font_size": 64,
+      "texture_sdf_size": 8,
+      "atlas_unit": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "81": {
+    "morisawaudshingo-sc-m_hires": {
+      "type": 1,
+      "character_set": 4,
+      "texture_width": 16384,
+      "texture_height": 5120,
+      "texture_font_size": 64,
+      "texture_sdf_size": 8,
+      "atlas_unit": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "82": {
+    "koreangd14r_hires": {
+      "type": 1,
+      "character_set": 5,
+      "texture_width": 16384,
+      "texture_height": 5120,
+      "texture_font_size": 64,
+      "texture_sdf_size": 8,
+      "atlas_unit": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "83": {
+    "bet_window_casino_coyote": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "84": {
+    "tt_modeminblarge-h_latin": {
+      "type": 1,
+      "character_set": 1,
+      "texture_width": 1024,
+      "texture_height": 1024,
+      "texture_font_size": 64,
+      "texture_sdf_size": 8,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "85": {
+    "tbgm_0p_hankaku": {
+      "type": 1,
+      "character_set": 15,
+      "texture_width": 512,
+      "texture_height": 512,
+      "texture_font_size": 32,
+      "texture_sdf_size": 4,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "86": {
+    "tbgm_0p_hankaku_hires": {
+      "type": 1,
+      "character_set": 15,
+      "texture_width": 1024,
+      "texture_height": 1024,
+      "texture_font_size": 64,
+      "texture_sdf_size": 8,
+      "atlas_unit": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "87": {
+    "tbgm_0p_hankaku_s": {
+      "type": 3,
+      "character_set": 15,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "88": {
+    "tt_rodincattleya-b": {
+      "type": 1,
+      "character_set": 1,
+      "texture_width": 1280,
+      "texture_height": 1024,
+      "texture_font_size": 80,
+      "texture_sdf_size": 10,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "89": {
+    "tt_rodincattleya-b_s": {
+      "type": 3,
+      "character_set": 1,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "90": {
+    "bousou_race_speed": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "91": {
+    "sega_kakugothicdb_hires": {
+      "type": 1,
+      "character_set": 9,
+      "texture_width": 1024,
+      "texture_height": 1024,
+      "texture_font_size": 64,
+      "texture_sdf_size": 8,
+      "atlas_unit": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "92": {
+    "tbgm_0p_fallback": {
+      "type": 0,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "93": {
+    "tbgm_0p_fallback_hires": {
+      "type": 0,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "94": {
+    "tbgm_0p_fallback_for_en": {
+      "type": 1,
+      "character_set": 17,
+      "texture_width": 512,
+      "texture_height": 512,
+      "texture_font_size": 32,
+      "texture_sdf_size": 4,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "95": {
+    "tbgm_0p_fallback_for_en_hires": {
+      "type": 1,
+      "character_set": 17,
+      "texture_width": 1024,
+      "texture_height": 1024,
+      "texture_font_size": 64,
+      "texture_sdf_size": 8,
+      "atlas_unit": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "96": {
+    "dflihei-md_fallback_for_ko": {
+      "type": 1,
+      "character_set": 18,
+      "texture_width": 512,
+      "texture_height": 512,
+      "texture_font_size": 32,
+      "texture_sdf_size": 4,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "97": {
+    "dflihei-md_fallback_for_ko_hires": {
+      "type": 1,
+      "character_set": 18,
+      "texture_width": 1024,
+      "texture_height": 1024,
+      "texture_font_size": 64,
+      "texture_sdf_size": 8,
+      "atlas_unit": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "98": {
+    "tbgm_0p_fallback_for_ko": {
+      "type": 1,
+      "character_set": 18,
+      "texture_width": 512,
+      "texture_height": 512,
+      "texture_font_size": 32,
+      "texture_sdf_size": 4,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "99": {
+    "tbgm_0p_fallback_for_ko_hires": {
+      "type": 1,
+      "character_set": 18,
+      "texture_width": 1024,
+      "texture_height": 1024,
+      "texture_font_size": 64,
+      "texture_sdf_size": 8,
+      "atlas_unit": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "100": {
+    "tbgm_0p_fallback_for_zh": {
+      "type": 1,
+      "character_set": 19,
+      "texture_width": 512,
+      "texture_height": 512,
+      "texture_font_size": 32,
+      "texture_sdf_size": 4,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "101": {
+    "tbgm_0p_fallback_for_zh_hires": {
+      "type": 1,
+      "character_set": 19,
+      "texture_width": 1024,
+      "texture_height": 1024,
+      "texture_font_size": 64,
+      "texture_sdf_size": 8,
+      "atlas_unit": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "102": {
+    "morisawaudshingo-sc-m_zh": {
+      "type": 1,
+      "character_set": 19,
+      "texture_width": 512,
+      "texture_height": 512,
+      "texture_font_size": 32,
+      "texture_sdf_size": 4,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "103": {
+    "morisawaudshingo-sc-m_zh_hires": {
+      "type": 1,
+      "character_set": 19,
+      "texture_width": 1024,
+      "texture_height": 1024,
+      "texture_font_size": 64,
+      "texture_sdf_size": 8,
+      "atlas_unit": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "104": {
+    "keypad_tb_num": {
+      "type": 4,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "105": {
+    "aston_caption_en_svg": {
+      "type": 3,
+      "character_set": 1,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "106": {
+    "aston_caption_gothic_ja_svg": {
+      "type": 3,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "107": {
+    "aston_caption_zh_svg": {
+      "type": 3,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "108": {
+    "aston_caption_zhs_svg": {
+      "type": 3,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "109": {
+    "aston_caption_ko_svg": {
+      "type": 3,
+      "character_set": 0,
+      "texture_width": 0,
+      "texture_height": 0,
+      "texture_font_size": 0,
+      "texture_sdf_size": 0,
+      "atlas_unit": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 104
+    }
+  }
+}

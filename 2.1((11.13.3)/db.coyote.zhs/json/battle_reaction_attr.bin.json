@@ -1,0 +1,464 @@
+{
+  "VERSION": 2,
+  "REVISION": 0,
+  "ROW_COUNT": 54,
+  "COLUMN_COUNT": 3,
+  "TEXT_COUNT": 0,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 239,
+  "STORAGE_MODE": 1,
+  "columnValidity": {
+    "": "0",
+    "reaction_priority": "1",
+    "heat_down_ratio": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "reaction_priority": 0,
+    "heat_down_ratio": 7
+  },
+  "COLUMN_INDICES": [
+    1,
+    2,
+    0
+  ],
+  "0": {
+    "": {
+      "reaction_priority": 0,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "normal": {
+      "reaction_priority": 10,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "fly": {
+      "reaction_priority": 30,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "3": {
+    "slash": {
+      "reaction_priority": 50,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "4": {
+    "asset": {
+      "reaction_priority": 0,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "5": {
+    "break": {
+      "reaction_priority": 30,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "6": {
+    "involve": {
+      "reaction_priority": 0,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "7": {
+    "sync": {
+      "reaction_priority": 0,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "8": {
+    "no_dead": {
+      "reaction_priority": 0,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "9": {
+    "around": {
+      "reaction_priority": 0,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "10": {
+    "force_dead": {
+      "reaction_priority": 0,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "11": {
+    "piyori": {
+      "reaction_priority": 80,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "12": {
+    "cough": {
+      "reaction_priority": 200,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "13": {
+    "fire": {
+      "reaction_priority": 100,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "14": {
+    "heavy": {
+      "reaction_priority": 20,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "15": {
+    "bibiri": {
+      "reaction_priority": 80,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "16": {
+    "bomb": {
+      "reaction_priority": 90,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "17": {
+    "sting": {
+      "reaction_priority": 0,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "18": {
+    "electric": {
+      "reaction_priority": 110,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "19": {
+    "bound": {
+      "reaction_priority": 70,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "20": {
+    "launch": {
+      "reaction_priority": 60,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "21": {
+    "kirimomi": {
+      "reaction_priority": 30,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "22": {
+    "bodydown": {
+      "reaction_priority": 30,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "23": {
+    "blind": {
+      "reaction_priority": 110,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "24": {
+    "no_guard": {
+      "reaction_priority": 0,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "25": {
+    "fatal": {
+      "reaction_priority": 0,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "26": {
+    "force_guard": {
+      "reaction_priority": 0,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "27": {
+    "push": {
+      "reaction_priority": 60,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "28": {
+    "break_g": {
+      "reaction_priority": 0,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "29": {
+    "paralysis": {
+      "reaction_priority": 79,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "30": {
+    "sleep": {
+      "reaction_priority": 82,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "31": {
+    "poison": {
+      "reaction_priority": 78,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "32": {
+    "burn": {
+      "reaction_priority": 77,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "33": {
+    "cold": {
+      "reaction_priority": 75,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "34": {
+    "silence": {
+      "reaction_priority": 74,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "35": {
+    "charm": {
+      "reaction_priority": 200,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "36": {
+    "drunk": {
+      "reaction_priority": 72,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "37": {
+    "mind_control": {
+      "reaction_priority": 200,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "38": {
+    "terror": {
+      "reaction_priority": 70,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "39": {
+    "anger": {
+      "reaction_priority": 69,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "40": {
+    "avoid": {
+      "reaction_priority": 15,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "41": {
+    "sp_kinteki": {
+      "reaction_priority": 100,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "42": {
+    "sp_hato": {
+      "reaction_priority": 100,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "43": {
+    "gun": {
+      "reaction_priority": 80,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "44": {
+    "sp_yoroke": {
+      "reaction_priority": 5,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "45": {
+    "bleed": {
+      "reaction_priority": 76,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "46": {
+    "wall_bound": {
+      "reaction_priority": 100,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "47": {
+    "agony": {
+      "reaction_priority": 68,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "48": {
+    "middle": {
+      "reaction_priority": 0,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "49": {
+    "boxing_normal": {
+      "reaction_priority": 10,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "50": {
+    "agony_sway": {
+      "reaction_priority": 100,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "51": {
+    "drill": {
+      "reaction_priority": 120,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "52": {
+    "slip": {
+      "reaction_priority": 100,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "53": {
+    "kirimomi_l": {
+      "reaction_priority": 31,
+      "heat_down_ratio": 0.0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  }
+}

@@ -1,0 +1,643 @@
+{
+  "VERSION": 2,
+  "REVISION": 0,
+  "ROW_COUNT": 29,
+  "COLUMN_COUNT": 16,
+  "TEXT_COUNT": 63,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 4229,
+  "STORAGE_MODE": 1,
+  "SPECIAL_FIELD_INDICES": [
+    7,
+    8,
+    9,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "columnValidity": {
+    "": "0",
+    "msg_title": "1",
+    "msg_mission_context": "1",
+    "msg_clear_condition": "1",
+    "msg_yagami_status": "1",
+    "scenario_id": "1",
+    "tab_category": "1",
+    "msg_yagami_status[0]": "1",
+    "msg_yagami_status[1]": "1",
+    "msg_yagami_status[2]": "1",
+    "boss_texture": "1",
+    "open_scenario": "1",
+    "first_clear_reward_delivery_box": "1",
+    "dlc_id": "1",
+    "check_dlc": "1",
+    "input/game_state": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "msg_title": 13,
+    "msg_mission_context": 13,
+    "msg_clear_condition": 13,
+    "msg_yagami_status": 22,
+    "scenario_id": 1,
+    "tab_category": 2,
+    "msg_yagami_status[0]": 13,
+    "msg_yagami_status[1]": 13,
+    "msg_yagami_status[2]": 13,
+    "boss_texture": 1,
+    "open_scenario": 1,
+    "first_clear_reward_delivery_box": 2,
+    "dlc_id": 2,
+    "check_dlc": 6,
+    "input/game_state": 2
+  },
+  "COLUMN_INDICES": [
+    1,
+    15,
+    2,
+    3,
+    4,
+    7,
+    8,
+    9,
+    5,
+    6,
+    10,
+    11,
+    12,
+    13,
+    14,
+    0
+  ],
+  "0": {
+    "": {
+      "msg_yagami_status": 3,
+      "scenario_id": 0,
+      "tab_category": 0,
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 0,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "coyote01": {
+      "msg_title": "大乱战游戏",
+      "msg_mission_context": "在大乱战中打倒所有敌人吧！",
+      "msg_clear_condition": "在规定时间内打倒所有敌人",
+      "msg_yagami_status": 3,
+      "scenario_id": 6609,
+      "tab_category": 6,
+      "msg_yagami_status[0]": "可使用所有风格",
+      "msg_yagami_status[1]": "习得所有技能",
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 32,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "coyote02": {
+      "msg_title": "桐生一马",
+      "msg_mission_context": "桐生会持续恢复体力，体力低于一定值后恢复量提升。\n\n桐生无法对处于热血状态的八神使用EX动作。",
+      "msg_clear_condition": "运用所有的力量打倒敌人。",
+      "msg_yagami_status": 3,
+      "scenario_id": 6610,
+      "tab_category": 3,
+      "msg_yagami_status[0]": "可使用所有风格",
+      "msg_yagami_status[1]": "习得所有技能",
+      "boss_texture": 8981,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 0,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "3": {
+    "coyote03": {
+      "msg_title": "1",
+      "msg_mission_context": "使用EX·逼迫投降打倒敌人。\n<symbol=case_file_right_arrow>EX·逼迫投降可在架开敌人攻击等\n　使其陷入恐惧时按<symbol=button_sankaku>发动。",
+      "msg_clear_condition": "以EX·逼迫投降打倒所有敌人\n※用上述以外攻击打倒敌人将导致失败",
+      "msg_yagami_status": 3,
+      "scenario_id": 6611,
+      "tab_category": 0,
+      "msg_yagami_status[0]": "仅限使用流转风格",
+      "msg_yagami_status[1]": "习得几乎所有技能",
+      "msg_yagami_status[2]": "EX量表常驻全满",
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 34,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "4": {
+    "coyote04": {
+      "msg_title": "暗黑海藤",
+      "msg_mission_context": "打倒敌人。",
+      "msg_clear_condition": "运用所有的力量打倒敌人。",
+      "msg_yagami_status": 3,
+      "scenario_id": 6612,
+      "tab_category": 2,
+      "msg_yagami_status[0]": "可使用所有风格",
+      "msg_yagami_status[1]": "习得所有技能",
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 0,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "5": {
+    "coyote05": {
+      "msg_title": "[如龙极] 锦山彰",
+      "msg_mission_context": "打倒敌人。",
+      "msg_clear_condition": "运用所有的力量打倒敌人。",
+      "msg_yagami_status": 3,
+      "scenario_id": 0,
+      "tab_category": 0,
+      "msg_yagami_status[0]": "可使用所有风格",
+      "msg_yagami_status[1]": "习得所有技能",
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 0,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "6": {
+    "coyote06": {
+      "msg_title": "[如龙极2] 乡田龙司",
+      "msg_mission_context": "打倒敌人。",
+      "msg_clear_condition": "运用所有的力量打倒敌人。",
+      "msg_yagami_status": 3,
+      "scenario_id": 0,
+      "tab_category": 0,
+      "msg_yagami_status[0]": "可使用所有风格",
+      "msg_yagami_status[1]": "习得所有技能",
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 0,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "7": {
+    "coyote07": {
+      "msg_title": "[如龙极] 锦山彰",
+      "msg_mission_context": "打倒敌人。",
+      "msg_clear_condition": "运用所有的力量打倒敌人。",
+      "msg_yagami_status": 3,
+      "scenario_id": 3846,
+      "tab_category": 0,
+      "msg_yagami_status[0]": "可使用所有风格",
+      "msg_yagami_status[1]": "习得所有技能",
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 0,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "8": {
+    "coyote08": {
+      "msg_title": "[如龙极2] 乡田龙司",
+      "msg_mission_context": "打倒敌人。",
+      "msg_clear_condition": "运用所有的力量打倒敌人。",
+      "msg_yagami_status": 3,
+      "scenario_id": 6630,
+      "tab_category": 4,
+      "msg_yagami_status[0]": "可使用所有风格",
+      "msg_yagami_status[1]": "习得所有技能",
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 0,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "9": {
+    "coyote09": {
+      "msg_title": "古牧宗太郎",
+      "msg_mission_context": "打倒敌人。",
+      "msg_clear_condition": "运用所有的力量打倒敌人。",
+      "msg_yagami_status": 3,
+      "scenario_id": 6617,
+      "tab_category": 2,
+      "msg_yagami_status[0]": "可使用所有风格",
+      "msg_yagami_status[1]": "习得所有技能",
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 0,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "10": {
+    "coyote10": {
+      "msg_title": "测试地图",
+      "msg_yagami_status": 3,
+      "scenario_id": 6618,
+      "tab_category": 0,
+      "msg_yagami_status[0]": "十字键左<symbol=button_left>",
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 0,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "11": {
+    "coyote11": {
+      "msg_title": "Yokohama Liumang",
+      "msg_mission_context": "Take down all enemies while staying in EX Boost.",
+      "msg_clear_condition": "Defeat all enemies within the time limit.\n* Deactivating EX Boost for any reason will result in failure.",
+      "msg_yagami_status": 3,
+      "scenario_id": 6619,
+      "tab_category": 0,
+      "msg_yagami_status[0]": "All battle styles can be used.",
+      "msg_yagami_status[1]": "A moderate number of skills will be available.",
+      "msg_yagami_status[2]": "You'll have a Savage Slam Extract in your possession.",
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 42,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "12": {
+    "coyote12": {
+      "msg_yagami_status": 3,
+      "scenario_id": 0,
+      "tab_category": 0,
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 0,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "13": {
+    "coyote13": {
+      "msg_title": "千钧一发电锯",
+      "msg_mission_context": "打倒狂怒的阿久津和其伙伴",
+      "msg_clear_condition": "在规定时间内打倒敌人",
+      "msg_yagami_status": 3,
+      "scenario_id": 0,
+      "tab_category": 0,
+      "msg_yagami_status[0]": "可使用所有风格",
+      "msg_yagami_status[1]": "习得几乎所有技能",
+      "msg_yagami_status[2]": "仅剩余少许体力",
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 43,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "14": {
+    "coyote14": {
+      "msg_title": "真岛吾朗",
+      "msg_mission_context": "真岛在第二阶段将使用三种不同的风格。\n在某些特定的招式命中后会恢复少许血量。",
+      "msg_clear_condition": "运用所有的力量打倒敌人。",
+      "msg_yagami_status": 3,
+      "scenario_id": 6622,
+      "tab_category": 0,
+      "msg_yagami_status[0]": "可使用所有风格",
+      "msg_yagami_status[1]": "习得所有技能",
+      "boss_texture": 7318,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 44,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "15": {
+    "coyote15": {
+      "msg_title": "面具劝降者",
+      "msg_mission_context": "使用EX·逼迫投降打倒戴面具的男人们。\n必须先缴械敌人才能使其陷入恐惧。",
+      "msg_clear_condition": "在规定时间内以EX·逼迫投降打倒所有敌人\n※用上述以外攻击打倒敌人将导致失败",
+      "msg_yagami_status": 3,
+      "scenario_id": 6623,
+      "tab_category": 0,
+      "msg_yagami_status[0]": "仅限使用流转风格",
+      "msg_yagami_status[1]": "技能为初始状态",
+      "msg_yagami_status[2]": "EX量表常驻全满",
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 45,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "16": {
+    "coyote16": {
+      "msg_title": "亚门丈",
+      "msg_mission_context": "打倒敌人。",
+      "msg_clear_condition": "运用所有的力量打倒敌人。",
+      "msg_yagami_status": 3,
+      "scenario_id": 6624,
+      "tab_category": 2,
+      "msg_yagami_status[0]": "可使用所有风格",
+      "msg_yagami_status[1]": "习得所有技能",
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 0,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "17": {
+    "coyote17": {
+      "msg_yagami_status": 3,
+      "scenario_id": 0,
+      "tab_category": 0,
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 0,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "18": {
+    "coyote18": {
+      "msg_title": "不死身桑名",
+      "msg_mission_context": "打倒桑名。\n桑名会持续恢复体力。",
+      "msg_clear_condition": "在规定时间内打倒敌人",
+      "msg_yagami_status": 3,
+      "scenario_id": 6626,
+      "tab_category": 0,
+      "msg_yagami_status[0]": "仅限使用一闪风格",
+      "msg_yagami_status[1]": "技能为初始状态",
+      "boss_texture": 8893,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 47,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "19": {
+    "coyote19": {
+      "msg_title": "滞空八神",
+      "msg_mission_context": "打倒所有敌人。\n只有在空中发动的攻击才能对敌人造成伤害。",
+      "msg_clear_condition": "在规定时间内打倒敌人",
+      "msg_yagami_status": 3,
+      "scenario_id": 6627,
+      "tab_category": 0,
+      "msg_yagami_status[0]": "仅限使用圆舞风格",
+      "msg_yagami_status[1]": "习得几乎所有技能",
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 48,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "20": {
+    "coyote20": {
+      "msg_title": "丧尸高中(测试)",
+      "msg_mission_context": "逃出充满丧尸的高中。",
+      "msg_clear_condition": "逃出去即可通关",
+      "msg_yagami_status": 3,
+      "scenario_id": 6632,
+      "tab_category": 0,
+      "msg_yagami_status[0]": "可使用所有风格",
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 0,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "21": {
+    "coyote21": {
+      "msg_title": "生存赛",
+      "msg_mission_context": "尽可能多的打倒潜藏在神室町内的BOSS\n击败亚门丈后通关生存赛。",
+      "msg_clear_condition": "击败亚门丈",
+      "msg_yagami_status": 3,
+      "scenario_id": 6629,
+      "tab_category": 6,
+      "msg_yagami_status[0]": "可使用所有风格",
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 0,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "22": {
+    "coyote22": {
+      "msg_title": "[如龙3] 峰义孝",
+      "msg_mission_context": "打倒敌人。",
+      "msg_clear_condition": "运用所有的力量打倒敌人。",
+      "msg_yagami_status": 3,
+      "scenario_id": 6614,
+      "tab_category": 4,
+      "msg_yagami_status[0]": "可使用所有风格",
+      "msg_yagami_status[1]": "习得所有技能",
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 0,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "23": {
+    "coyote23": {
+      "msg_title": "[如龙4] 秋山骏&谷村正义",
+      "msg_mission_context": "打倒敌人。",
+      "msg_clear_condition": "运用所有的力量打倒敌人。",
+      "msg_yagami_status": 3,
+      "scenario_id": 6633,
+      "tab_category": 4,
+      "msg_yagami_status[0]": "可使用所有风格",
+      "msg_yagami_status[1]": "习得所有技能",
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 0,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "24": {
+    "coyote24": {
+      "msg_title": "[如龙5] 相泽圣人",
+      "msg_mission_context": "打倒相泽。\n相泽会持续恢复体力。",
+      "msg_clear_condition": "运用所有的力量打倒敌人。",
+      "msg_yagami_status": 3,
+      "scenario_id": 6626,
+      "tab_category": 4,
+      "msg_yagami_status[0]": "可使用所有风格",
+      "msg_yagami_status[1]": "习得所有技能",
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 0,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "25": {
+    "coyote25": {
+      "msg_title": "Hyper Soma",
+      "msg_mission_context": "Take down Soma.",
+      "msg_clear_condition": "Defeat the enemy within the time limit.",
+      "msg_yagami_status": 3,
+      "scenario_id": 0,
+      "tab_category": 0,
+      "msg_yagami_status[0]": "Only Crane style can be used.",
+      "msg_yagami_status[1]": "Only a few skills will be available.",
+      "msg_yagami_status[2]": "The EX Gauge is filled from the start.",
+      "boss_texture": 8894,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 54,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "26": {
+    "coyote26": {
+      "msg_title": "[如龙8] 大吾&冴岛&真岛",
+      "msg_mission_context": "打倒敌人。",
+      "msg_clear_condition": "运用所有的力量打倒敌人。",
+      "msg_yagami_status": 3,
+      "scenario_id": 6616,
+      "tab_category": 4,
+      "msg_yagami_status[0]": "可使用所有风格",
+      "msg_yagami_status[1]": "习得所有技能",
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 0,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "27": {
+    "coyote_test01": {
+      "msg_yagami_status": 3,
+      "scenario_id": 0,
+      "tab_category": 0,
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 0,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "28": {
+    "coyote27": {
+      "msg_title": "自定义战斗",
+      "msg_yagami_status": 3,
+      "scenario_id": 6802,
+      "tab_category": 0,
+      "msg_yagami_status[0]": "可使用所有风格",
+      "msg_yagami_status[1]": "习得所有技能",
+      "boss_texture": 0,
+      "open_scenario": 0,
+      "first_clear_reward_delivery_box": 0,
+      "dlc_id": 0,
+      "check_dlc": 0,
+      "input/game_state": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 28
+    }
+  }
+}

@@ -1,0 +1,504 @@
+{
+  "VERSION": 2,
+  "REVISION": 0,
+  "ROW_COUNT": 59,
+  "COLUMN_COUNT": 3,
+  "TEXT_COUNT": 0,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 14,
+  "STORAGE_MODE": 1,
+  "columnValidity": {
+    "": "0",
+    "ai_pack_id": "1",
+    "ai_command_id": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "ai_pack_id": 2,
+    "ai_command_id": 2
+  },
+  "COLUMN_INDICES": [
+    1,
+    2,
+    0
+  ],
+  "0": {
+    "": {
+      "ai_pack_id": 0,
+      "ai_command_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "test_unit": {
+      "ai_pack_id": 1,
+      "ai_command_id": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "test_combat": {
+      "ai_pack_id": 8,
+      "ai_command_id": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "3": {
+    "encounter": {
+      "ai_pack_id": 4,
+      "ai_command_id": 12,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "4": {
+    "combat": {
+      "ai_pack_id": 8,
+      "ai_command_id": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "5": {
+    "idle": {
+      "ai_pack_id": 2,
+      "ai_command_id": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "6": {
+    "dead": {
+      "ai_pack_id": 2,
+      "ai_command_id": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "7": {
+    "escape": {
+      "ai_pack_id": 4,
+      "ai_command_id": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "8": {
+    "trace_path": {
+      "ai_pack_id": 2,
+      "ai_command_id": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "9": {
+    "guide": {
+      "ai_pack_id": 2,
+      "ai_command_id": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "10": {
+    "mob_stay": {
+      "ai_pack_id": 3,
+      "ai_command_id": 12,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "11": {
+    "follow": {
+      "ai_pack_id": 2,
+      "ai_command_id": 6,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "12": {
+    "turn": {
+      "ai_pack_id": 2,
+      "ai_command_id": 7,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "13": {
+    "cat": {
+      "ai_pack_id": 10,
+      "ai_command_id": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "14": {
+    "barker_a": {
+      "ai_pack_id": 9,
+      "ai_command_id": 6,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "15": {
+    "barker_b": {
+      "ai_pack_id": 9,
+      "ai_command_id": 12,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "16": {
+    "barker_c": {
+      "ai_pack_id": 9,
+      "ai_command_id": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "17": {
+    "stroll": {
+      "ai_pack_id": 2,
+      "ai_command_id": 8,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "18": {
+    "supporter": {
+      "ai_pack_id": 5,
+      "ai_command_id": 6,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "19": {
+    "cheer": {
+      "ai_pack_id": 2,
+      "ai_command_id": 9,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "20": {
+    "baby_entrust": {
+      "ai_pack_id": 0,
+      "ai_command_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "21": {
+    "cat_food_select": {
+      "ai_pack_id": 0,
+      "ai_command_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "22": {
+    "player_sit_cat_cafe": {
+      "ai_pack_id": 6,
+      "ai_command_id": 11,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "23": {
+    "cat_cafe_move": {
+      "ai_pack_id": 10,
+      "ai_command_id": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "24": {
+    "cat_cafe_stay": {
+      "ai_pack_id": 10,
+      "ai_command_id": 12,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "25": {
+    "cat_cafe_meal": {
+      "ai_pack_id": 10,
+      "ai_command_id": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "26": {
+    "mob_stroll": {
+      "ai_pack_id": 3,
+      "ai_command_id": 8,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "27": {
+    "sit_chair": {
+      "ai_pack_id": 2,
+      "ai_command_id": 11,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "28": {
+    "move": {
+      "ai_pack_id": 2,
+      "ai_command_id": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "29": {
+    "player_cover": {
+      "ai_pack_id": 6,
+      "ai_command_id": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "30": {
+    "connect_talk": {
+      "ai_pack_id": 2,
+      "ai_command_id": 16,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "31": {
+    "chase": {
+      "ai_pack_id": 2,
+      "ai_command_id": 17,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "32": {
+    "player_running": {
+      "ai_pack_id": 6,
+      "ai_command_id": 17,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "33": {
+    "player_stalking": {
+      "ai_pack_id": 6,
+      "ai_command_id": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "34": {
+    "fan": {
+      "ai_pack_id": 0,
+      "ai_command_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "35": {
+    "player_mimic": {
+      "ai_pack_id": 6,
+      "ai_command_id": 18,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "36": {
+    "mind_control": {
+      "ai_pack_id": 2,
+      "ai_command_id": 19,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "37": {
+    "soldier_friend": {
+      "ai_pack_id": 5,
+      "ai_command_id": 8,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "38": {
+    "supporter_cover": {
+      "ai_pack_id": 0,
+      "ai_command_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "39": {
+    "player_idle": {
+      "ai_pack_id": 0,
+      "ai_command_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "40": {
+    "test_ai_matsuura": {
+      "ai_pack_id": 0,
+      "ai_command_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "41": {
+    "encounter_stroll": {
+      "ai_pack_id": 4,
+      "ai_command_id": 8,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "42": {
+    "encounter_trace_path": {
+      "ai_pack_id": 4,
+      "ai_command_id": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "43": {
+    "encounter_sp_swm": {
+      "ai_pack_id": 4,
+      "ai_command_id": 25,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "44": {
+    "encounter_sp_rsj": {
+      "ai_pack_id": 4,
+      "ai_command_id": 26,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "45": {
+    "encounter_sp_frm": {
+      "ai_pack_id": 4,
+      "ai_command_id": 27,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "46": {
+    "encounter_sp_frm_safe": {
+      "ai_pack_id": 4,
+      "ai_command_id": 28,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "47": {
+    "sit_chair_parts_soon": {
+      "ai_pack_id": 2,
+      "ai_command_id": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "48": {
+    "stealth_cover": {
+      "ai_pack_id": 6,
+      "ai_command_id": 30,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "49": {
+    "stealth_gomakashi": {
+      "ai_pack_id": 6,
+      "ai_command_id": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "50": {
+    "stealth_enemy_idle": {
+      "ai_pack_id": 13,
+      "ai_command_id": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "51": {
+    "stealth_enemy_trace_path": {
+      "ai_pack_id": 13,
+      "ai_command_id": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "52": {
+    "stealth_enemy_watch_player": {
+      "ai_pack_id": 0,
+      "ai_command_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "53": {
+    "player_skateboard_race": {
+      "ai_pack_id": 6,
+      "ai_command_id": 33,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "54": {
+    "stealth_enemy_sit": {
+      "ai_pack_id": 13,
+      "ai_command_id": 11,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "55": {
+    "mob_sit_chair": {
+      "ai_pack_id": 3,
+      "ai_command_id": 11,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "56": {
+    "dog": {
+      "ai_pack_id": 14,
+      "ai_command_id": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "57": {
+    "stealth_enemy_turn_loop": {
+      "ai_pack_id": 13,
+      "ai_command_id": 7,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "58": {
+    "stealth_enemy_follow": {
+      "ai_pack_id": 13,
+      "ai_command_id": 6,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  }
+}

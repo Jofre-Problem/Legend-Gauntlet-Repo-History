@@ -1,0 +1,1124 @@
+{
+  "VERSION": 2,
+  "REVISION": 0,
+  "ROW_COUNT": 59,
+  "COLUMN_COUNT": 13,
+  "TEXT_COUNT": 0,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 667,
+  "STORAGE_MODE": 1,
+  "columnValidity": {
+    "": "0",
+    "asset_id": "1",
+    "particle_always": "1",
+    "particle_get": "1",
+    "offset_pos_x": "1",
+    "offset_pos_y": "1",
+    "offset_pos_z": "1",
+    "offset_rot_x": "1",
+    "offset_rot_y": "1",
+    "offset_rot_z": "1",
+    "particle_vacuum": "1",
+    "particle_vacuum_gen": "1",
+    "is_preload": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "asset_id": 1,
+    "particle_always": 1,
+    "particle_get": 1,
+    "offset_pos_x": 7,
+    "offset_pos_y": 7,
+    "offset_pos_z": 7,
+    "offset_rot_x": 7,
+    "offset_rot_y": 7,
+    "offset_rot_z": 7,
+    "particle_vacuum": 1,
+    "particle_vacuum_gen": 1,
+    "is_preload": 6
+  },
+  "COLUMN_INDICES": [
+    1,
+    12,
+    2,
+    3,
+    10,
+    11,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    0
+  ],
+  "0": {
+    "": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "normal": {
+      "asset_id": 1,
+      "particle_always": 10514,
+      "particle_get": 10515,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 16947,
+      "particle_vacuum_gen": 16946,
+      "is_preload": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "drink": {
+      "asset_id": 1,
+      "particle_always": 10512,
+      "particle_get": 10513,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 16418,
+      "particle_vacuum_gen": 16419,
+      "is_preload": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "3": {
+    "medicine": {
+      "asset_id": 1,
+      "particle_always": 10512,
+      "particle_get": 10513,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 16418,
+      "particle_vacuum_gen": 16419,
+      "is_preload": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "4": {
+    "money": {
+      "asset_id": 1,
+      "particle_always": 10510,
+      "particle_get": 10511,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 16421,
+      "particle_vacuum_gen": 16420,
+      "is_preload": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "5": {
+    "lexus2_n_tobidashi_naifu": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "lexus2_n_kinzoku_batto": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "lexus2_n_tetsu_paipu": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "lexus2_n_kashino_bokutou": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "lexus2_n_furubita_seiryutou": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "lexus2_n_kowarekakeno_sutanngan": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "11": {
+    "lexus2_r_sinnjyuno_bokutou": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "lexus2_r_seiryuutou": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "lexus2_r_raukeno_seiryuutou": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "lexus2_r_sutangan": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "lexus2_r_kaizou_raita": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "lexus2_r_sikokujyuno_bokutou": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "judge_skill_000": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "judge_skill_001": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "judge_skill_002": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "judge_skill_003": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "lexus2_r_ayashii_katana": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "judge_medicine_natural": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "judge_medicine_play": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "judge_medicine_adult": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "judge_medicine_metal": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "judge_medicine_other": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "judge_key": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "yazawa_encounter": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "coyote_drink": {
+      "asset_id": 2038,
+      "particle_always": 10512,
+      "particle_get": 10513,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 16418,
+      "particle_vacuum_gen": 16419,
+      "is_preload": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "30": {
+    "coyote_medicine": {
+      "asset_id": 1377,
+      "particle_always": 10512,
+      "particle_get": 10513,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 16418,
+      "particle_vacuum_gen": 16419,
+      "is_preload": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "31": {
+    "coyote_money": {
+      "asset_id": 1375,
+      "particle_always": 10510,
+      "particle_get": 10511,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 16421,
+      "particle_vacuum_gen": 16420,
+      "is_preload": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "32": {
+    "coyote_item": {
+      "asset_id": 0,
+      "particle_always": 10514,
+      "particle_get": 10515,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 16947,
+      "particle_vacuum_gen": 16946,
+      "is_preload": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "33": {
+    "coyote_key": {
+      "asset_id": 0,
+      "particle_always": 10514,
+      "particle_get": 10515,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 16947,
+      "particle_vacuum_gen": 16946,
+      "is_preload": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "34": {
+    "sk8token": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "35": {
+    "coyote_vr_ath_speed": {
+      "asset_id": 0,
+      "particle_always": 16003,
+      "particle_get": 16004,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "36": {
+    "coyote_vr_ath_heal": {
+      "asset_id": 0,
+      "particle_always": 16001,
+      "particle_get": 16002,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "37": {
+    "coyote_vr_ath_special": {
+      "asset_id": 0,
+      "particle_always": 10517,
+      "particle_get": 16000,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "38": {
+    "coyote_material": {
+      "asset_id": 1377,
+      "particle_always": 10512,
+      "particle_get": 10513,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 16418,
+      "particle_vacuum_gen": 16419,
+      "is_preload": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "39": {
+    "medicine_natural": {
+      "asset_id": 0,
+      "particle_always": 36,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "40": {
+    "medicine_play": {
+      "asset_id": 0,
+      "particle_always": 37,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "41": {
+    "medicine_adult": {
+      "asset_id": 0,
+      "particle_always": 38,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "42": {
+    "medicine_metal": {
+      "asset_id": 0,
+      "particle_always": 39,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "43": {
+    "medicine_other": {
+      "asset_id": 0,
+      "particle_always": 40,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "44": {
+    "coyote_medicine_natural": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "45": {
+    "coyote_medicine_play": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "46": {
+    "coyote_medicine_adult": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "47": {
+    "coyote_medicine_metal": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "48": {
+    "coyote_medicine_other": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "49": {
+    "medicine_other_c13sp": {
+      "asset_id": 0,
+      "particle_always": 34,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "50": {
+    "coyote_skill_000": {
+      "asset_id": 2408,
+      "particle_always": 9919,
+      "particle_get": 9920,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "51": {
+    "coyote_skill_001": {
+      "asset_id": 2409,
+      "particle_always": 9921,
+      "particle_get": 9922,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "52": {
+    "coyote_skill_002": {
+      "asset_id": 2410,
+      "particle_always": 9923,
+      "particle_get": 9924,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "53": {
+    "coyote_skill_003": {
+      "asset_id": 2411,
+      "particle_always": 9925,
+      "particle_get": 9926,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "54": {
+    "coyote_item_multi": {
+      "asset_id": 0,
+      "particle_always": 29,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "55": {
+    "coyote_dog_record": {
+      "asset_id": 0,
+      "particle_always": 0,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "56": {
+    "coyote_paint": {
+      "asset_id": 0,
+      "particle_always": 16,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "57": {
+    "coyote_contact_rec": {
+      "asset_id": 0,
+      "particle_always": 32,
+      "particle_get": 0,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "58": {
+    "coyote_blue_gift": {
+      "asset_id": 1377,
+      "particle_always": 9923,
+      "particle_get": 9924,
+      "offset_pos_x": 0.0,
+      "offset_pos_y": 0.0,
+      "offset_pos_z": 0.0,
+      "offset_rot_x": 0.0,
+      "offset_rot_y": 0.0,
+      "offset_rot_z": 0.0,
+      "particle_vacuum": 0,
+      "particle_vacuum_gen": 0,
+      "is_preload": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 57
+    }
+  }
+}

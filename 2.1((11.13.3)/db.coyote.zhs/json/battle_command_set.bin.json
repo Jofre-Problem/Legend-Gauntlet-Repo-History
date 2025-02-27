@@ -1,0 +1,2536 @@
+{
+  "VERSION": 2,
+  "REVISION": 0,
+  "ROW_COUNT": 137,
+  "COLUMN_COUNT": 9,
+  "TEXT_COUNT": 0,
+  "ROW_VALIDATOR": -1,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": false,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": false,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": false,
+  "TABLE_ID": 1282,
+  "STORAGE_MODE": 1,
+  "columnValidity": {
+    "": "0",
+    "*": "1",
+    "motion_set": "1",
+    "is_sync_move_push": "1",
+    "sync_move_ang_limit": "1",
+    "sync_move_speed": "1",
+    "is_prog_sway": "1",
+    "antidown_type": "1",
+    "antiattack_type": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "*": 2,
+    "motion_set": 1,
+    "is_sync_move_push": 6,
+    "sync_move_ang_limit": 7,
+    "sync_move_speed": 7,
+    "is_prog_sway": 6,
+    "antidown_type": 2,
+    "antiattack_type": 2
+  },
+  "COLUMN_INDICES": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    0
+  ],
+  "0": {
+    "": {
+      "*": 0,
+      "motion_set": 17,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 12
+    }
+  },
+  "1": {
+    "": {
+      "*": 0,
+      "motion_set": 105,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 13
+    }
+  },
+  "2": {
+    "": {
+      "*": 0,
+      "motion_set": 0,
+      "is_sync_move_push": 1,
+      "sync_move_ang_limit": 0.3449999988079071,
+      "sync_move_speed": 0.055330000817775726,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 13
+    }
+  },
+  "3": {
+    "": {
+      "*": 0,
+      "motion_set": 0,
+      "is_sync_move_push": 1,
+      "sync_move_ang_limit": 0.3449999988079071,
+      "sync_move_speed": 0.055330000817775726,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 13
+    }
+  },
+  "4": {
+    "": {
+      "*": 0,
+      "motion_set": 0,
+      "is_sync_move_push": 1,
+      "sync_move_ang_limit": 0.19625000655651093,
+      "sync_move_speed": 0.055330000817775726,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 13
+    }
+  },
+  "5": {
+    "": {
+      "*": 0,
+      "motion_set": 0,
+      "is_sync_move_push": 1,
+      "sync_move_ang_limit": 0.3449999988079071,
+      "sync_move_speed": 0.055330000817775726,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 13
+    }
+  },
+  "6": {
+    "": {
+      "*": 0,
+      "motion_set": 236,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 74
+    }
+  },
+  "7": {
+    "": {
+      "*": 0,
+      "motion_set": 105,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 13
+    }
+  },
+  "8": {
+    "": {
+      "*": 0,
+      "motion_set": 234,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 80
+    }
+  },
+  "9": {
+    "": {
+      "*": 0,
+      "motion_set": 283,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 80
+    }
+  },
+  "10": {
+    "": {
+      "*": 0,
+      "motion_set": 117,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 0
+    }
+  },
+  "11": {
+    "": {
+      "*": 0,
+      "motion_set": 189,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 0
+    }
+  },
+  "12": {
+    "": {
+      "*": 0,
+      "motion_set": 190,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 0
+    }
+  },
+  "13": {
+    "": {
+      "*": 0,
+      "motion_set": 191,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 0
+    }
+  },
+  "14": {
+    "": {
+      "*": 0,
+      "motion_set": 192,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 0
+    }
+  },
+  "15": {
+    "": {
+      "*": 0,
+      "motion_set": 193,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 0
+    }
+  },
+  "16": {
+    "": {
+      "*": 0,
+      "motion_set": 194,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 0
+    }
+  },
+  "17": {
+    "": {
+      "*": 0,
+      "motion_set": 195,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 0
+    }
+  },
+  "18": {
+    "": {
+      "*": 0,
+      "motion_set": 196,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 0
+    }
+  },
+  "19": {
+    "": {
+      "*": 0,
+      "motion_set": 197,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 0
+    }
+  },
+  "20": {
+    "": {
+      "*": 0,
+      "motion_set": 198,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 0
+    }
+  },
+  "21": {
+    "": {
+      "*": 0,
+      "motion_set": 200,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 0
+    }
+  },
+  "22": {
+    "": {
+      "*": 0,
+      "motion_set": 199,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 0
+    }
+  },
+  "23": {
+    "": {
+      "*": 0,
+      "motion_set": 262,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 0
+    }
+  },
+  "24": {
+    "": {
+      "*": 0,
+      "motion_set": 293,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 13
+    }
+  },
+  "25": {
+    "": {
+      "*": 0,
+      "motion_set": 294,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 13
+    }
+  },
+  "26": {
+    "": {
+      "*": 0,
+      "motion_set": 295,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 0
+    }
+  },
+  "27": {
+    "": {
+      "*": 0,
+      "motion_set": 295,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 0
+    }
+  },
+  "28": {
+    "": {
+      "*": 0,
+      "motion_set": 296,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 0
+    }
+  },
+  "29": {
+    "": {
+      "*": 0,
+      "motion_set": 18,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 12
+    }
+  },
+  "30": {
+    "": {
+      "*": 0,
+      "motion_set": 22,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "31": {
+    "": {
+      "*": 0,
+      "motion_set": 23,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "32": {
+    "": {
+      "*": 0,
+      "motion_set": 82,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "33": {
+    "": {
+      "*": 0,
+      "motion_set": 241,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "34": {
+    "": {
+      "*": 0,
+      "motion_set": 88,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "35": {
+    "": {
+      "*": 0,
+      "motion_set": 201,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "36": {
+    "": {
+      "*": 0,
+      "motion_set": 202,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "37": {
+    "": {
+      "*": 0,
+      "motion_set": 203,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "38": {
+    "": {
+      "*": 0,
+      "motion_set": 204,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "39": {
+    "": {
+      "*": 0,
+      "motion_set": 205,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "40": {
+    "": {
+      "*": 0,
+      "motion_set": 206,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "41": {
+    "": {
+      "*": 0,
+      "motion_set": 209,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "42": {
+    "": {
+      "*": 0,
+      "motion_set": 208,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "43": {
+    "": {
+      "*": 0,
+      "motion_set": 210,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "44": {
+    "": {
+      "*": 0,
+      "motion_set": 211,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "45": {
+    "": {
+      "*": 0,
+      "motion_set": 212,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "46": {
+    "": {
+      "*": 0,
+      "motion_set": 213,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "47": {
+    "": {
+      "*": 0,
+      "motion_set": 214,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "48": {
+    "": {
+      "*": 0,
+      "motion_set": 237,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "49": {
+    "": {
+      "*": 0,
+      "motion_set": 238,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "50": {
+    "": {
+      "*": 0,
+      "motion_set": 235,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "51": {
+    "": {
+      "*": 0,
+      "motion_set": 207,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "52": {
+    "": {
+      "*": 0,
+      "motion_set": 204,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "53": {
+    "": {
+      "*": 0,
+      "motion_set": 217,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "54": {
+    "": {
+      "*": 0,
+      "motion_set": 218,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 0,
+      "antiattack_type": 0
+    }
+  },
+  "55": {
+    "": {
+      "*": 0,
+      "motion_set": 275,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "56": {
+    "": {
+      "*": 0,
+      "motion_set": 219,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "57": {
+    "": {
+      "*": 0,
+      "motion_set": 220,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "58": {
+    "": {
+      "*": 0,
+      "motion_set": 264,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "59": {
+    "": {
+      "*": 0,
+      "motion_set": 221,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "60": {
+    "": {
+      "*": 0,
+      "motion_set": 222,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "61": {
+    "": {
+      "*": 0,
+      "motion_set": 223,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "62": {
+    "": {
+      "*": 0,
+      "motion_set": 224,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "63": {
+    "": {
+      "*": 0,
+      "motion_set": 225,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "64": {
+    "": {
+      "*": 0,
+      "motion_set": 218,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "65": {
+    "": {
+      "*": 0,
+      "motion_set": 226,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "66": {
+    "": {
+      "*": 0,
+      "motion_set": 227,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "67": {
+    "": {
+      "*": 0,
+      "motion_set": 228,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "68": {
+    "": {
+      "*": 0,
+      "motion_set": 229,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "69": {
+    "": {
+      "*": 0,
+      "motion_set": 230,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "70": {
+    "": {
+      "*": 0,
+      "motion_set": 231,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "71": {
+    "": {
+      "*": 0,
+      "motion_set": 232,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "72": {
+    "": {
+      "*": 0,
+      "motion_set": 233,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "73": {
+    "": {
+      "*": 0,
+      "motion_set": 278,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "74": {
+    "": {
+      "*": 0,
+      "motion_set": 281,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "75": {
+    "": {
+      "*": 0,
+      "motion_set": 214,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "76": {
+    "": {
+      "*": 0,
+      "motion_set": 171,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "77": {
+    "": {
+      "*": 0,
+      "motion_set": 172,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "78": {
+    "": {
+      "*": 0,
+      "motion_set": 0,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "79": {
+    "": {
+      "*": 0,
+      "motion_set": 255,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "80": {
+    "": {
+      "*": 0,
+      "motion_set": 263,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 74
+    }
+  },
+  "81": {
+    "": {
+      "*": 0,
+      "motion_set": 105,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 13
+    }
+  },
+  "82": {
+    "": {
+      "*": 0,
+      "motion_set": 234,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 80
+    }
+  },
+  "83": {
+    "": {
+      "*": 0,
+      "motion_set": 291,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "84": {
+    "": {
+      "*": 0,
+      "motion_set": 239,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "85": {
+    "": {
+      "*": 0,
+      "motion_set": 240,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "86": {
+    "": {
+      "*": 0,
+      "motion_set": 242,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "87": {
+    "": {
+      "*": 0,
+      "motion_set": 243,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "88": {
+    "": {
+      "*": 0,
+      "motion_set": 244,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "89": {
+    "": {
+      "*": 0,
+      "motion_set": 245,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "90": {
+    "": {
+      "*": 0,
+      "motion_set": 246,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "91": {
+    "": {
+      "*": 0,
+      "motion_set": 247,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "92": {
+    "": {
+      "*": 0,
+      "motion_set": 248,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "93": {
+    "": {
+      "*": 0,
+      "motion_set": 249,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "94": {
+    "": {
+      "*": 0,
+      "motion_set": 257,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "95": {
+    "": {
+      "*": 0,
+      "motion_set": 250,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "96": {
+    "": {
+      "*": 0,
+      "motion_set": 251,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "97": {
+    "": {
+      "*": 0,
+      "motion_set": 284,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "98": {
+    "": {
+      "*": 0,
+      "motion_set": 252,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "99": {
+    "": {
+      "*": 0,
+      "motion_set": 253,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "100": {
+    "": {
+      "*": 0,
+      "motion_set": 254,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "101": {
+    "": {
+      "*": 0,
+      "motion_set": 256,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "102": {
+    "": {
+      "*": 0,
+      "motion_set": 258,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "103": {
+    "": {
+      "*": 0,
+      "motion_set": 44,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "104": {
+    "": {
+      "*": 0,
+      "motion_set": 299,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "105": {
+    "": {
+      "*": 0,
+      "motion_set": 267,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "106": {
+    "": {
+      "*": 0,
+      "motion_set": 268,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "107": {
+    "": {
+      "*": 0,
+      "motion_set": 269,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "108": {
+    "": {
+      "*": 0,
+      "motion_set": 273,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "109": {
+    "": {
+      "*": 0,
+      "motion_set": 270,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "110": {
+    "": {
+      "*": 0,
+      "motion_set": 271,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "111": {
+    "": {
+      "*": 0,
+      "motion_set": 276,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "112": {
+    "": {
+      "*": 0,
+      "motion_set": 276,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "113": {
+    "": {
+      "*": 0,
+      "motion_set": 277,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "114": {
+    "": {
+      "*": 0,
+      "motion_set": 274,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "115": {
+    "": {
+      "*": 0,
+      "motion_set": 275,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "116": {
+    "": {
+      "*": 0,
+      "motion_set": 302,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "117": {
+    "": {
+      "*": 0,
+      "motion_set": 285,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "118": {
+    "": {
+      "*": 0,
+      "motion_set": 127,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 0,
+      "antiattack_type": 0
+    }
+  },
+  "119": {
+    "": {
+      "*": 0,
+      "motion_set": 263,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "120": {
+    "": {
+      "*": 0,
+      "motion_set": 265,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "121": {
+    "": {
+      "*": 0,
+      "motion_set": 279,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "122": {
+    "": {
+      "*": 0,
+      "motion_set": 280,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "123": {
+    "": {
+      "*": 0,
+      "motion_set": 282,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "124": {
+    "": {
+      "*": 0,
+      "motion_set": 286,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "125": {
+    "": {
+      "*": 0,
+      "motion_set": 269,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "126": {
+    "": {
+      "*": 0,
+      "motion_set": 288,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "127": {
+    "": {
+      "*": 0,
+      "motion_set": 289,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "128": {
+    "": {
+      "*": 0,
+      "motion_set": 290,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "129": {
+    "": {
+      "*": 0,
+      "motion_set": 303,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "130": {
+    "": {
+      "*": 0,
+      "motion_set": 291,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "131": {
+    "": {
+      "*": 0,
+      "motion_set": 298,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "132": {
+    "": {
+      "*": 0,
+      "motion_set": 297,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "133": {
+    "": {
+      "*": 0,
+      "motion_set": 299,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "134": {
+    "": {
+      "*": 0,
+      "motion_set": 301,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "135": {
+    "": {
+      "*": 0,
+      "motion_set": 300,
+      "is_sync_move_push": 0,
+      "sync_move_ang_limit": 0.0,
+      "sync_move_speed": 0.0,
+      "is_prog_sway": 0,
+      "antidown_type": 15,
+      "antiattack_type": 13
+    }
+  },
+  "136": {
+    "": {
+      "*": 0,
+      "motion_set": 0,
+      "is_sync_move_push": 1,
+      "sync_move_ang_limit": 0.3449999988079071,
+      "sync_move_speed": 0.0333000011742115,
+      "is_prog_sway": 0,
+      "antidown_type": 12,
+      "antiattack_type": 0
+    }
+  },
+  "subTable": {
+    "ROW_COUNT": 137,
+    "COLUMN_COUNT": 3,
+    "TEXT_COUNT": 0,
+    "ROW_VALIDATOR": -1,
+    "COLUMN_VALIDATOR": -1,
+    "HAS_ROW_NAMES": true,
+    "HAS_COLUMN_NAMES": false,
+    "HAS_ROW_VALIDITY": false,
+    "HAS_COLUMN_VALIDITY": false,
+    "HAS_UNKNOWN_BITMASK": false,
+    "HAS_ROW_INDICES": false,
+    "TABLE_ID": 0,
+    "STORAGE_MODE": 0,
+    "columnTypes": {
+      "0": 0,
+      "1": 9,
+      "2": 0
+    },
+    "0": {
+      "default": {
+        "0": 1,
+        "2": 0
+      }
+    },
+    "1": {
+      "e_base": {
+        "0": 2,
+        "2": 29
+      }
+    },
+    "2": {
+      "e_boss_shindo_wpe": {
+        "0": 3,
+        "2": 72
+      }
+    },
+    "3": {
+      "e_box": {
+        "0": 4,
+        "2": 38
+      }
+    },
+    "4": {
+      "e_cpr": {
+        "0": 5,
+        "2": 30
+      }
+    },
+    "5": {
+      "e_dorobou": {
+        "0": 6,
+        "2": 47
+      }
+    },
+    "6": {
+      "e_fat": {
+        "0": 7,
+        "2": 45
+      }
+    },
+    "7": {
+      "e_goro": {
+        "0": 8,
+        "2": 31
+      }
+    },
+    "8": {
+      "e_grd": {
+        "0": 9,
+        "2": 33
+      }
+    },
+    "9": {
+      "e_infighter": {
+        "0": 10,
+        "2": 35
+      }
+    },
+    "10": {
+      "e_boss_akutsu_wp": {
+        "0": 11,
+        "2": 108
+      }
+    },
+    "11": {
+      "e_jaka_wpe": {
+        "0": 12,
+        "2": 51
+      }
+    },
+    "12": {
+      "e_kaito": {
+        "0": 13,
+        "2": 75
+      }
+    },
+    "13": {
+      "e_kakutou": {
+        "0": 14,
+        "2": 36
+      }
+    },
+    "14": {
+      "e_karate": {
+        "0": 15,
+        "2": 37
+      }
+    },
+    "15": {
+      "e_kbx": {
+        "0": 16,
+        "2": 39
+      }
+    },
+    "16": {
+      "e_kenka": {
+        "0": 17,
+        "2": 32
+      }
+    },
+    "17": {
+      "e_mosa_grow_wpb": {
+        "0": 18,
+        "2": 74
+      }
+    },
+    "18": {
+      "e_boss_watanabe": {
+        "0": 19,
+        "2": 109
+      }
+    },
+    "19": {
+      "e_mosa_base": {
+        "0": 20,
+        "2": 55
+      }
+    },
+    "20": {
+      "e_mosa_cook_wpb": {
+        "0": 21,
+        "2": 69
+      }
+    },
+    "21": {
+      "e_mosa_daigo": {
+        "0": 22,
+        "2": 58
+      }
+    },
+    "22": {
+      "e_mosa_kanda": {
+        "0": 24,
+        "2": 67
+      }
+    },
+    "23": {
+      "e_mosa_karate": {
+        "0": 25,
+        "2": 59
+      }
+    },
+    "24": {
+      "e_mosa_kick": {
+        "0": 26,
+        "2": 60
+      }
+    },
+    "25": {
+      "e_mosa_kuze": {
+        "0": 27,
+        "2": 64
+      }
+    },
+    "26": {
+      "e_mosa_lee": {
+        "0": 28,
+        "2": 66
+      }
+    },
+    "27": {
+      "e_mosa_mask": {
+        "0": 29,
+        "2": 62
+      }
+    },
+    "28": {
+      "e_mosa_rikiya": {
+        "0": 30,
+        "2": 57
+      }
+    },
+    "29": {
+      "e_mosa_sbs": {
+        "0": 31,
+        "2": 68
+      }
+    },
+    "30": {
+      "e_mosa_sougou": {
+        "0": 32,
+        "2": 65
+      }
+    },
+    "31": {
+      "e_mosa_wpd": {
+        "0": 33,
+        "2": 70
+      }
+    },
+    "32": {
+      "e_mosa_wpe": {
+        "0": 34,
+        "2": 56
+      }
+    },
+    "33": {
+      "e_mosa_wpy": {
+        "0": 35,
+        "2": 71
+      }
+    },
+    "34": {
+      "e_mosa_wrestler": {
+        "0": 36,
+        "2": 61
+      }
+    },
+    "35": {
+      "e_mosa_yahata": {
+        "0": 37,
+        "2": 63
+      }
+    },
+    "36": {
+      "e_ninja_wpe": {
+        "0": 38,
+        "2": 53
+      }
+    },
+    "37": {
+      "e_pwr": {
+        "0": 39,
+        "2": 44
+      }
+    },
+    "38": {
+      "e_rocket": {
+        "0": 40,
+        "2": 117
+      }
+    },
+    "39": {
+      "e_sbc": {
+        "0": 41,
+        "2": 46
+      }
+    },
+    "40": {
+      "e_boss_souma": {
+        "0": 42,
+        "2": 106
+      }
+    },
+    "41": {
+      "e_sugiura": {
+        "0": 43,
+        "2": 77
+      }
+    },
+    "42": {
+      "e_swayman": {
+        "0": 44,
+        "2": 54
+      }
+    },
+    "43": {
+      "e_tac": {
+        "0": 47,
+        "2": 34
+      }
+    },
+    "44": {
+      "e_wpa": {
+        "0": 48,
+        "2": 86
+      }
+    },
+    "45": {
+      "e_wpb": {
+        "0": 49,
+        "2": 87
+      }
+    },
+    "46": {
+      "e_wpb_dosu": {
+        "0": 50,
+        "2": 88
+      }
+    },
+    "47": {
+      "e_wpc": {
+        "0": 51,
+        "2": 89
+      }
+    },
+    "48": {
+      "e_wpd": {
+        "0": 52,
+        "2": 90
+      }
+    },
+    "49": {
+      "e_wpe": {
+        "0": 53,
+        "2": 91
+      }
+    },
+    "50": {
+      "e_wpg": {
+        "0": 54,
+        "2": 92
+      }
+    },
+    "51": {
+      "e_wph": {
+        "0": 55,
+        "2": 93
+      }
+    },
+    "52": {
+      "e_wpr": {
+        "0": 56,
+        "2": 99
+      }
+    },
+    "53": {
+      "e_wpt": {
+        "0": 57,
+        "2": 100
+      }
+    },
+    "54": {
+      "e_wpy": {
+        "0": 58,
+        "2": 98
+      }
+    },
+    "55": {
+      "e_ynk": {
+        "0": 59,
+        "2": 50
+      }
+    },
+    "56": {
+      "e_yopparai": {
+        "0": 60,
+        "2": 43
+      }
+    },
+    "57": {
+      "e_yoroi_wpg": {
+        "0": 61,
+        "2": 73
+      }
+    },
+    "58": {
+      "p_yagami_base": {
+        "0": 63,
+        "2": 1
+      }
+    },
+    "59": {
+      "p_yagami_eis": {
+        "0": 64,
+        "2": 8
+      }
+    },
+    "60": {
+      "p_yagami_mai": {
+        "0": 65,
+        "2": 6
+      }
+    },
+    "61": {
+      "p_yagami_sen": {
+        "0": 66,
+        "2": 7
+      }
+    },
+    "62": {
+      "p_yagami_sync_b": {
+        "0": 67,
+        "2": 4
+      }
+    },
+    "63": {
+      "p_yagami_sync_f": {
+        "0": 68,
+        "2": 2
+      }
+    },
+    "64": {
+      "p_yagami_wpa": {
+        "0": 69,
+        "2": 10
+      }
+    },
+    "65": {
+      "p_yagami_wpc": {
+        "0": 70,
+        "2": 11
+      }
+    },
+    "66": {
+      "p_yagami_wpd": {
+        "0": 71,
+        "2": 12
+      }
+    },
+    "67": {
+      "p_yagami_wpe": {
+        "0": 72,
+        "2": 13
+      }
+    },
+    "68": {
+      "p_yagami_wpf": {
+        "0": 73,
+        "2": 14
+      }
+    },
+    "69": {
+      "p_yagami_wpg": {
+        "0": 74,
+        "2": 15
+      }
+    },
+    "70": {
+      "p_yagami_wph": {
+        "0": 75,
+        "2": 16
+      }
+    },
+    "71": {
+      "p_yagami_wpi": {
+        "0": 76,
+        "2": 17
+      }
+    },
+    "72": {
+      "p_yagami_wpn": {
+        "0": 77,
+        "2": 19
+      }
+    },
+    "73": {
+      "p_yagami_wpq": {
+        "0": 78,
+        "2": 20
+      }
+    },
+    "74": {
+      "p_yagami_wpt": {
+        "0": 79,
+        "2": 18
+      }
+    },
+    "75": {
+      "p_yagami_wpv": {
+        "0": 80,
+        "2": 22
+      }
+    },
+    "76": {
+      "p_yagami_wpx": {
+        "0": 81,
+        "2": 21
+      }
+    },
+    "77": {
+      "e_boss_rk_a": {
+        "0": 82,
+        "2": 110
+      }
+    },
+    "78": {
+      "e_boss_kuwana": {
+        "0": 83,
+        "2": 105
+      }
+    },
+    "79": {
+      "e_zako2": {
+        "0": 84,
+        "2": 48
+      }
+    },
+    "80": {
+      "e_zako3": {
+        "0": 85,
+        "2": 49
+      }
+    },
+    "81": {
+      "e_box_mini": {
+        "0": 86,
+        "2": 84
+      }
+    },
+    "82": {
+      "e_wpn": {
+        "0": 87,
+        "2": 96
+      }
+    },
+    "83": {
+      "e_wpx": {
+        "0": 88,
+        "2": 97
+      }
+    },
+    "84": {
+      "e_boss_rugby": {
+        "0": 89,
+        "2": 85
+      }
+    },
+    "85": {
+      "e_higashi": {
+        "0": 91,
+        "2": 79
+      }
+    },
+    "86": {
+      "mg_e_box": {
+        "0": 92,
+        "2": 101
+      }
+    },
+    "87": {
+      "e_enbu_kenpo": {
+        "0": 93,
+        "2": 42
+      }
+    },
+    "88": {
+      "e_hagoku_kenpo": {
+        "0": 94,
+        "2": 41
+      }
+    },
+    "89": {
+      "e_issen_kenpo": {
+        "0": 95,
+        "2": 40
+      }
+    },
+    "90": {
+      "e_wpi": {
+        "0": 96,
+        "2": 94
+      }
+    },
+    "91": {
+      "e_wpj": {
+        "0": 97,
+        "2": 95
+      }
+    },
+    "92": {
+      "e_ninja": {
+        "0": 98,
+        "2": 52
+      }
+    },
+    "93": {
+      "e_boss_street": {
+        "0": 99,
+        "2": 80
+      }
+    },
+    "94": {
+      "p_yagami_eis_sync": {
+        "0": 100,
+        "2": 5
+      }
+    },
+    "95": {
+      "e_boss_rk_e": {
+        "0": 101,
+        "2": 115
+      }
+    },
+    "96": {
+      "e_boss_rk_c": {
+        "0": 102,
+        "2": 112
+      }
+    },
+    "97": {
+      "mg_e_box_in_fighter": {
+        "0": 103,
+        "2": 119
+      }
+    },
+    "98": {
+      "mg_e_box_out_boxer": {
+        "0": 104,
+        "2": 120
+      }
+    },
+    "99": {
+      "p_saori": {
+        "0": 105,
+        "2": 23
+      }
+    },
+    "100": {
+      "e_boss_tesso_claw": {
+        "0": 106,
+        "2": 103
+      }
+    },
+    "101": {
+      "e_boss_akutsu": {
+        "0": 107,
+        "2": 107
+      }
+    },
+    "102": {
+      "e_boss_bad_boy": {
+        "0": 108,
+        "2": 104
+      }
+    },
+    "103": {
+      "e_boss_rk_d": {
+        "0": 109,
+        "2": 114
+      }
+    },
+    "104": {
+      "e_boss_rk_b": {
+        "0": 110,
+        "2": 111
+      }
+    },
+    "105": {
+      "mg_e_box_ban_nou": {
+        "0": 19,
+        "2": 109
+      }
+    },
+    "106": {
+      "mg_e_box_tyson": {
+        "0": 112,
+        "2": 122
+      }
+    },
+    "107": {
+      "mg_e_box_rns": {
+        "0": 113,
+        "2": 123
+      }
+    },
+    "108": {
+      "e_sugiura_wp": {
+        "0": 114,
+        "2": 78
+      }
+    },
+    "109": {
+      "p_yagami_box": {
+        "0": 115,
+        "2": 9
+      }
+    },
+    "110": {
+      "e_wizard": {
+        "0": 116,
+        "2": 116
+      }
+    },
+    "111": {
+      "e_tiger": {
+        "0": 117,
+        "2": 118
+      }
+    },
+    "112": {
+      "e_j_boss_honda": {
+        "0": 118,
+        "2": 125
+      }
+    },
+    "113": {
+      "e_j_boss_kasai": {
+        "0": 120,
+        "2": 126
+      }
+    },
+    "114": {
+      "e_j_boss_koga": {
+        "0": 121,
+        "2": 127
+      }
+    },
+    "115": {
+      "e_j_boss_sakakiba": {
+        "0": 122,
+        "2": 124
+      }
+    },
+    "116": {
+      "e_box_mini_lever_atk": {
+        "0": 123,
+        "2": 128
+      }
+    },
+    "117": {
+      "e_boss_rk_c_wpy": {
+        "0": 127,
+        "2": 113
+      }
+    },
+    "118": {
+      "e_kaito_old": {
+        "0": 128,
+        "2": 76
+      }
+    },
+    "119": {
+      "e_yagami_eis": {
+        "0": 129,
+        "2": 82
+      }
+    },
+    "120": {
+      "e_yagami_mai": {
+        "0": 130,
+        "2": 80
+      }
+    },
+    "121": {
+      "e_yagami_sen": {
+        "0": 131,
+        "2": 81
+      }
+    },
+    "122": {
+      "e_boss_amon": {
+        "0": 132,
+        "2": 129
+      }
+    },
+    "123": {
+      "e_oshikiri_kenya": {
+        "0": 133,
+        "2": 83
+      }
+    },
+    "124": {
+      "e_boss_amon_box": {
+        "0": 134,
+        "2": 130
+      }
+    },
+    "125": {
+      "p_kaito_kac": {
+        "0": 136,
+        "2": 24
+      }
+    },
+    "126": {
+      "p_kaito_tep": {
+        "0": 137,
+        "2": 25
+      }
+    },
+    "127": {
+      "p_kaito_wpc": {
+        "0": 140,
+        "2": 26
+      }
+    },
+    "128": {
+      "p_kaito_wph": {
+        "0": 141,
+        "2": 28
+      }
+    },
+    "129": {
+      "p_yagami_mai_sync_f": {
+        "0": 142,
+        "2": 3
+      }
+    },
+    "130": {
+      "e_boss_igarashi": {
+        "0": 143,
+        "2": 134
+      }
+    },
+    "131": {
+      "e_boss_kenmochi": {
+        "0": 144,
+        "2": 131
+      }
+    },
+    "132": {
+      "e_boss_kenmochi_wp": {
+        "0": 145,
+        "2": 132
+      }
+    },
+    "133": {
+      "e_boss_sadamoto": {
+        "0": 146,
+        "2": 133
+      }
+    },
+    "134": {
+      "e_boss_sirakaba": {
+        "0": 147,
+        "2": 135
+      }
+    },
+    "135": {
+      "p_kaito_wpf": {
+        "0": 149,
+        "2": 27
+      }
+    },
+    "136": {
+      "e_j_boss_honda_sync": {
+        "0": 119,
+        "2": 136
+      }
+    }
+  }
+}

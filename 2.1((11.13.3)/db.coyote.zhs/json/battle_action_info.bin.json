@@ -1,0 +1,7222 @@
+{
+  "VERSION": 2,
+  "REVISION": 0,
+  "ROW_COUNT": 340,
+  "COLUMN_COUNT": 13,
+  "TEXT_COUNT": 0,
+  "ROW_VALIDATOR": -1,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": false,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": false,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": false,
+  "TABLE_ID": 189,
+  "STORAGE_MODE": 1,
+  "columnValidity": {
+    "": "0",
+    "action": "0",
+    "hit": "1",
+    "guard": "1",
+    "near_mot": "1",
+    "hi_mot": "1",
+    "low_mot": "1",
+    "near_hi_mot": "1",
+    "near_low_mot": "1",
+    "*": "1",
+    "is_each_bep": "1",
+    "guard_to_damage": "1",
+    "guard_break": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "action": -1,
+    "hit": 1,
+    "guard": 1,
+    "near_mot": 1,
+    "hi_mot": 1,
+    "low_mot": 1,
+    "near_hi_mot": 1,
+    "near_low_mot": 1,
+    "*": 1,
+    "is_each_bep": 6,
+    "guard_to_damage": 1,
+    "guard_break": 1
+  },
+  "COLUMN_INDICES": [
+    9,
+    2,
+    3,
+    12,
+    11,
+    4,
+    5,
+    6,
+    7,
+    8,
+    10,
+    1,
+    0
+  ],
+  "0": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "1": {
+    "": {
+      "hit": 0,
+      "guard": 304,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "2": {
+    "": {
+      "hit": 0,
+      "guard": 13477,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "3": {
+    "": {
+      "hit": 0,
+      "guard": 2349,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "4": {
+    "": {
+      "hit": 0,
+      "guard": 2350,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "5": {
+    "": {
+      "hit": 0,
+      "guard": 2351,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "6": {
+    "": {
+      "hit": 0,
+      "guard": 2352,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "7": {
+    "": {
+      "hit": 0,
+      "guard": 2353,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "8": {
+    "": {
+      "hit": 0,
+      "guard": 10046,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "9": {
+    "": {
+      "hit": 0,
+      "guard": 7275,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "10": {
+    "": {
+      "hit": 0,
+      "guard": 14054,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "11": {
+    "": {
+      "hit": 0,
+      "guard": 358,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "12": {
+    "": {
+      "hit": 0,
+      "guard": 13491,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "13": {
+    "": {
+      "hit": 0,
+      "guard": 357,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "14": {
+    "": {
+      "hit": 0,
+      "guard": 12196,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "15": {
+    "": {
+      "hit": 0,
+      "guard": 9198,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "16": {
+    "": {
+      "hit": 0,
+      "guard": 14055,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "17": {
+    "": {
+      "hit": 0,
+      "guard": 8909,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "18": {
+    "": {
+      "hit": 0,
+      "guard": 2533,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "19": {
+    "": {
+      "hit": 0,
+      "guard": 2534,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "20": {
+    "": {
+      "hit": 0,
+      "guard": 2535,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "21": {
+    "": {
+      "hit": 0,
+      "guard": 2536,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "22": {
+    "": {
+      "hit": 0,
+      "guard": 2537,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "23": {
+    "": {
+      "hit": 0,
+      "guard": 10957,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "24": {
+    "": {
+      "hit": 0,
+      "guard": 306,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "25": {
+    "": {
+      "hit": 0,
+      "guard": 887,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "26": {
+    "": {
+      "hit": 0,
+      "guard": 886,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "27": {
+    "": {
+      "hit": 0,
+      "guard": 10956,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "28": {
+    "": {
+      "hit": 0,
+      "guard": 1227,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "29": {
+    "": {
+      "hit": 0,
+      "guard": 909,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "30": {
+    "": {
+      "hit": 0,
+      "guard": 13479,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "31": {
+    "": {
+      "hit": 0,
+      "guard": 5569,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "32": {
+    "": {
+      "hit": 0,
+      "guard": 8772,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "33": {
+    "": {
+      "hit": 0,
+      "guard": 8923,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "34": {
+    "": {
+      "hit": 0,
+      "guard": 8922,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "35": {
+    "": {
+      "hit": 0,
+      "guard": 8792,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "36": {
+    "": {
+      "hit": 0,
+      "guard": 8791,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "37": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 12080,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 1,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "38": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 12037,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 1,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "39": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 12039,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 1,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "40": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 6298,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 1,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "41": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 3336,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "42": {
+    "": {
+      "hit": 0,
+      "guard": 3703,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "43": {
+    "": {
+      "hit": 0,
+      "guard": 3704,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "44": {
+    "": {
+      "hit": 0,
+      "guard": 3705,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "45": {
+    "": {
+      "hit": 0,
+      "guard": 3706,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "46": {
+    "": {
+      "hit": 0,
+      "guard": 3707,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "47": {
+    "": {
+      "hit": 0,
+      "guard": 3708,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "48": {
+    "": {
+      "hit": 0,
+      "guard": 5879,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "49": {
+    "": {
+      "hit": 0,
+      "guard": 11740,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "50": {
+    "": {
+      "hit": 0,
+      "guard": 11730,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "51": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 2912,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 1,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "52": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 2910,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 1,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "53": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 11665,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 1,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "54": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 12092,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 1,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "55": {
+    "": {
+      "hit": 0,
+      "guard": 7075,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "56": {
+    "": {
+      "hit": 0,
+      "guard": 8643,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "57": {
+    "": {
+      "hit": 0,
+      "guard": 8465,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "58": {
+    "": {
+      "hit": 0,
+      "guard": 5152,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "59": {
+    "": {
+      "hit": 0,
+      "guard": 3759,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "60": {
+    "": {
+      "hit": 0,
+      "guard": 5130,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "61": {
+    "": {
+      "hit": 0,
+      "guard": 5129,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "62": {
+    "": {
+      "hit": 0,
+      "guard": 2296,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "63": {
+    "": {
+      "hit": 0,
+      "guard": 2295,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "64": {
+    "": {
+      "hit": 0,
+      "guard": 2294,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "65": {
+    "": {
+      "hit": 0,
+      "guard": 2293,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "66": {
+    "": {
+      "hit": 0,
+      "guard": 6967,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "67": {
+    "": {
+      "hit": 0,
+      "guard": 6966,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "68": {
+    "": {
+      "hit": 0,
+      "guard": 6173,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "69": {
+    "": {
+      "hit": 0,
+      "guard": 6172,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "70": {
+    "": {
+      "hit": 0,
+      "guard": 5072,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "71": {
+    "": {
+      "hit": 0,
+      "guard": 1344,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "72": {
+    "": {
+      "hit": 0,
+      "guard": 1343,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "73": {
+    "": {
+      "hit": 0,
+      "guard": 1342,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "74": {
+    "": {
+      "hit": 0,
+      "guard": 1341,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "75": {
+    "": {
+      "hit": 0,
+      "guard": 1340,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "76": {
+    "": {
+      "hit": 0,
+      "guard": 6942,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "77": {
+    "": {
+      "hit": 0,
+      "guard": 6941,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "78": {
+    "": {
+      "hit": 0,
+      "guard": 11929,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "79": {
+    "": {
+      "hit": 0,
+      "guard": 11928,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "80": {
+    "": {
+      "hit": 0,
+      "guard": 11927,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "81": {
+    "": {
+      "hit": 0,
+      "guard": 11926,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "82": {
+    "": {
+      "hit": 0,
+      "guard": 11925,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "83": {
+    "": {
+      "hit": 0,
+      "guard": 11924,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "84": {
+    "": {
+      "hit": 0,
+      "guard": 11923,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "85": {
+    "": {
+      "hit": 0,
+      "guard": 11922,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "86": {
+    "": {
+      "hit": 0,
+      "guard": 11921,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "87": {
+    "": {
+      "hit": 0,
+      "guard": 11917,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "88": {
+    "": {
+      "hit": 0,
+      "guard": 5804,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "89": {
+    "": {
+      "hit": 0,
+      "guard": 2900,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "90": {
+    "": {
+      "hit": 0,
+      "guard": 2901,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "91": {
+    "": {
+      "hit": 0,
+      "guard": 2483,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "92": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 12094,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 1,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "93": {
+    "": {
+      "hit": 0,
+      "guard": 14126,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "94": {
+    "": {
+      "hit": 0,
+      "guard": 12997,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "95": {
+    "": {
+      "hit": 0,
+      "guard": 12998,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "96": {
+    "": {
+      "hit": 0,
+      "guard": 12999,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "97": {
+    "": {
+      "hit": 0,
+      "guard": 2822,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "98": {
+    "": {
+      "hit": 0,
+      "guard": 12893,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "99": {
+    "": {
+      "hit": 0,
+      "guard": 12894,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "100": {
+    "": {
+      "hit": 0,
+      "guard": 12895,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "101": {
+    "": {
+      "hit": 0,
+      "guard": 14096,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "102": {
+    "": {
+      "hit": 0,
+      "guard": 305,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "103": {
+    "": {
+      "hit": 0,
+      "guard": 2297,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "104": {
+    "": {
+      "hit": 0,
+      "guard": 13484,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "105": {
+    "": {
+      "hit": 0,
+      "guard": 352,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "106": {
+    "": {
+      "hit": 0,
+      "guard": 13483,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "107": {
+    "": {
+      "hit": 0,
+      "guard": 8771,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "108": {
+    "": {
+      "hit": 0,
+      "guard": 8369,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "109": {
+    "": {
+      "hit": 0,
+      "guard": 8770,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "110": {
+    "": {
+      "hit": 0,
+      "guard": 8046,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "111": {
+    "": {
+      "hit": 0,
+      "guard": 8045,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "112": {
+    "": {
+      "hit": 0,
+      "guard": 8044,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "113": {
+    "": {
+      "hit": 0,
+      "guard": 12513,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "114": {
+    "": {
+      "hit": 0,
+      "guard": 7327,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "115": {
+    "": {
+      "hit": 0,
+      "guard": 6926,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "116": {
+    "": {
+      "hit": 0,
+      "guard": 13658,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "117": {
+    "": {
+      "hit": 0,
+      "guard": 13657,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "118": {
+    "": {
+      "hit": 0,
+      "guard": 13656,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "119": {
+    "": {
+      "hit": 0,
+      "guard": 13655,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "120": {
+    "": {
+      "hit": 0,
+      "guard": 14322,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "121": {
+    "": {
+      "hit": 0,
+      "guard": 244,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "122": {
+    "": {
+      "hit": 0,
+      "guard": 1004,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "123": {
+    "": {
+      "hit": 0,
+      "guard": 13320,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "124": {
+    "": {
+      "hit": 0,
+      "guard": 13319,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "125": {
+    "": {
+      "hit": 0,
+      "guard": 368,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "126": {
+    "": {
+      "hit": 0,
+      "guard": 8900,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "127": {
+    "": {
+      "hit": 0,
+      "guard": 3007,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "128": {
+    "": {
+      "hit": 0,
+      "guard": 6113,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "129": {
+    "": {
+      "hit": 0,
+      "guard": 6112,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "130": {
+    "": {
+      "hit": 0,
+      "guard": 6111,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "131": {
+    "": {
+      "hit": 0,
+      "guard": 13472,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "132": {
+    "": {
+      "hit": 0,
+      "guard": 1512,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "133": {
+    "": {
+      "hit": 0,
+      "guard": 8559,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "134": {
+    "": {
+      "hit": 0,
+      "guard": 11545,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "135": {
+    "": {
+      "hit": 0,
+      "guard": 11544,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "136": {
+    "": {
+      "hit": 0,
+      "guard": 9151,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "137": {
+    "": {
+      "hit": 0,
+      "guard": 9094,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "138": {
+    "": {
+      "hit": 0,
+      "guard": 10935,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "139": {
+    "": {
+      "hit": 0,
+      "guard": 11795,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "140": {
+    "": {
+      "hit": 0,
+      "guard": 11794,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "141": {
+    "": {
+      "hit": 0,
+      "guard": 9320,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "142": {
+    "": {
+      "hit": 0,
+      "guard": 14234,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "143": {
+    "": {
+      "hit": 0,
+      "guard": 6551,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "144": {
+    "": {
+      "hit": 0,
+      "guard": 6549,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "145": {
+    "": {
+      "hit": 0,
+      "guard": 6548,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "146": {
+    "": {
+      "hit": 0,
+      "guard": 6547,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "147": {
+    "": {
+      "hit": 0,
+      "guard": 7240,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "148": {
+    "": {
+      "hit": 0,
+      "guard": 13922,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "149": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 2747,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 1,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "150": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 6297,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 1,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "151": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 13992,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 1,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "152": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 348,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 1,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "153": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 3013,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 1,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "154": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 1507,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 1,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "155": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 11562,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 1,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "156": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 1606,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 1,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "157": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 6592,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "158": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 11177,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "159": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 11178,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "160": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 11179,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "161": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 11180,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "162": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 222,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "163": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 7474,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "164": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 10905,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "165": {
+    "": {
+      "hit": 0,
+      "guard": 11190,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "166": {
+    "": {
+      "hit": 0,
+      "guard": 10938,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "167": {
+    "": {
+      "hit": 0,
+      "guard": 2236,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "168": {
+    "": {
+      "hit": 0,
+      "guard": 355,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "169": {
+    "": {
+      "hit": 0,
+      "guard": 6809,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "170": {
+    "": {
+      "hit": 0,
+      "guard": 7905,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "171": {
+    "": {
+      "hit": 0,
+      "guard": 7114,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "172": {
+    "": {
+      "hit": 0,
+      "guard": 7113,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "173": {
+    "": {
+      "hit": 0,
+      "guard": 13231,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "174": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 13397,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "175": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 2560,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "176": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 9127,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "177": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 9106,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "178": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 78,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "179": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 8032,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "180": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 8300,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "181": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 8298,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "182": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 7606,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "183": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 14107,
+      "low_mot": 14107,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "184": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 9170,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "185": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 9171,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "186": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 1513,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "187": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 2223,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "188": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 7139,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "189": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 7131,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "190": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 6489,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "191": {
+    "": {
+      "hit": 0,
+      "guard": 11043,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "192": {
+    "": {
+      "hit": 0,
+      "guard": 11045,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "193": {
+    "": {
+      "hit": 0,
+      "guard": 11044,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 11044,
+      "guard_break": 0
+    }
+  },
+  "194": {
+    "": {
+      "hit": 0,
+      "guard": 13507,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 13507
+    }
+  },
+  "195": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 10842,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "196": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 93,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "197": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 10944,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "198": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 12335,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "199": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 8089,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "200": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 10887,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "201": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 12418,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "202": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 12271,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "203": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 12333,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "204": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 12667,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "205": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 12416,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "206": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 12592,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "207": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 12668,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "208": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 12670,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "209": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 12591,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "210": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 10889,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "211": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5761,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "212": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 6578,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "213": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 6576,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "214": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5760,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "215": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 8435,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "216": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 10847,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "217": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5528,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "218": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5526,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "219": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5524,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "220": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5522,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "221": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5520,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "222": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 6396,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "223": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 13921,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "224": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 370,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "225": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5515,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "226": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5514,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "227": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 6388,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "228": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 6386,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "229": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 6384,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "230": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 6382,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "231": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 12459,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "232": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 6380,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "233": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 6378,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "234": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 12456,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "235": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 11480,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "236": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 11334,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "237": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 7915,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "238": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 7913,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "239": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5843,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "240": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 8127,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "241": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 902,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "242": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 900,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "243": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 234,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "244": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 216,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "245": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 9269,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "246": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 9342,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "247": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 9378,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "248": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 9433,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "249": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 9469,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "250": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 10618,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "251": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 10090,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "252": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 1333,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "253": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 4909,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "254": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 4911,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "255": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5957,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "256": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5959,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "257": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5961,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "258": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5963,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "259": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5965,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "260": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5967,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "261": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5970,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "262": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5974,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "263": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5976,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "264": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5977,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "265": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5984,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "266": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5986,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "267": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5990,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "268": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5991,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "269": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5993,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "270": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 5995,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "271": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 13032,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "272": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 13034,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "273": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 13037,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "274": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 13039,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "275": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 13041,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "276": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 13043,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "277": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 13045,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "278": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 13047,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "279": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 13049,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "280": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 13051,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "281": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 13053,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "282": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 13055,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "283": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 14381,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "284": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 2986,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "285": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 3025,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "286": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 3027,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "287": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 4497,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "288": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 4499,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "289": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 4524,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "290": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 4526,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "291": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 4528,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "292": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 4530,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "293": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 4550,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "294": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 4552,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "295": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 6841,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "296": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 7703,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "297": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 12149,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "298": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 14137,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "299": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 14139,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "300": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 14991,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "301": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 14993,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "302": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 14995,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "303": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 14997,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "304": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 14999,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "305": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15001,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "306": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15003,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "307": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15005,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "308": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15009,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "309": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15011,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "310": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15014,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "311": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15016,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "312": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15021,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "313": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15023,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "314": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15025,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "315": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15027,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "316": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15122,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "317": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15124,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "318": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15126,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "319": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15128,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "320": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15130,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "321": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15132,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "322": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15134,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "323": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15136,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "324": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15139,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "325": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15143,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "326": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15145,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "327": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15148,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "328": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15150,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "329": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15158,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "330": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15160,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "331": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15166,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "332": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 15168,
+      "hi_mot": 0,
+      "low_mot": 0,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "333": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 15299,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "334": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 15302,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "335": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 15306,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "336": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 15310,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "337": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 15466,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "338": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 15470,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "339": {
+    "": {
+      "hit": 0,
+      "guard": 0,
+      "near_mot": 0,
+      "hi_mot": 0,
+      "low_mot": 15474,
+      "near_hi_mot": 0,
+      "near_low_mot": 0,
+      "*": 0,
+      "is_each_bep": 0,
+      "guard_to_damage": 0,
+      "guard_break": 0
+    }
+  },
+  "subTable": {
+    "ROW_COUNT": 340,
+    "COLUMN_COUNT": 3,
+    "TEXT_COUNT": 0,
+    "ROW_VALIDATOR": -1,
+    "COLUMN_VALIDATOR": -1,
+    "HAS_ROW_NAMES": true,
+    "HAS_COLUMN_NAMES": false,
+    "HAS_ROW_VALIDITY": false,
+    "HAS_COLUMN_VALIDITY": false,
+    "HAS_UNKNOWN_BITMASK": false,
+    "HAS_ROW_INDICES": false,
+    "TABLE_ID": 0,
+    "STORAGE_MODE": 0,
+    "columnTypes": {
+      "0": 0,
+      "1": 9,
+      "2": 0
+    },
+    "0": {
+      "P_YAG_BTL_WPX_ath_thw_f": {
+        "0": 77,
+        "2": 178
+      }
+    },
+    "1": {
+      "P_YAG_BTL_BOX_ath_uprr_md": {
+        "0": 93,
+        "2": 196
+      }
+    },
+    "2": {
+      "P_YAG_BTL_SUD_ath_BKL_lf_md": {
+        "0": 215,
+        "2": 244
+      }
+    },
+    "3": {
+      "P_YAG_BTL_SUD_ath_dwn_stmp": {
+        "0": 221,
+        "2": 162
+      }
+    },
+    "4": {
+      "E_IBX_BTL_SUD_ath_sttl_md": {
+        "0": 370,
+        "2": 224
+      }
+    },
+    "5": {
+      "E_YAH_BTL_SUD_ath_b_01": {
+        "0": 371,
+        "2": 145
+      }
+    },
+    "6": {
+      "E_KTO_BTL_SUD_ath_b_02": {
+        "0": 374,
+        "2": 82
+      }
+    },
+    "7": {
+      "E_KTO_BTL_SUD_ath_a_03": {
+        "0": 375,
+        "2": 80
+      }
+    },
+    "8": {
+      "E_BOX_BTL_SUD_ath_jab": {
+        "0": 725,
+        "2": 96
+      }
+    },
+    "9": {
+      "E_MSK_BTL_SUD_ath_c_02": {
+        "0": 878,
+        "2": 128
+      }
+    },
+    "10": {
+      "E_OBX_BTL_SUD_ath_uprr_md": {
+        "0": 900,
+        "2": 242
+      }
+    },
+    "11": {
+      "E_OBX_BTL_SUD_ath_uprl_md": {
+        "0": 902,
+        "2": 241
+      }
+    },
+    "12": {
+      "empty": {
+        "0": 905,
+        "2": 0
+      }
+    },
+    "13": {
+      "E_GRD_BTL_SUD_ath_hok_r": {
+        "0": 1133,
+        "2": 2
+      }
+    },
+    "14": {
+      "E_JAK_BTL_SUD_ath_2ren": {
+        "0": 1319,
+        "2": 103
+      }
+    },
+    "15": {
+      "P_YAG_BTL_SEN_ath_04": {
+        "0": 1348,
+        "2": 161
+      }
+    },
+    "16": {
+      "E_RNS_BTL_BOX_ath_uprl_md": {
+        "0": 1404,
+        "2": 285
+      }
+    },
+    "17": {
+      "E_INF_BTL_SUD_ath_hvy": {
+        "0": 1488,
+        "2": 61
+      }
+    },
+    "18": {
+      "E_DGO_BTL_SUD_ath_a_05_hvy": {
+        "0": 1501,
+        "2": 120
+      }
+    },
+    "19": {
+      "E_MTO_BTL_SUD_ath_rolsbt": {
+        "0": 1511,
+        "2": 132
+      }
+    },
+    "20": {
+      "C_COM_BTL_SUD_dmg_upsdwnF_f": {
+        "0": 1517,
+        "2": 187
+      }
+    },
+    "21": {
+      "E_NML_BTL_WPH_ath_thw_f": {
+        "0": 1605,
+        "2": 156
+      }
+    },
+    "22": {
+      "E_NML_BTL_ZKA_ath_chp_r": {
+        "0": 2146,
+        "2": 3
+      }
+    },
+    "23": {
+      "E_NML_BTL_ZKA_ath_hok_l": {
+        "0": 2147,
+        "2": 4
+      }
+    },
+    "24": {
+      "E_NML_BTL_ZKA_ath_kik_l": {
+        "0": 2148,
+        "2": 5
+      }
+    },
+    "25": {
+      "E_NML_BTL_ZKA_ath_kik_r": {
+        "0": 2149,
+        "2": 6
+      }
+    },
+    "26": {
+      "E_NML_BTL_ZKA_ath_pch_r": {
+        "0": 2150,
+        "2": 7
+      }
+    },
+    "27": {
+      "E_INF_BTL_SUD_ath_b_04": {
+        "0": 2155,
+        "2": 60
+      }
+    },
+    "28": {
+      "E_CPR_BTL_SUD_ath_chp": {
+        "0": 2184,
+        "2": 20
+      }
+    },
+    "29": {
+      "E_CPR_BTL_SUD_ath_kik": {
+        "0": 2186,
+        "2": 22
+      }
+    },
+    "30": {
+      "E_GOR_BTL_SUD_ath_a_01": {
+        "0": 2187,
+        "2": 23
+      }
+    },
+    "31": {
+      "E_GOR_BTL_SUD_ath_a_02": {
+        "0": 2188,
+        "2": 24
+      }
+    },
+    "32": {
+      "E_GOR_BTL_SUD_ath_a_03": {
+        "0": 2189,
+        "2": 25
+      }
+    },
+    "33": {
+      "E_GOR_BTL_SUD_ath_a_04": {
+        "0": 2190,
+        "2": 26
+      }
+    },
+    "34": {
+      "E_GOR_BTL_SUD_ath_b_01": {
+        "0": 2191,
+        "2": 27
+      }
+    },
+    "35": {
+      "E_GOR_BTL_SUD_ath_b_02": {
+        "0": 2192,
+        "2": 28
+      }
+    },
+    "36": {
+      "E_GOR_BTL_SUD_ath_b_03": {
+        "0": 2193,
+        "2": 29
+      }
+    },
+    "37": {
+      "E_GOR_BTL_SUD_ath_hok": {
+        "0": 2194,
+        "2": 30
+      }
+    },
+    "38": {
+      "E_GOR_BTL_SUD_ath_kik": {
+        "0": 2195,
+        "2": 31
+      }
+    },
+    "39": {
+      "E_RIK_BTL_SUD_ath_swy_f": {
+        "0": 2269,
+        "2": 138
+      }
+    },
+    "40": {
+      "E_RIK_BTL_SUD_ath_swy_b": {
+        "0": 2270,
+        "2": 137
+      }
+    },
+    "41": {
+      "E_JAK_BTL_SUD_ath_dgnkik": {
+        "0": 2291,
+        "2": 63
+      }
+    },
+    "42": {
+      "E_JAK_BTL_SUD_ath_brckik": {
+        "0": 2292,
+        "2": 62
+      }
+    },
+    "43": {
+      "E_KOG_BTL_SUD_ath_run_kik": {
+        "0": 2476,
+        "2": 172
+      }
+    },
+    "44": {
+      "E_JAK_BTL_WPE_ath_thw_f": {
+        "0": 2648,
+        "2": 154
+      }
+    },
+    "45": {
+      "E_KNK_BTL_SUD_ath_a_01": {
+        "0": 2735,
+        "2": 32
+      }
+    },
+    "46": {
+      "E_KNK_BTL_SUD_ath_a_02": {
+        "0": 2736,
+        "2": 33
+      }
+    },
+    "47": {
+      "E_KNK_BTL_SUD_ath_a_03": {
+        "0": 2737,
+        "2": 34
+      }
+    },
+    "48": {
+      "E_KNK_BTL_SUD_ath_kik_a": {
+        "0": 2738,
+        "2": 35
+      }
+    },
+    "49": {
+      "E_KNK_BTL_SUD_ath_kik_b": {
+        "0": 2739,
+        "2": 36
+      }
+    },
+    "50": {
+      "E_NML_BTL_WPA_ath_thw_f": {
+        "0": 2746,
+        "2": 149
+      }
+    },
+    "51": {
+      "E_KRT_BTL_SUD_ath_trning_kik": {
+        "0": 2839,
+        "2": 115
+      }
+    },
+    "52": {
+      "E_KRT_BTL_SUD_ath_kne": {
+        "0": 2840,
+        "2": 114
+      }
+    },
+    "53": {
+      "E_KRT_BTL_SUD_ath_a_02": {
+        "0": 2841,
+        "2": 111
+      }
+    },
+    "54": {
+      "E_NML_BTL_WPA_ath_03_md": {
+        "0": 2909,
+        "2": 53
+      }
+    },
+    "55": {
+      "E_NML_BTL_WPA_ath_02_md": {
+        "0": 2911,
+        "2": 52
+      }
+    },
+    "56": {
+      "E_RNS_BTL_BOX_ath_sttr_md": {
+        "0": 2985,
+        "2": 284
+      }
+    },
+    "57": {
+      "E_JNK_BTL_SUD_ath_pch": {
+        "0": 3002,
+        "2": 91
+      }
+    },
+    "58": {
+      "E_KAS_BTL_SUD_ath_jab": {
+        "0": 3004,
+        "2": 169
+      }
+    },
+    "59": {
+      "E_PWR_BTL_SUD_ath_nr_hed_hvy_r": {
+        "0": 3009,
+        "2": 118
+      }
+    },
+    "60": {
+      "E_NML_BTL_WPD_ath_thw_f": {
+        "0": 3014,
+        "2": 153
+      }
+    },
+    "61": {
+      "E_RNS_BTL_BOX_ath_uprr_md": {
+        "0": 3026,
+        "2": 286
+      }
+    },
+    "62": {
+      "E_YAH_BTL_SUD_ath_a_02": {
+        "0": 3325,
+        "2": 144
+      }
+    },
+    "63": {
+      "E_NML_BTL_SUD_atm_tckl_md": {
+        "0": 3335,
+        "2": 41
+      }
+    },
+    "64": {
+      "E_KTO_BTL_SUD_ath_a_02": {
+        "0": 3350,
+        "2": 79
+      }
+    },
+    "65": {
+      "E_CPR_BTL_SUD_b_ath_01": {
+        "0": 3709,
+        "2": 42
+      }
+    },
+    "66": {
+      "E_CPR_BTL_SUD_b_ath_02": {
+        "0": 3710,
+        "2": 43
+      }
+    },
+    "67": {
+      "E_CPR_BTL_SUD_b_ath_chp": {
+        "0": 3711,
+        "2": 44
+      }
+    },
+    "68": {
+      "E_CPR_BTL_SUD_b_ath_hmr": {
+        "0": 3712,
+        "2": 45
+      }
+    },
+    "69": {
+      "E_CPR_BTL_SUD_b_ath_kik": {
+        "0": 3713,
+        "2": 46
+      }
+    },
+    "70": {
+      "E_CPR_BTL_SUD_b_ath_pch": {
+        "0": 3714,
+        "2": 47
+      }
+    },
+    "71": {
+      "E_CPR_BTL_SUD_ath_run_kik": {
+        "0": 3757,
+        "2": 58
+      }
+    },
+    "72": {
+      "E_INF_BTL_SUD_ath_a_04": {
+        "0": 3778,
+        "2": 59
+      }
+    },
+    "73": {
+      "P_YAG_BTL_MAI_ath_dwn_stmp": {
+        "0": 4228,
+        "2": 163
+      }
+    },
+    "74": {
+      "E_NML_BTL_WPG_ath_thw_f": {
+        "0": 4232,
+        "2": 155
+      }
+    },
+    "75": {
+      "E_HON_BTL_SUD_ath_b_03": {
+        "0": 4450,
+        "2": 167
+      }
+    },
+    "76": {
+      "E_RNS_BTL_BOX_ath_b_hokl_md": {
+        "0": 4496,
+        "2": 287
+      }
+    },
+    "77": {
+      "E_RNS_BTL_BOX_ath_b_hokr_md": {
+        "0": 4498,
+        "2": 288
+      }
+    },
+    "78": {
+      "E_RNS_BTL_BOX_ath_b_jabr_md": {
+        "0": 4525,
+        "2": 290
+      }
+    },
+    "79": {
+      "E_RNS_BTL_BOX_ath_b_sttl_md": {
+        "0": 4527,
+        "2": 291
+      }
+    },
+    "80": {
+      "E_RNS_BTL_BOX_ath_b_sttr_md": {
+        "0": 4529,
+        "2": 292
+      }
+    },
+    "81": {
+      "E_RNS_BTL_BOX_ath_b_uprl_md": {
+        "0": 4531,
+        "2": 293
+      }
+    },
+    "82": {
+      "E_RNS_BTL_BOX_ath_b_uprr_md": {
+        "0": 4551,
+        "2": 294
+      }
+    },
+    "83": {
+      "E_RNS_BTL_BOX_ath_hokl_md": {
+        "0": 4553,
+        "2": 295
+      }
+    },
+    "84": {
+      "E_KAN_BTL_SUD_ath_kik": {
+        "0": 4567,
+        "2": 122
+      }
+    },
+    "85": {
+      "E_TBX_BTL_SUD_ath_b_hokl_md": {
+        "0": 4908,
+        "2": 253
+      }
+    },
+    "86": {
+      "E_TBX_BTL_SUD_ath_b_hokr_md": {
+        "0": 4910,
+        "2": 254
+      }
+    },
+    "87": {
+      "E_TBX_BTL_SUD_ath_b_jabl_md": {
+        "0": 4920,
+        "2": 252
+      }
+    },
+    "88": {
+      "E_LEA_BTL_SUD_ath_a_03": {
+        "0": 5066,
+        "2": 69
+      }
+    },
+    "89": {
+      "E_LEA_BTL_SUD_ath_a_02": {
+        "0": 5069,
+        "2": 68
+      }
+    },
+    "90": {
+      "E_LEA_BTL_SUD_ath_a_01": {
+        "0": 5070,
+        "2": 67
+      }
+    },
+    "91": {
+      "E_LEA_BTL_SUD_ath_3ren": {
+        "0": 5071,
+        "2": 66
+      }
+    },
+    "92": {
+      "E_SAK_BTL_SUD_ath_hok_r": {
+        "0": 5245,
+        "2": 173
+      }
+    },
+    "93": {
+      "E_RIC_BTL_SUD_ath_kik_jmp": {
+        "0": 5261,
+        "2": 134
+      }
+    },
+    "94": {
+      "E_IBX_BTL_SUD_ath_uprr_md": {
+        "0": 5514,
+        "2": 226
+      }
+    },
+    "95": {
+      "E_IBX_BTL_SUD_ath_uprl_md": {
+        "0": 5515,
+        "2": 225
+      }
+    },
+    "96": {
+      "E_IBX_BTL_SUD_ath_hokl_md": {
+        "0": 5520,
+        "2": 221
+      }
+    },
+    "97": {
+      "E_IBX_BTL_SUD_ath_b_uprr_md": {
+        "0": 5522,
+        "2": 220
+      }
+    },
+    "98": {
+      "E_IBX_BTL_SUD_ath_b_uprl_md": {
+        "0": 5524,
+        "2": 219
+      }
+    },
+    "99": {
+      "E_IBX_BTL_SUD_ath_b_sttl_md": {
+        "0": 5526,
+        "2": 218
+      }
+    },
+    "100": {
+      "E_IBX_BTL_SUD_ath_b_jabr_md": {
+        "0": 5528,
+        "2": 217
+      }
+    },
+    "101": {
+      "E_GRD_BTL_SUD_ath_pch_r": {
+        "0": 5560,
+        "2": 1
+      }
+    },
+    "102": {
+      "E_GRD_BTL_SUD_ath_kik2ren": {
+        "0": 5561,
+        "2": 102
+      }
+    },
+    "103": {
+      "E_IBX_BTL_SUD_ath_sttr_md": {
+        "0": 5760,
+        "2": 214
+      }
+    },
+    "104": {
+      "E_IBX_BTL_SUD_ath_b_jabl_md": {
+        "0": 5761,
+        "2": 211
+      }
+    },
+    "105": {
+      "E_CPR_BTL_SUD_b_ath_run_kik": {
+        "0": 5805,
+        "2": 88
+      }
+    },
+    "106": {
+      "E_OBX_BTL_SUD_ath_sttl_md": {
+        "0": 5843,
+        "2": 239
+      }
+    },
+    "107": {
+      "E_NML_BTL_ZKC_ath_awy_upr_r": {
+        "0": 5845,
+        "2": 14
+      }
+    },
+    "108": {
+      "E_BBX_BTL_SUD_ath_b_hokl_md": {
+        "0": 5956,
+        "2": 255
+      }
+    },
+    "109": {
+      "E_BBX_BTL_SUD_ath_b_jabr_md": {
+        "0": 5958,
+        "2": 256
+      }
+    },
+    "110": {
+      "E_BBX_BTL_SUD_ath_b_hokr_md": {
+        "0": 5960,
+        "2": 257
+      }
+    },
+    "111": {
+      "E_BBX_BTL_SUD_ath_b_jabl_md": {
+        "0": 5962,
+        "2": 258
+      }
+    },
+    "112": {
+      "E_BBX_BTL_SUD_ath_b_sttl_md": {
+        "0": 5964,
+        "2": 259
+      }
+    },
+    "113": {
+      "E_BBX_BTL_SUD_ath_b_sttr_md": {
+        "0": 5966,
+        "2": 260
+      }
+    },
+    "114": {
+      "E_BBX_BTL_SUD_ath_b_uprl_md": {
+        "0": 5968,
+        "2": 267
+      }
+    },
+    "115": {
+      "E_BBX_BTL_SUD_ath_b_uprr_md": {
+        "0": 5969,
+        "2": 261
+      }
+    },
+    "116": {
+      "E_BBX_BTL_SUD_ath_hokl_md": {
+        "0": 5973,
+        "2": 262
+      }
+    },
+    "117": {
+      "E_BBX_BTL_SUD_ath_hokr_md": {
+        "0": 5975,
+        "2": 263
+      }
+    },
+    "118": {
+      "E_BBX_BTL_SUD_ath_jabl_md": {
+        "0": 5978,
+        "2": 264
+      }
+    },
+    "119": {
+      "E_BBX_BTL_SUD_ath_jabr_md": {
+        "0": 5979,
+        "2": 268
+      }
+    },
+    "120": {
+      "E_BBX_BTL_SUD_ath_sttl_md": {
+        "0": 5983,
+        "2": 265
+      }
+    },
+    "121": {
+      "E_BBX_BTL_SUD_ath_sttr_md": {
+        "0": 5985,
+        "2": 266
+      }
+    },
+    "122": {
+      "E_BBX_BTL_SUD_ath_uprl_md": {
+        "0": 5992,
+        "2": 269
+      }
+    },
+    "123": {
+      "E_BBX_BTL_SUD_ath_uprr_md": {
+        "0": 5994,
+        "2": 270
+      }
+    },
+    "124": {
+      "E_KUZ_BTL_SUD_ath_jab": {
+        "0": 6028,
+        "2": 124
+      }
+    },
+    "125": {
+      "E_KUZ_BTL_SUD_ath_a_03": {
+        "0": 6030,
+        "2": 123
+      }
+    },
+    "126": {
+      "E_KRT_BTL_SUD_ath_b_02": {
+        "0": 6144,
+        "2": 113
+      }
+    },
+    "127": {
+      "E_KRT_BTL_SUD_ath_b_01": {
+        "0": 6145,
+        "2": 112
+      }
+    },
+    "128": {
+      "E_KOG_BTL_SUD_ath_kik_jmp": {
+        "0": 6163,
+        "2": 171
+      }
+    },
+    "129": {
+      "E_RIC_BTL_SUD_ath_run_kik": {
+        "0": 6202,
+        "2": 135
+      }
+    },
+    "130": {
+      "E_NML_BTL_WPB_ath_thw_f": {
+        "0": 6296,
+        "2": 150
+      }
+    },
+    "131": {
+      "E_OBX_BTL_SUD_ath_b_uprl_md": {
+        "0": 6378,
+        "2": 233
+      }
+    },
+    "132": {
+      "E_OBX_BTL_SUD_ath_b_sttr_md": {
+        "0": 6380,
+        "2": 232
+      }
+    },
+    "133": {
+      "E_OBX_BTL_SUD_ath_b_jabr_md": {
+        "0": 6382,
+        "2": 230
+      }
+    },
+    "134": {
+      "E_OBX_BTL_SUD_ath_b_jabl_md": {
+        "0": 6384,
+        "2": 229
+      }
+    },
+    "135": {
+      "E_OBX_BTL_SUD_ath_b_hokr_md": {
+        "0": 6386,
+        "2": 228
+      }
+    },
+    "136": {
+      "E_OBX_BTL_SUD_ath_b_hokl_md": {
+        "0": 6388,
+        "2": 227
+      }
+    },
+    "137": {
+      "E_IBX_BTL_SUD_ath_hokr_md": {
+        "0": 6396,
+        "2": 222
+      }
+    },
+    "138": {
+      "E_YAH_BTL_SUD_ath_hvy": {
+        "0": 6423,
+        "2": 148
+      }
+    },
+    "139": {
+      "E_YAH_BTL_SUD_ath_hok": {
+        "0": 6424,
+        "2": 147
+      }
+    },
+    "140": {
+      "E_PWR_BTL_SUD_ath_nr_ohed_hvy": {
+        "0": 6468,
+        "2": 119
+      }
+    },
+    "141": {
+      "E_PWR_BTL_SUD_ath_nr_hed_hvy_l": {
+        "0": 6469,
+        "2": 117
+      }
+    },
+    "142": {
+      "E_IBX_BTL_SUD_ath_jabl_md": {
+        "0": 6576,
+        "2": 213
+      }
+    },
+    "143": {
+      "E_IBX_BTL_SUD_ath_b_sttr_md": {
+        "0": 6578,
+        "2": 212
+      }
+    },
+    "144": {
+      "E_PWR_BTL_SUD_ath_md_wst_hvy": {
+        "0": 6584,
+        "2": 116
+      }
+    },
+    "145": {
+      "E_NML_BTL_WPN_ath_thw_md": {
+        "0": 6592,
+        "2": 157
+      }
+    },
+    "146": {
+      "P_YAG_BTL_SEN_ath_01": {
+        "0": 6824,
+        "2": 158
+      }
+    },
+    "147": {
+      "P_YAG_BTL_SEN_ath_02": {
+        "0": 6825,
+        "2": 159
+      }
+    },
+    "148": {
+      "P_YAG_BTL_SEN_ath_03": {
+        "0": 6826,
+        "2": 160
+      }
+    },
+    "149": {
+      "E_KRT_BTL_SUD_ath_a_01": {
+        "0": 6925,
+        "2": 110
+      }
+    },
+    "150": {
+      "E_LAU_BTL_SUD_ath_a_01": {
+        "0": 6940,
+        "2": 71
+      }
+    },
+    "151": {
+      "E_TAC_BTL_SUD_ath_run_pch": {
+        "0": 6951,
+        "2": 50
+      }
+    },
+    "152": {
+      "E_TAC_BTL_SUD_ath_pch_3ren": {
+        "0": 6956,
+        "2": 49
+      }
+    },
+    "153": {
+      "E_TAC_BTL_SUD_ath_hok_r": {
+        "0": 6961,
+        "2": 48
+      }
+    },
+    "154": {
+      "E_LAU_BTL_SUD_ath_pch": {
+        "0": 6994,
+        "2": 77
+      }
+    },
+    "155": {
+      "E_LAU_BTL_SUD_ath_kik": {
+        "0": 6995,
+        "2": 76
+      }
+    },
+    "156": {
+      "E_KOG_BTL_SUD_ath_b_03": {
+        "0": 6999,
+        "2": 170
+      }
+    },
+    "157": {
+      "E_SBS_BTL_SUD_ath_hdbt": {
+        "0": 7053,
+        "2": 142
+      }
+    },
+    "158": {
+      "P_YAG_BTL_EIS_ath_01": {
+        "0": 7130,
+        "2": 188
+      }
+    },
+    "159": {
+      "P_YAG_BTL_EIS_ath_02": {
+        "0": 7140,
+        "2": 189
+      }
+    },
+    "160": {
+      "P_YAG_BTL_EIS_ath_03": {
+        "0": 7142,
+        "2": 190
+      }
+    },
+    "161": {
+      "E_YAH_BTL_SUD_ath_b_02": {
+        "0": 7239,
+        "2": 146
+      }
+    },
+    "162": {
+      "E_CPR_BTL_SUD_ath_01": {
+        "0": 7398,
+        "2": 18
+      }
+    },
+    "163": {
+      "E_CPR_BTL_SUD_ath_02": {
+        "0": 7399,
+        "2": 19
+      }
+    },
+    "164": {
+      "E_CPR_BTL_SUD_ath_hmr": {
+        "0": 7400,
+        "2": 21
+      }
+    },
+    "165": {
+      "E_HNG_BTL_SUD_ath_hok_r": {
+        "0": 7434,
+        "2": 93
+      }
+    },
+    "166": {
+      "E_RNS_BTL_BOX_ath_b_jabl_md": {
+        "0": 7614,
+        "2": 289
+      }
+    },
+    "167": {
+      "E_RNS_BTL_BOX_ath_hokr_md": {
+        "0": 7701,
+        "2": 296
+      }
+    },
+    "168": {
+      "E_RNS_BTL_BOX_ath_jabl_md": {
+        "0": 7704,
+        "2": 298
+      }
+    },
+    "169": {
+      "E_OBX_BTL_SUD_ath_jabr_md": {
+        "0": 7913,
+        "2": 238
+      }
+    },
+    "170": {
+      "E_OBX_BTL_SUD_ath_jabl_md": {
+        "0": 7915,
+        "2": 237
+      }
+    },
+    "171": {
+      "P_YAG_BTL_MAI_ath_02": {
+        "0": 8031,
+        "2": 180
+      }
+    },
+    "172": {
+      "P_YAG_BTL_MAI_ath_01": {
+        "0": 8033,
+        "2": 179
+      }
+    },
+    "173": {
+      "E_KAS_BTL_SUD_ath_a_03": {
+        "0": 8056,
+        "2": 168
+      }
+    },
+    "174": {
+      "P_YAG_BTL_BOX_ath_hokl_md": {
+        "0": 8089,
+        "2": 199
+      }
+    },
+    "175": {
+      "E_OBX_BTL_SUD_ath_sttr_md": {
+        "0": 8127,
+        "2": 240
+      }
+    },
+    "176": {
+      "E_LAU_BTL_SUD_ath_b_02": {
+        "0": 8229,
+        "2": 75
+      }
+    },
+    "177": {
+      "P_YAG_BTL_MAI_ath_04": {
+        "0": 8297,
+        "2": 182
+      }
+    },
+    "178": {
+      "P_YAG_BTL_MAI_ath_03": {
+        "0": 8299,
+        "2": 181
+      }
+    },
+    "179": {
+      "E_SBH_BTL_SUD_ath_swy_f": {
+        "0": 8408,
+        "2": 141
+      }
+    },
+    "180": {
+      "E_LEA_BTL_SUD_ath_kik": {
+        "0": 8419,
+        "2": 70
+      }
+    },
+    "181": {
+      "E_IBX_BTL_SUD_ath_b_hokl_md": {
+        "0": 8435,
+        "2": 215
+      }
+    },
+    "182": {
+      "E_MSK_BTL_SUD_ath_c_01": {
+        "0": 8448,
+        "2": 127
+      }
+    },
+    "183": {
+      "P_YAG_BTL_SUD_ath_hvy": {
+        "0": 8579,
+        "2": 243
+      }
+    },
+    "184": {
+      "E_KBX_BTL_SUD_ath_hilkik": {
+        "0": 8774,
+        "2": 105
+      }
+    },
+    "185": {
+      "E_KBX_BTL_SUD_ath_kik_01": {
+        "0": 9071,
+        "2": 107
+      }
+    },
+    "186": {
+      "E_KBX_BTL_SUD_ath_kik": {
+        "0": 9072,
+        "2": 106
+      }
+    },
+    "187": {
+      "P_YAG_BTL_WPT_ath_thw_f": {
+        "0": 9105,
+        "2": 177
+      }
+    },
+    "188": {
+      "P_YAG_BTL_WPI_yari_ath_thw_f": {
+        "0": 9126,
+        "2": 176
+      }
+    },
+    "189": {
+      "E_FAT_BTL_SUD_ath_a_03": {
+        "0": 9180,
+        "2": 99
+      }
+    },
+    "190": {
+      "P_YAG_BTL_WPA_ath_thw_f": {
+        "0": 9270,
+        "2": 245
+      }
+    },
+    "191": {
+      "E_MIN_BTL_SUD_ath_a_03": {
+        "0": 9305,
+        "2": 175
+      }
+    },
+    "192": {
+      "P_YAG_BTL_WPC_ath_thw_f": {
+        "0": 9345,
+        "2": 246
+      }
+    },
+    "193": {
+      "P_YAG_BTL_WPD_ath_thw_f": {
+        "0": 9379,
+        "2": 247
+      }
+    },
+    "194": {
+      "E_DRB_BTL_SUD_ath_upr_l": {
+        "0": 9399,
+        "2": 166
+      }
+    },
+    "195": {
+      "P_YAG_BTL_WPG_ath_thw_f": {
+        "0": 9434,
+        "2": 248
+      }
+    },
+    "196": {
+      "P_YAG_BTL_WPH_ath_thw_f": {
+        "0": 9470,
+        "2": 249
+      }
+    },
+    "197": {
+      "F_COM_BTL_SUD_dmg_airB_f": {
+        "0": 9765,
+        "2": 251
+      }
+    },
+    "198": {
+      "C_COM_BTL_SUD_dmg_airB_f": {
+        "0": 10465,
+        "2": 186
+      }
+    },
+    "199": {
+      "E_MSK_BTL_SUD_ath_a_03": {
+        "0": 10492,
+        "2": 125
+      }
+    },
+    "200": {
+      "E_MSK_BTL_SUD_ath_b_03": {
+        "0": 10495,
+        "2": 126
+      }
+    },
+    "201": {
+      "E_LAU_BTL_SUD_ath_b_01": {
+        "0": 10609,
+        "2": 74
+      }
+    },
+    "202": {
+      "E_LAU_BTL_SUD_ath_a_03": {
+        "0": 10610,
+        "2": 73
+      }
+    },
+    "203": {
+      "E_LAU_BTL_SUD_ath_a_02": {
+        "0": 10611,
+        "2": 72
+      }
+    },
+    "204": {
+      "F_COM_BTL_SUD_dmg_upsdwnF_f": {
+        "0": 10615,
+        "2": 250
+      }
+    },
+    "205": {
+      "E_NML_BTL_WPC_ath_thw_f": {
+        "0": 10656,
+        "2": 152
+      }
+    },
+    "206": {
+      "E_KBX_BTL_SUD_ath_lwkik": {
+        "0": 10822,
+        "2": 109
+      }
+    },
+    "207": {
+      "E_KBX_BTL_SUD_ath_kik_02": {
+        "0": 10823,
+        "2": 108
+      }
+    },
+    "208": {
+      "P_YAG_BTL_BOX_ath_uprl_md": {
+        "0": 10842,
+        "2": 195
+      }
+    },
+    "209": {
+      "E_IBX_BTL_SUD_ath_b_hokr_md": {
+        "0": 10847,
+        "2": 216
+      }
+    },
+    "210": {
+      "P_YAG_BTL_BOX_ath_hokr_md": {
+        "0": 10887,
+        "2": 200
+      }
+    },
+    "211": {
+      "P_YAG_BTL_BOX_ath_jabl_md": {
+        "0": 10889,
+        "2": 210
+      }
+    },
+    "212": {
+      "P_YAG_BTL_EIS_ath_dwn_stmp": {
+        "0": 10904,
+        "2": 164
+      }
+    },
+    "213": {
+      "P_YAG_BTL_BOX_ath_jabr_md": {
+        "0": 10944,
+        "2": 197
+      }
+    },
+    "214": {
+      "E_YNK_BTL_SUD_ath_hok_r": {
+        "0": 11046,
+        "2": 191
+      }
+    },
+    "215": {
+      "E_YNK_BTL_SUD_ath_kik_r": {
+        "0": 11047,
+        "2": 193
+      }
+    },
+    "216": {
+      "E_YNK_BTL_SUD_ath_upr_r": {
+        "0": 11051,
+        "2": 192
+      }
+    },
+    "217": {
+      "E_OBX_BTL_SUD_ath_hokr_md": {
+        "0": 11334,
+        "2": 236
+      }
+    },
+    "218": {
+      "E_YAH_BTL_SUD_ath_a_01": {
+        "0": 11369,
+        "2": 143
+      }
+    },
+    "219": {
+      "E_YOP_BTL_SUD_ath_pch_2ren": {
+        "0": 11454,
+        "2": 57
+      }
+    },
+    "220": {
+      "E_YOP_BTL_SUD_ath_kik": {
+        "0": 11455,
+        "2": 55
+      }
+    },
+    "221": {
+      "E_OBX_BTL_SUD_ath_hokl_md": {
+        "0": 11480,
+        "2": 235
+      }
+    },
+    "222": {
+      "E_YOP_BTL_SUD_ath_pch": {
+        "0": 11579,
+        "2": 56
+      }
+    },
+    "223": {
+      "P_YAG_BTL_MAI_ath_02_finT": {
+        "0": 11583,
+        "2": 185
+      }
+    },
+    "224": {
+      "E_NML_BTL_WPB_dsu_ath_thw_f": {
+        "0": 11600,
+        "2": 151
+      }
+    },
+    "225": {
+      "E_SBH_BTL_SUD_ath_sdkik": {
+        "0": 11787,
+        "2": 140
+      }
+    },
+    "226": {
+      "E_SBH_BTL_SUD_ath_b_03": {
+        "0": 11789,
+        "2": 139
+      }
+    },
+    "227": {
+      "E_KTO_BTL_SUD_ath_kik_a": {
+        "0": 11918,
+        "2": 84
+      }
+    },
+    "228": {
+      "E_KTO_BTL_SUD_ath_b_03": {
+        "0": 11919,
+        "2": 83
+      }
+    },
+    "229": {
+      "E_KTO_BTL_SUD_ath_a_01": {
+        "0": 11920,
+        "2": 78
+      }
+    },
+    "230": {
+      "E_NML_BTL_ZKC_ath_awy_kne_r": {
+        "0": 11966,
+        "2": 17
+      }
+    },
+    "231": {
+      "E_NML_BTL_ZKC_ath_awy_kik_r": {
+        "0": 11967,
+        "2": 13
+      }
+    },
+    "232": {
+      "E_NML_BTL_ZKC_ath_awy_kik_l": {
+        "0": 11968,
+        "2": 12
+      }
+    },
+    "233": {
+      "E_NML_BTL_ZKC_ath_awy_hok_r": {
+        "0": 11969,
+        "2": 11
+      }
+    },
+    "234": {
+      "E_JNK_BTL_SUD_ath_3ren": {
+        "0": 11975,
+        "2": 89
+      }
+    },
+    "235": {
+      "E_NML_BTL_WPB_ath_03_md": {
+        "0": 12038,
+        "2": 39
+      }
+    },
+    "236": {
+      "E_NML_BTL_WPB_ath_02_md": {
+        "0": 12079,
+        "2": 38
+      }
+    },
+    "237": {
+      "E_NML_BTL_WPB_ath_01_md": {
+        "0": 12081,
+        "2": 37
+      }
+    },
+    "238": {
+      "E_NML_BTL_WPA_ath_hvy_md": {
+        "0": 12093,
+        "2": 54
+      }
+    },
+    "239": {
+      "E_NML_BTL_WPA_ath_dwn_md": {
+        "0": 12095,
+        "2": 92
+      }
+    },
+    "240": {
+      "E_RNS_BTL_BOX_ath_sttl_md": {
+        "0": 12143,
+        "2": 297
+      }
+    },
+    "241": {
+      "E_JNK_BTL_SUD_ath_kik": {
+        "0": 12215,
+        "2": 90
+      }
+    },
+    "242": {
+      "P_YAG_BTL_BOX_ath_b_uprl_md": {
+        "0": 12271,
+        "2": 202
+      }
+    },
+    "243": {
+      "P_YAG_BTL_BOX_ath_b_sttr_md": {
+        "0": 12333,
+        "2": 203
+      }
+    },
+    "244": {
+      "P_YAG_BTL_BOX_ath_b_uprr_md": {
+        "0": 12335,
+        "2": 198
+      }
+    },
+    "245": {
+      "P_YAG_BTL_BOX_ath_b_jabr_md": {
+        "0": 12416,
+        "2": 205
+      }
+    },
+    "246": {
+      "P_YAG_BTL_BOX_ath_b_sttl_md": {
+        "0": 12418,
+        "2": 201
+      }
+    },
+    "247": {
+      "E_OBX_BTL_SUD_ath_b_uprr_md": {
+        "0": 12456,
+        "2": 234
+      }
+    },
+    "248": {
+      "E_OBX_BTL_SUD_ath_b_sttl_md": {
+        "0": 12459,
+        "2": 231
+      }
+    },
+    "249": {
+      "E_JAK_BTL_SUD_ath_snkchp": {
+        "0": 12576,
+        "2": 65
+      }
+    },
+    "250": {
+      "E_JAK_BTL_SUD_ath_kfupch": {
+        "0": 12577,
+        "2": 64
+      }
+    },
+    "251": {
+      "P_YAG_BTL_BOX_ath_sttl_md": {
+        "0": 12591,
+        "2": 209
+      }
+    },
+    "252": {
+      "P_YAG_BTL_BOX_ath_sttr_md": {
+        "0": 12592,
+        "2": 206
+      }
+    },
+    "253": {
+      "P_YAG_BTL_BOX_ath_b_hokl_md": {
+        "0": 12667,
+        "2": 204
+      }
+    },
+    "254": {
+      "P_YAG_BTL_BOX_ath_b_hokr_md": {
+        "0": 12668,
+        "2": 207
+      }
+    },
+    "255": {
+      "P_YAG_BTL_BOX_ath_b_jabl_md": {
+        "0": 12670,
+        "2": 208
+      }
+    },
+    "256": {
+      "E_NML_BTL_WPA_ath_01_md": {
+        "0": 12713,
+        "2": 51
+      }
+    },
+    "257": {
+      "E_MSK_BTL_SUD_ath_hvy_kik": {
+        "0": 12775,
+        "2": 130
+      }
+    },
+    "258": {
+      "P_YAG_BTL_MAI_ath_01_finT": {
+        "0": 12981,
+        "2": 184
+      }
+    },
+    "259": {
+      "E_TBX_BTL_SUD_ath_b_sttl_md": {
+        "0": 13033,
+        "2": 272
+      }
+    },
+    "260": {
+      "E_TBX_BTL_SUD_ath_b_sttr_md": {
+        "0": 13035,
+        "2": 271
+      }
+    },
+    "261": {
+      "E_TBX_BTL_SUD_ath_b_uprl_md": {
+        "0": 13036,
+        "2": 273
+      }
+    },
+    "262": {
+      "E_TBX_BTL_SUD_ath_b_uprr_md": {
+        "0": 13038,
+        "2": 274
+      }
+    },
+    "263": {
+      "E_TBX_BTL_SUD_ath_hokl_md": {
+        "0": 13040,
+        "2": 275
+      }
+    },
+    "264": {
+      "E_TBX_BTL_SUD_ath_hokr_md": {
+        "0": 13042,
+        "2": 276
+      }
+    },
+    "265": {
+      "E_TBX_BTL_SUD_ath_jabl_md": {
+        "0": 13044,
+        "2": 277
+      }
+    },
+    "266": {
+      "E_TBX_BTL_SUD_ath_jabr_md": {
+        "0": 13046,
+        "2": 278
+      }
+    },
+    "267": {
+      "E_TBX_BTL_SUD_ath_sttl_md": {
+        "0": 13048,
+        "2": 279
+      }
+    },
+    "268": {
+      "E_TBX_BTL_SUD_ath_sttr_md": {
+        "0": 13050,
+        "2": 280
+      }
+    },
+    "269": {
+      "E_TBX_BTL_SUD_ath_uprl_md": {
+        "0": 13052,
+        "2": 281
+      }
+    },
+    "270": {
+      "E_TBX_BTL_SUD_ath_uprr_md": {
+        "0": 13054,
+        "2": 282
+      }
+    },
+    "271": {
+      "E_MSK_BTL_SUD_ath_dwn_prs": {
+        "0": 13091,
+        "2": 129
+      }
+    },
+    "272": {
+      "E_KBX_BTL_SUD_ath_flykne": {
+        "0": 13249,
+        "2": 104
+      }
+    },
+    "273": {
+      "E_NML_BTL_WPB_ath_hvy_md": {
+        "0": 13254,
+        "2": 40
+      }
+    },
+    "274": {
+      "E_KTO_BTL_SUD_ath_pch_b": {
+        "0": 13292,
+        "2": 87
+      }
+    },
+    "275": {
+      "E_KTO_BTL_SUD_ath_pch_a": {
+        "0": 13293,
+        "2": 86
+      }
+    },
+    "276": {
+      "P_YAG_BTL_WPV_ath_thw_f": {
+        "0": 13398,
+        "2": 174
+      }
+    },
+    "277": {
+      "E_MTO_BTL_SUD_ath_rolkik": {
+        "0": 13471,
+        "2": 131
+      }
+    },
+    "278": {
+      "E_DRB_BTL_SUD_ath_pch_r": {
+        "0": 13474,
+        "2": 165
+      }
+    },
+    "279": {
+      "E_DGO_BTL_SUD_ath_rev_hed_f_02": {
+        "0": 13476,
+        "2": 121
+      }
+    },
+    "280": {
+      "E_KTO_BTL_SUD_ath_b_01": {
+        "0": 13494,
+        "2": 81
+      }
+    },
+    "281": {
+      "P_YAG_BTL_MAI_grd_buku_mu": {
+        "0": 13508,
+        "2": 194
+      }
+    },
+    "282": {
+      "E_FAT_BTL_SUD_ath_kik": {
+        "0": 13723,
+        "2": 100
+      }
+    },
+    "283": {
+      "E_KTO_BTL_SUD_ath_kik_b": {
+        "0": 13876,
+        "2": 85
+      }
+    },
+    "284": {
+      "E_IBX_BTL_SUD_ath_jabr_md": {
+        "0": 13921,
+        "2": 223
+      }
+    },
+    "285": {
+      "E_NML_BTL_ZKB_ath_kik_r": {
+        "0": 13929,
+        "2": 9
+      }
+    },
+    "286": {
+      "E_NML_BTL_ZKB_ath_kne_r": {
+        "0": 13930,
+        "2": 15
+      }
+    },
+    "287": {
+      "E_NML_BTL_ZKB_ath_upr_l": {
+        "0": 13931,
+        "2": 10
+      }
+    },
+    "288": {
+      "E_NML_BTL_ZKB_ath_pch_r": {
+        "0": 13951,
+        "2": 16
+      }
+    },
+    "289": {
+      "E_RIK_BTL_SUD_ath_kck": {
+        "0": 14041,
+        "2": 136
+      }
+    },
+    "290": {
+      "E_FAT_BTL_SUD_ath_run_drpkik": {
+        "0": 14049,
+        "2": 101
+      }
+    },
+    "291": {
+      "E_NML_BTL_ZKB_ath_kik_l": {
+        "0": 14053,
+        "2": 8
+      }
+    },
+    "292": {
+      "E_RIC_BTL_SUD_ath_b_03": {
+        "0": 14076,
+        "2": 133
+      }
+    },
+    "293": {
+      "E_FAT_BTL_SUD_ath_a_01": {
+        "0": 14097,
+        "2": 98
+      }
+    },
+    "294": {
+      "N_SUG_BTL_SUD_ath_kik_r": {
+        "0": 14107,
+        "2": 183
+      }
+    },
+    "295": {
+      "E_RNS_BTL_BOX_ath_jabr_md": {
+        "0": 14138,
+        "2": 299
+      }
+    },
+    "296": {
+      "E_BOX_BTL_SUD_ath_a_01": {
+        "0": 14168,
+        "2": 94
+      }
+    },
+    "297": {
+      "E_BOX_BTL_SUD_ath_a_03": {
+        "0": 14286,
+        "2": 95
+      }
+    },
+    "298": {
+      "E_BOX_BTL_SUD_ath_upr": {
+        "0": 14287,
+        "2": 97
+      }
+    },
+    "299": {
+      "E_TBX_BTL_SUD_ath_b_jabr_md": {
+        "0": 14380,
+        "2": 283
+      }
+    },
+    "300": {
+      "N_OSI_BTL_SUD_ath_b_hokl_md": {
+        "0": 14990,
+        "2": 300
+      }
+    },
+    "301": {
+      "N_OSI_BTL_SUD_ath_b_hokr_md": {
+        "0": 14992,
+        "2": 301
+      }
+    },
+    "302": {
+      "N_OSI_BTL_SUD_ath_b_jabl_md": {
+        "0": 14994,
+        "2": 302
+      }
+    },
+    "303": {
+      "N_OSI_BTL_SUD_ath_b_jabr_md": {
+        "0": 14996,
+        "2": 303
+      }
+    },
+    "304": {
+      "N_OSI_BTL_SUD_ath_b_sttl_md": {
+        "0": 14998,
+        "2": 304
+      }
+    },
+    "305": {
+      "N_OSI_BTL_SUD_ath_b_sttr_md": {
+        "0": 15000,
+        "2": 305
+      }
+    },
+    "306": {
+      "N_OSI_BTL_SUD_ath_b_uprl_md": {
+        "0": 15002,
+        "2": 306
+      }
+    },
+    "307": {
+      "N_OSI_BTL_SUD_ath_b_uprr_md": {
+        "0": 15004,
+        "2": 307
+      }
+    },
+    "308": {
+      "N_OSI_BTL_SUD_ath_hokl_md": {
+        "0": 15008,
+        "2": 308
+      }
+    },
+    "309": {
+      "N_OSI_BTL_SUD_ath_hokr_md": {
+        "0": 15010,
+        "2": 309
+      }
+    },
+    "310": {
+      "N_OSI_BTL_SUD_ath_jabl_md": {
+        "0": 15013,
+        "2": 310
+      }
+    },
+    "311": {
+      "N_OSI_BTL_SUD_ath_jabr_md": {
+        "0": 15015,
+        "2": 311
+      }
+    },
+    "312": {
+      "N_OSI_BTL_SUD_ath_sttl_md": {
+        "0": 15020,
+        "2": 312
+      }
+    },
+    "313": {
+      "N_OSI_BTL_SUD_ath_sttr_md": {
+        "0": 15022,
+        "2": 313
+      }
+    },
+    "314": {
+      "N_OSI_BTL_SUD_ath_uprl_md": {
+        "0": 15024,
+        "2": 314
+      }
+    },
+    "315": {
+      "N_OSI_BTL_SUD_ath_uprr_md": {
+        "0": 15026,
+        "2": 315
+      }
+    },
+    "316": {
+      "P_YAG_BTL_BXG_ath_b_hokl_md": {
+        "0": 15121,
+        "2": 316
+      }
+    },
+    "317": {
+      "P_YAG_BTL_BXG_ath_b_hokr_md": {
+        "0": 15123,
+        "2": 317
+      }
+    },
+    "318": {
+      "P_YAG_BTL_BXG_ath_b_jabl_md": {
+        "0": 15125,
+        "2": 318
+      }
+    },
+    "319": {
+      "P_YAG_BTL_BXG_ath_b_jabr_md": {
+        "0": 15127,
+        "2": 319
+      }
+    },
+    "320": {
+      "P_YAG_BTL_BXG_ath_b_sttl_md": {
+        "0": 15129,
+        "2": 320
+      }
+    },
+    "321": {
+      "P_YAG_BTL_BXG_ath_b_sttr_md": {
+        "0": 15131,
+        "2": 321
+      }
+    },
+    "322": {
+      "P_YAG_BTL_BXG_ath_b_uprl_md": {
+        "0": 15133,
+        "2": 322
+      }
+    },
+    "323": {
+      "P_YAG_BTL_BXG_ath_b_uprr_md": {
+        "0": 15135,
+        "2": 323
+      }
+    },
+    "324": {
+      "P_YAG_BTL_BXG_ath_dwn_stmp": {
+        "0": 15138,
+        "2": 324
+      }
+    },
+    "325": {
+      "P_YAG_BTL_BXG_ath_hokl_md": {
+        "0": 15142,
+        "2": 325
+      }
+    },
+    "326": {
+      "P_YAG_BTL_BXG_ath_hokr_md": {
+        "0": 15144,
+        "2": 326
+      }
+    },
+    "327": {
+      "P_YAG_BTL_BXG_ath_jabl_md": {
+        "0": 15147,
+        "2": 327
+      }
+    },
+    "328": {
+      "P_YAG_BTL_BXG_ath_jabr_md": {
+        "0": 15149,
+        "2": 328
+      }
+    },
+    "329": {
+      "P_YAG_BTL_BXG_ath_sttl_md": {
+        "0": 15157,
+        "2": 329
+      }
+    },
+    "330": {
+      "P_YAG_BTL_BXG_ath_sttr_md": {
+        "0": 15159,
+        "2": 330
+      }
+    },
+    "331": {
+      "P_YAG_BTL_BXG_ath_uprl_md": {
+        "0": 15165,
+        "2": 331
+      }
+    },
+    "332": {
+      "P_YAG_BTL_BXG_ath_uprr_md": {
+        "0": 15167,
+        "2": 332
+      }
+    },
+    "333": {
+      "P_KAI_BTL_KAC_ath_01": {
+        "0": 15297,
+        "2": 333
+      }
+    },
+    "334": {
+      "P_KAI_BTL_KAC_ath_02": {
+        "0": 15300,
+        "2": 334
+      }
+    },
+    "335": {
+      "P_KAI_BTL_KAC_ath_03": {
+        "0": 15303,
+        "2": 335
+      }
+    },
+    "336": {
+      "P_KAI_BTL_KAC_ath_04": {
+        "0": 15307,
+        "2": 336
+      }
+    },
+    "337": {
+      "P_KAI_BTL_TEP_ath_01": {
+        "0": 15464,
+        "2": 337
+      }
+    },
+    "338": {
+      "P_KAI_BTL_TEP_ath_02": {
+        "0": 15467,
+        "2": 338
+      }
+    },
+    "339": {
+      "P_KAI_BTL_TEP_ath_03": {
+        "0": 15471,
+        "2": 339
+      }
+    }
+  }
+}

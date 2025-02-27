@@ -1,0 +1,1152 @@
+{
+  "VERSION": 2,
+  "REVISION": 0,
+  "ROW_COUNT": 157,
+  "COLUMN_COUNT": 10,
+  "TEXT_COUNT": 0,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 110,
+  "STORAGE_MODE": 1,
+  "columnValidity": {
+    "": "0",
+    "color_r": "0",
+    "color_g": "0",
+    "color_b": "0",
+    "color_a": "0",
+    "color": "1",
+    "color[r]": "0",
+    "color[g]": "0",
+    "color[b]": "0",
+    "color[a]": "0"
+  },
+  "columnTypes": {
+    "": -1,
+    "color_r": -1,
+    "color_g": -1,
+    "color_b": -1,
+    "color_a": -1,
+    "color": 0,
+    "color[r]": -1,
+    "color[g]": -1,
+    "color[b]": -1,
+    "color[a]": -1
+  },
+  "COLUMN_INDICES": [
+    5,
+    9,
+    8,
+    7,
+    6,
+    4,
+    3,
+    2,
+    1,
+    0
+  ],
+  "0": {
+    "": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "default": {
+      "color": 4294967295,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "text_off": {
+      "color": 4286611584,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "3": {
+    "text_kiryu": {
+      "color": 4294958290,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "4": {
+    "bg_kiryu": {
+      "color": 2422364258,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "5": {
+    "button_sankaku": {
+      "color": 4285306146,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "6": {
+    "button_shikaku": {
+      "color": 4290074059,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "7": {
+    "button_batsu": {
+      "color": 4291132260,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "8": {
+    "button_maru": {
+      "color": 4280958156,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "9": {
+    "light_gray": {
+      "color": 4292664540,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "10": {
+    "map_default_base": {
+      "color": 4286085240,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "11": {
+    "map_default_top": {
+      "color": 4294967295,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "12": {
+    "map_road_base": {
+      "color": 4284769380,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "13": {
+    "map_road_top": {
+      "color": 4284769380,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "14": {
+    "map_shop_base": {
+      "color": 4285517789,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "15": {
+    "map_shop_top": {
+      "color": 4285517789,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "16": {
+    "map_special_base": {
+      "color": 4294358905,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "17": {
+    "map_special_top": {
+      "color": 4294358905,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "18": {
+    "hp_gauge_enemy_now": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "hp_gauge_enemy_damage": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "hp_gauge_npc_now": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "hp_gauge_npc_damage": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "hp_gauge_npc_name": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "hp_gauge_enemy_name": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "hp_gauge_enemy_eff": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "hp_gauge_npc_eff": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "minimap_filter": {
+      "color": 345407616,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "27": {
+    "map_restaurant_base": {
+      "color": 4283274985,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "28": {
+    "map_restaurant_top": {
+      "color": 4283274985,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "29": {
+    "baseball_hit": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "baseball_out": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "baseball_base_on_balls": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "32": {
+    "mg_relu_topic": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "33": {
+    "two_player_light_bar_blue": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "34": {
+    "two_player_light_bar_red": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "35": {
+    "two_player_light_bar_green": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "36": {
+    "two_player_light_bar_yellow": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "37": {
+    "light_bar_blue_text": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "38": {
+    "light_bar_red_text": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "39": {
+    "light_bar_green_text": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "40": {
+    "light_bar_pink_text": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "41": {
+    "sns_im_text": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "42": {
+    "batting_pitch_white": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "43": {
+    "batting_pitch_red": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "44": {
+    "batting_pitch_blue": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "45": {
+    "batting_pitch_yellow": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "46": {
+    "sns_im_text_can_press": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "47": {
+    "batting_pitch_green": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "48": {
+    "mg_relu_strong": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "49": {
+    "mg_relu_point": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "50": {
+    "mg_relu_clear": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "51": {
+    "mg_relu_topic_green": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "52": {
+    "map_xxx_base": {
+      "color": 4278716424,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "53": {
+    "map_xxx_top": {
+      "color": 4280163870,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "54": {
+    "batting_pitch_light_blue": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "55": {
+    "map_can_enter_base": {
+      "color": 4288701233,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "56": {
+    "map_can_enter_top": {
+      "color": 4293110855,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "57": {
+    "baseball_player": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "58": {
+    "red": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "59": {
+    "green": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "60": {
+    "blue": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "61": {
+    "sugoroku_text": {
+      "color": 4292476532,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "62": {
+    "map_background": {
+      "color": 4278190080,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "63": {
+    "judge_boss_life_gauge_color0": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "64": {
+    "judge_boss_life_gauge_color1": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "65": {
+    "judge_boss_life_gauge_color2": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "66": {
+    "judge_boss_life_gauge_color3": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "67": {
+    "judge_boss_life_gauge_color4": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "68": {
+    "judge_boss_life_gauge_color5": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "69": {
+    "judge_boss_life_gauge_color6": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "70": {
+    "judge_boss_life_gauge_color7": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "71": {
+    "judge_boss_life_gauge_color8": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "72": {
+    "judge_boss_life_gauge_color9": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "73": {
+    "lexus2_boss_life_gauge_color0": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "74": {
+    "lexus2_boss_life_gauge_color1": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "75": {
+    "lexus2_boss_life_gauge_color2": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "76": {
+    "lexus2_boss_life_gauge_color3": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "77": {
+    "lexus2_boss_life_gauge_color4": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "78": {
+    "lexus2_boss_life_gauge_color5": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "79": {
+    "lexus2_boss_life_gauge_color6": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "80": {
+    "lexus2_boss_life_gauge_color7": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "81": {
+    "lexus2_boss_life_gauge_color8": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "82": {
+    "lexus2_boss_life_gauge_color9": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "83": {
+    "weapon_count_is_zero": {
+      "color": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "84": {
+    "poker_friend_name": {
+      "color": 4278255615,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "85": {
+    "boss_life_gauge_color0": {
+      "color": 4280032449,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "86": {
+    "boss_life_gauge_color1": {
+      "color": 4278223046,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "87": {
+    "boss_life_gauge_color2": {
+      "color": 4294917817,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "88": {
+    "boss_life_gauge_color3": {
+      "color": 4293799254,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "89": {
+    "boss_life_gauge_color4": {
+      "color": 4288716960,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "90": {
+    "boss_life_gauge_color5": {
+      "color": 4289800426,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "91": {
+    "boss_life_gauge_color6": {
+      "color": 4280386047,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "92": {
+    "boss_life_gauge_color7": {
+      "color": 4288596188,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "93": {
+    "boss_life_gauge_color8": {
+      "color": 4293103900,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "94": {
+    "boss_life_gauge_color9": {
+      "color": 4286151126,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "95": {
+    "map_navi_destination_user_goal": {
+      "color": 4278255360,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "96": {
+    "map_navi_destination_main_goal": {
+      "color": 4278190335,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "97": {
+    "map_navi_destination_side_goal": {
+      "color": 4290838272,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "98": {
+    "map_ground_base": {
+      "color": 4280821800,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "99": {
+    "map_ground_top": {
+      "color": 4283124555,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "100": {
+    "map_area_selected": {
+      "color": 4293110855,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 106
+    }
+  },
+  "101": {
+    "map_area_unselected": {
+      "color": 4289374890,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 107
+    }
+  },
+  "102": {
+    "map_area_border": {
+      "color": 4287538607,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 108
+    }
+  },
+  "103": {
+    "boss_life_gauge_color10": {
+      "color": 4282768127,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 109
+    }
+  },
+  "104": {
+    "boss_life_gauge_color11": {
+      "color": 4294966630,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 110
+    }
+  },
+  "105": {
+    "boss_life_gauge_color12": {
+      "color": 4280386047,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 111
+    }
+  },
+  "106": {
+    "boss_life_gauge_color13": {
+      "color": 4288596188,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 112
+    }
+  },
+  "107": {
+    "boss_life_gauge_color14": {
+      "color": 4293103900,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 113
+    }
+  },
+  "108": {
+    "boss_life_gauge_color15": {
+      "color": 4286151126,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 114
+    }
+  },
+  "109": {
+    "boss_life_gauge_color16": {
+      "color": 4282768127,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 115
+    }
+  },
+  "110": {
+    "boss_life_gauge_color17": {
+      "color": 4294966630,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 116
+    }
+  },
+  "111": {
+    "boss_life_gauge_color18": {
+      "color": 4280386047,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 117
+    }
+  },
+  "112": {
+    "boss_life_gauge_color19": {
+      "color": 4288596188,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 118
+    }
+  },
+  "113": {
+    "boss_life_gauge_color20": {
+      "color": 4293103900,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 119
+    }
+  },
+  "114": {
+    "boss_life_gauge_color21": {
+      "color": 4286151126,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 120
+    }
+  },
+  "115": {
+    "boss_life_gauge_color22": {
+      "color": 4282768127,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 121
+    }
+  },
+  "116": {
+    "boss_life_gauge_color23": {
+      "color": 4294966630,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 122
+    }
+  },
+  "117": {
+    "boss_life_gauge_color24": {
+      "color": 4280386047,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 123
+    }
+  },
+  "118": {
+    "boss_life_gauge_color25": {
+      "color": 4288596188,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 124
+    }
+  },
+  "119": {
+    "boss_life_gauge_color26": {
+      "color": 4293103900,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 125
+    }
+  },
+  "120": {
+    "boss_life_gauge_color27": {
+      "color": 4286151126,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 126
+    }
+  },
+  "121": {
+    "boss_life_gauge_color28": {
+      "color": 4282768127,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 127
+    }
+  },
+  "122": {
+    "boss_life_gauge_color29": {
+      "color": 4294966630,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 128
+    }
+  },
+  "123": {
+    "boss_life_gauge_color30": {
+      "color": 4280386047,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 129
+    }
+  },
+  "124": {
+    "boss_life_gauge_color31": {
+      "color": 4288596188,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 130
+    }
+  },
+  "125": {
+    "boss_life_gauge_color32": {
+      "color": 4293103900,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 131
+    }
+  },
+  "126": {
+    "boss_life_gauge_color33": {
+      "color": 4286151126,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 132
+    }
+  },
+  "127": {
+    "boss_life_gauge_color34": {
+      "color": 4282768127,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 133
+    }
+  },
+  "128": {
+    "boss_life_gauge_color35": {
+      "color": 4294966630,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 134
+    }
+  },
+  "129": {
+    "boss_life_gauge_color36": {
+      "color": 4280386047,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 135
+    }
+  },
+  "130": {
+    "boss_life_gauge_color37": {
+      "color": 4288596188,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 136
+    }
+  },
+  "131": {
+    "boss_life_gauge_color38": {
+      "color": 4293103900,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 137
+    }
+  },
+  "132": {
+    "boss_life_gauge_color39": {
+      "color": 4286151126,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 138
+    }
+  },
+  "133": {
+    "boss_life_gauge_color40": {
+      "color": 4282768127,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 139
+    }
+  },
+  "134": {
+    "boss_life_gauge_color41": {
+      "color": 4294966630,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 140
+    }
+  },
+  "135": {
+    "boss_life_gauge_color42": {
+      "color": 4280386047,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 141
+    }
+  },
+  "136": {
+    "boss_life_gauge_color43": {
+      "color": 4288596188,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 142
+    }
+  },
+  "137": {
+    "boss_life_gauge_color44": {
+      "color": 4293103900,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 143
+    }
+  },
+  "138": {
+    "boss_life_gauge_color45": {
+      "color": 4286151126,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 144
+    }
+  },
+  "139": {
+    "boss_life_gauge_color46": {
+      "color": 4282768127,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 145
+    }
+  },
+  "140": {
+    "boss_life_gauge_color47": {
+      "color": 4294966630,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 146
+    }
+  },
+  "141": {
+    "boss_life_gauge_color48": {
+      "color": 4280386047,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 147
+    }
+  },
+  "142": {
+    "boss_life_gauge_color49": {
+      "color": 4288596188,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 148
+    }
+  },
+  "143": {
+    "boss_life_gauge_color50": {
+      "color": 4293103900,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 149
+    }
+  },
+  "144": {
+    "boss_life_gauge_color51": {
+      "color": 4286151126,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 150
+    }
+  },
+  "145": {
+    "boss_life_gauge_color52": {
+      "color": 4282768127,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 151
+    }
+  },
+  "146": {
+    "boss_life_gauge_color53": {
+      "color": 4294966630,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 152
+    }
+  },
+  "147": {
+    "boss_life_gauge_color54": {
+      "color": 4280386047,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 153
+    }
+  },
+  "148": {
+    "boss_life_gauge_color55": {
+      "color": 4288596188,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 154
+    }
+  },
+  "149": {
+    "boss_life_gauge_color56": {
+      "color": 4293103900,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 155
+    }
+  },
+  "150": {
+    "boss_life_gauge_color57": {
+      "color": 4286151126,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 156
+    }
+  },
+  "151": {
+    "boss_life_gauge_color58": {
+      "color": 4282768127,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "152": {
+    "boss_life_gauge_color59": {
+      "color": 4294966630,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "153": {
+    "boss_life_gauge_color60": {
+      "color": 4280386047,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "154": {
+    "boss_life_gauge_color61": {
+      "color": 4288596188,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "155": {
+    "boss_life_gauge_color62": {
+      "color": 4293103900,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "156": {
+    "boss_life_gauge_color63": {
+      "color": 4286151126,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 102
+    }
+  }
+}

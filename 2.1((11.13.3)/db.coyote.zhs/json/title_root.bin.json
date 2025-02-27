@@ -1,0 +1,1284 @@
+{
+  "VERSION": 2,
+  "REVISION": 0,
+  "ROW_COUNT": 129,
+  "COLUMN_COUNT": 8,
+  "TEXT_COUNT": 71,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 351,
+  "STORAGE_MODE": 1,
+  "columnValidity": {
+    "": "0",
+    "message": "0",
+    "name": "1",
+    "explanation": "1",
+    "explanation2": "1",
+    "category": "1",
+    "direct_exit_condition": "1",
+    "menu_id": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "message": -1,
+    "name": 13,
+    "explanation": 13,
+    "explanation2": 13,
+    "category": 2,
+    "direct_exit_condition": 1,
+    "menu_id": 0
+  },
+  "COLUMN_INDICES": [
+    5,
+    2,
+    3,
+    4,
+    6,
+    7,
+    1,
+    0
+  ],
+  "0": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "start": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "option": {
+      "name": "游戏设置",
+      "explanation": "变更与游玩游戏相关的设置。",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "menu_id": 8,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "3": {
+    "caution": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "new_game": {
+      "name": "从头开始（本篇）",
+      "explanation": "从头开始游戏。",
+      "explanation2": "从头开始游戏。\n由于目前保存资料数量已达上限30个，\n需要覆写任一保存资料。",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "menu_id": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "new_game_after_clear": {
+      "name": "从头开始（本篇）",
+      "explanation": "从头开始游戏。",
+      "explanation2": "从头开始游戏。\n也能选择以完全初始的状态，与主线故事无关地\n自由探索世界的游戏模式。",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "menu_id": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "6": {
+    "continue": {
+      "name": "继续游玩（本篇）",
+      "explanation": "从保存处开始继续游戏。",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "menu_id": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "7": {
+    "movie": {
+      "name": "回想",
+      "explanation": "欣赏曾观看过的事件场景。",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "menu_id": 9,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "8": {
+    "past_series": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "audio_option": {
+      "name": "声音设置",
+      "explanation": "变更如耳机音量与无线控制器的喇叭等\n与声音相关的设置。",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "10": {
+    "new_game_after_clear_main_story": {
+      "name": "以初始状态开始",
+      "explanation": "以初始状态开始新游戏",
+      "category": 2,
+      "direct_exit_condition": 0,
+      "menu_id": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "11": {
+    "new_game_after_clear_padv": {
+      "name": "继承通关资料开始",
+      "explanation": "继承通关资料的状态开始游戏",
+      "category": 2,
+      "direct_exit_condition": 0,
+      "menu_id": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "12": {
+    "difficulty_easy": {
+      "name": "EASY",
+      "explanation": "战斗等较为简单的难度。\n适合不擅长动作游戏的玩家。",
+      "category": 3,
+      "direct_exit_condition": 0,
+      "menu_id": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "13": {
+    "difficulty_normal": {
+      "name": "NORMAL",
+      "explanation": "可用标准难度享受动作游戏乐趣。",
+      "category": 3,
+      "direct_exit_condition": 0,
+      "menu_id": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "14": {
+    "difficulty_hard": {
+      "name": "HARD",
+      "explanation": "战斗等较为困难的难度。\n适合擅长动作游戏的玩家。",
+      "category": 3,
+      "direct_exit_condition": 0,
+      "menu_id": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "15": {
+    "difficulty_legend": {
+      "name": "EX HARD",
+      "explanation": "可挑战最高难度。\n特别是在遭到武器攻击时将受到大量伤害。",
+      "category": 3,
+      "direct_exit_condition": 0,
+      "menu_id": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "16": {
+    "two_player_game": {
+      "name": "2P对战小游戏",
+      "explanation": "进行格斗游戏的2P对战。\n※请准备2个无线控制器。\n※此处的成绩不影响TownGo。",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "menu_id": 7,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "17": {
+    "two_player_game_puyo": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "19": {
+    "memories_ryu1": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "memories_ryu2": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "memories_ryu3": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "memories_ryu4": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "memories_ryu5": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "difficulty_very_easy": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "tgs_start_onomichi": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "tgs_start_kamuro": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "continue_after_clear": {
+      "name": "继续游玩（本篇）",
+      "explanation": "从保存处开始继续游戏。\n也可继承通关资料从头开始。",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "menu_id": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "28": {
+    "tgs_game_option": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "tgs_audio_option": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "30": {
+    "majima_mode": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "31": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "32": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 121
+    }
+  },
+  "33": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "34": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "35": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "36": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "37": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "38": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "39": {
+    "majima_1syo": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 113
+    }
+  },
+  "40": {
+    "majima_2syo": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 109
+    }
+  },
+  "41": {
+    "majima_3syo": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 114
+    }
+  },
+  "42": {
+    "majima_4syo": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "43": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "44": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "45": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 108
+    }
+  },
+  "46": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 122
+    }
+  },
+  "47": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 116
+    }
+  },
+  "48": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 117
+    }
+  },
+  "49": {
+    "tgs_start_osaka": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 118
+    }
+  },
+  "50": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 107
+    }
+  },
+  "51": {
+    "tgs_story": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 106
+    }
+  },
+  "52": {
+    "tgs_majima": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 123
+    }
+  },
+  "53": {
+    "tgs_clan": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "54": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "55": {
+    "majima_continue": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "56": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "57": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "58": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "59": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "60": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 110
+    }
+  },
+  "61": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 111
+    }
+  },
+  "62": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 112
+    }
+  },
+  "63": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 115
+    }
+  },
+  "64": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "65": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 119
+    }
+  },
+  "66": {
+    "difficulty_ex_hard_pretrial": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 120
+    }
+  },
+  "67": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 128
+    }
+  },
+  "68": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 124
+    }
+  },
+  "69": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 125
+    }
+  },
+  "70": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 126
+    }
+  },
+  "71": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 127
+    }
+  },
+  "72": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "73": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "74": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "75": {
+    "yazawa_option": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "76": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "77": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "78": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "79": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "80": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "81": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "82": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "83": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "84": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "85": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "86": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "87": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "88": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "89": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "90": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "91": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "92": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "93": {
+    "yazawa_option_game_tgs": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "94": {
+    "yazawa_option_audio_tgs": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "95": {
+    "yazawa_option_color_tgs": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "96": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "97": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "98": {
+    "pachislot_hades_tgs": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "99": {
+    "pachislot_milligod_tgs": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "100": {
+    "pachislot_souten_tgs": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "101": {
+    "pachislot_beast_tgs": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "102": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "103": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "104": {
+    "": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "105": {
+    "difficulty_ex_easy": {
+      "name": "EX EASY",
+      "explanation": "附带动作辅助功能的最简单难度。\n适合极不擅长动作游戏的玩家。",
+      "category": 3,
+      "direct_exit_condition": 0,
+      "menu_id": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "106": {
+    "test_presentation": {
+      "name": "minigame selector stage",
+      "explanation": "the stage for accessing minigames",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "menu_id": 15,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "107": {
+    "quit_game": {
+      "name": "结束游玩",
+      "explanation": "结束游玩并返回桌面",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "menu_id": 14,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "108": {
+    "license": {
+      "name": "版权标记",
+      "explanation": "显示授权资讯。",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "menu_id": 10,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "109": {
+    "gauntlet": {
+      "name": "传说特训",
+      "explanation": "传说特训\n\nby:K8SAY",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "menu_id": 5,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "110": {
+    "auto_save_attention": {
+      "name": "确定要开启自动保存机能吗？",
+      "explanation": "选择“是”，将先建立自动保存资料再开始游戏\n选择“否”，将不建立保存资料便开始游戏",
+      "category": 9,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "111": {
+    "coyote_two_minigame_vf5": {
+      "name": "Virtua Fighter 5 Final Showdown",
+      "explanation": "以2P对战游玩“Virtua Fighter 5 Final Showdown”\n（2P对战模式的游玩结果不会反映至TownGo）",
+      "category": 4,
+      "direct_exit_condition": 33,
+      "menu_id": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "112": {
+    "coyote_two_minigame_fv": {
+      "name": "FIGHTING VIPERS",
+      "explanation": "以2P对战游玩“FIGHTING VIPERS”\n（2P对战模式的游玩结果不会反映至TownGo）",
+      "category": 4,
+      "direct_exit_condition": 145,
+      "menu_id": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "113": {
+    "continue_playstation_previous_generation": {
+      "name": "自PlayStation®4继承",
+      "explanation": "从PlayStation®4版《审判之逝》的保存资料\n继承进度开始游戏。\n无法继承“审判特训”和Master System的保存资料。",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "menu_id": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "114": {
+    "coyote_premium_adventure": {
+      "name": "漫游模式",
+      "explanation": "可无需顾虑主线剧情的进展\n自由探索街头的模式。",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "menu_id": 6,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "115": {
+    "coyote_two_minigame_stf": {
+      "name": "SONIC THE FIGHTERS",
+      "explanation": "以2P对战游玩“SONIC THE FIGHTERS”\n（2P对战模式的游玩结果不会反映至TownGo）",
+      "category": 4,
+      "direct_exit_condition": 402,
+      "menu_id": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "116": {
+    "profile_change": {
+      "name": "CHANGE PROFILE",
+      "explanation": "变更游玩的使用者。",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "117": {
+    "coyote_photo_gallery": {
+      "name": "PHOTO GALLERY",
+      "explanation": "可观看在游戏中用智能手机拍摄的照片。",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "menu_id": 12,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "118": {
+    "staffroll": {
+      "name": "额外工作人员名单",
+      "explanation": "可确认下载内容新增的\n额外工作人员名单。",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "menu_id": 13,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "119": {
+    "staffroll_dlc1": {
+      "name": "“侦探生活充实包”",
+      "explanation": "“侦探生活充实包”的额外工作人员名单。",
+      "category": 23,
+      "direct_exit_condition": 0,
+      "menu_id": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "120": {
+    "staffroll_dlc2": {
+      "name": "“青春群像剧充实包”",
+      "explanation": "“青春群像剧充实包”的额外工作人员名单。",
+      "category": 23,
+      "direct_exit_condition": 0,
+      "menu_id": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "121": {
+    "staffroll_main_stoty": {
+      "category": 0,
+      "direct_exit_condition": 0,
+      "menu_id": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "122": {
+    "dlc": {
+      "name": "下载内容",
+      "explanation": "可前往${platform.term.store}的各种额外内容的销售页面。",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "menu_id": 11,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "123": {
+    "ps_store": {
+      "name": "${platform.term.store}",
+      "explanation": "可前往${platform.term.store}的制品版的销售页面。",
+      "category": 24,
+      "direct_exit_condition": 0,
+      "menu_id": 10,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "124": {
+    "kaito_story_root": {
+      "name": "海藤正治事件簿",
+      "explanation": "开始游玩下载内容\n“海藤正治事件簿”。",
+      "category": 1,
+      "direct_exit_condition": 0,
+      "menu_id": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "125": {
+    "kaito_story_new_game": {
+      "name": "从头开始",
+      "explanation": "从头开始游戏。",
+      "category": 25,
+      "direct_exit_condition": 0,
+      "menu_id": 1,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "126": {
+    "kaito_story_continue": {
+      "name": "继续游玩",
+      "explanation": "从保存处开始继续游戏。",
+      "category": 25,
+      "direct_exit_condition": 0,
+      "menu_id": 2,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "127": {
+    "kaito_story_continue_playstation_previous_generation": {
+      "name": "自PlayStation®4继承",
+      "explanation": "从PlayStation®4版《审判之逝》的保存数据\n继承进度开始游戏。\n无法继承“审判特训”和Master System的保存数据。",
+      "category": 25,
+      "direct_exit_condition": 0,
+      "menu_id": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "128": {
+    "staffroll_steam": {
+      "name": "PC 版开发团队",
+      "explanation": "可确认 PC 版开发团队的工作人员名单。",
+      "category": 23,
+      "direct_exit_condition": 0,
+      "menu_id": 3,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 70
+    }
+  }
+}

@@ -1,0 +1,2639 @@
+{
+  "VERSION": 2,
+  "REVISION": 0,
+  "ROW_COUNT": 289,
+  "COLUMN_COUNT": 5,
+  "TEXT_COUNT": 0,
+  "ROW_VALIDATOR": 0,
+  "COLUMN_VALIDATOR": 0,
+  "HAS_ROW_NAMES": true,
+  "HAS_COLUMN_NAMES": true,
+  "HAS_ROW_VALIDITY": true,
+  "HAS_COLUMN_VALIDITY": true,
+  "HAS_UNKNOWN_BITMASK": false,
+  "HAS_ROW_INDICES": true,
+  "TABLE_ID": 627,
+  "STORAGE_MODE": 1,
+  "columnValidity": {
+    "": "0",
+    "type": "0",
+    "item": "1",
+    "money": "1",
+    "asset_type": "1"
+  },
+  "columnTypes": {
+    "": -1,
+    "type": -1,
+    "item": 1,
+    "money": 3,
+    "asset_type": 2
+  },
+  "COLUMN_INDICES": [
+    4,
+    2,
+    3,
+    1,
+    0
+  ],
+  "0": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 0
+    }
+  },
+  "1": {
+    "sample_i": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 1
+    }
+  },
+  "2": {
+    "sample_m": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 2
+    }
+  },
+  "3": {
+    "medic_1": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 3
+    }
+  },
+  "4": {
+    "medic_2": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 4
+    }
+  },
+  "5": {
+    "medic_3": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 5
+    }
+  },
+  "6": {
+    "medic_4": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 6
+    }
+  },
+  "7": {
+    "medic_5": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 7
+    }
+  },
+  "8": {
+    "medic_6": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 8
+    }
+  },
+  "9": {
+    "money_0300": {
+      "item": 0,
+      "money": 300,
+      "asset_type": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 9
+    }
+  },
+  "10": {
+    "money_0500": {
+      "item": 0,
+      "money": 500,
+      "asset_type": 4,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 177
+    }
+  },
+  "11": {
+    "money_1000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 11
+    }
+  },
+  "12": {
+    "money_2000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 12
+    }
+  },
+  "13": {
+    "money_3000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 13
+    }
+  },
+  "14": {
+    "money_4000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 14
+    }
+  },
+  "15": {
+    "money_5000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 15
+    }
+  },
+  "16": {
+    "money_6000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 16
+    }
+  },
+  "17": {
+    "money_7000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 17
+    }
+  },
+  "18": {
+    "money_8000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 18
+    }
+  },
+  "19": {
+    "money_9000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 19
+    }
+  },
+  "20": {
+    "money_10000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 20
+    }
+  },
+  "21": {
+    "money_15000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 21
+    }
+  },
+  "22": {
+    "money_20000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 22
+    }
+  },
+  "23": {
+    "money_30000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 23
+    }
+  },
+  "24": {
+    "money_50000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 24
+    }
+  },
+  "25": {
+    "money_100000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 25
+    }
+  },
+  "26": {
+    "medic_7": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 26
+    }
+  },
+  "27": {
+    "medic_8": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 27
+    }
+  },
+  "28": {
+    "medic_9": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 28
+    }
+  },
+  "29": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 178
+    }
+  },
+  "30": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 179
+    }
+  },
+  "31": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 180
+    }
+  },
+  "32": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 181
+    }
+  },
+  "33": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 182
+    }
+  },
+  "34": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 183
+    }
+  },
+  "35": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 70
+    }
+  },
+  "36": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 184
+    }
+  },
+  "37": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 185
+    }
+  },
+  "38": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 186
+    }
+  },
+  "39": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 187
+    }
+  },
+  "40": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 188
+    }
+  },
+  "41": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 190
+    }
+  },
+  "42": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 191
+    }
+  },
+  "43": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 192
+    }
+  },
+  "44": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 193
+    }
+  },
+  "45": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 194
+    }
+  },
+  "46": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 195
+    }
+  },
+  "47": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 196
+    }
+  },
+  "48": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 197
+    }
+  },
+  "49": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 198
+    }
+  },
+  "50": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 200
+    }
+  },
+  "51": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 201
+    }
+  },
+  "52": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 202
+    }
+  },
+  "53": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 203
+    }
+  },
+  "54": {
+    "lexus2_medic_01": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 54
+    }
+  },
+  "55": {
+    "lexus2_medic_02": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 55
+    }
+  },
+  "56": {
+    "lexus2_medic_03": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 56
+    }
+  },
+  "57": {
+    "lexus2_medic_04": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 57
+    }
+  },
+  "58": {
+    "lexus2_medic_05": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 58
+    }
+  },
+  "59": {
+    "lexus2_medic_06": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 59
+    }
+  },
+  "60": {
+    "lexus2_medic_07": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 60
+    }
+  },
+  "61": {
+    "lexus2_medic_08": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 61
+    }
+  },
+  "62": {
+    "lexus2_medic_09": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 62
+    }
+  },
+  "63": {
+    "lexus2_money_000300": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 63
+    }
+  },
+  "64": {
+    "lexus2_money_000500": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 64
+    }
+  },
+  "65": {
+    "lexus2_money_001000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 65
+    }
+  },
+  "66": {
+    "lexus2_money_002000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 66
+    }
+  },
+  "67": {
+    "lexus2_money_003000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 67
+    }
+  },
+  "68": {
+    "lexus2_money_004000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 68
+    }
+  },
+  "69": {
+    "lexus2_money_005000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 69
+    }
+  },
+  "70": {
+    "lexus2_money_006000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 205
+    }
+  },
+  "71": {
+    "lexus2_money_007000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 71
+    }
+  },
+  "72": {
+    "lexus2_money_008000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 72
+    }
+  },
+  "73": {
+    "lexus2_money_009000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 73
+    }
+  },
+  "74": {
+    "lexus2_money_010000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 74
+    }
+  },
+  "75": {
+    "lexus2_money_020000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 75
+    }
+  },
+  "76": {
+    "lexus2_money_030000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 76
+    }
+  },
+  "77": {
+    "lexus2_money_050000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 77
+    }
+  },
+  "78": {
+    "lexus2_money_100000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 78
+    }
+  },
+  "79": {
+    "lexus2_money_040000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 79
+    }
+  },
+  "80": {
+    "lexus2_weapon_01": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 80
+    }
+  },
+  "81": {
+    "lexus2_weapon_02": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 81
+    }
+  },
+  "82": {
+    "lexus2_weapon_03": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 82
+    }
+  },
+  "83": {
+    "lexus2_weapon_04": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 83
+    }
+  },
+  "84": {
+    "lexus2_weapon_05": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 84
+    }
+  },
+  "85": {
+    "lexus2_weapon_06": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 85
+    }
+  },
+  "86": {
+    "lexus2_weapon_07": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 86
+    }
+  },
+  "87": {
+    "lexus2_weapon_08": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 87
+    }
+  },
+  "88": {
+    "lexus2_weapon_09": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 88
+    }
+  },
+  "89": {
+    "lexus2_weapon_10": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 89
+    }
+  },
+  "90": {
+    "lexus2_weapon_11": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 90
+    }
+  },
+  "91": {
+    "lexus2_weapon_12": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 91
+    }
+  },
+  "92": {
+    "lexus2_weapon_13": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 92
+    }
+  },
+  "93": {
+    "": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 206
+    }
+  },
+  "94": {
+    "judge_senyaku01": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 94
+    }
+  },
+  "95": {
+    "judge_senyaku02": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 95
+    }
+  },
+  "96": {
+    "judge_senyaku03": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 96
+    }
+  },
+  "97": {
+    "judge_senyaku04": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 97
+    }
+  },
+  "98": {
+    "judge_playpass": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 98
+    }
+  },
+  "99": {
+    "coyote_material_neji_01": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 99
+    }
+  },
+  "100": {
+    "coyote_material_wire_01": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 100
+    }
+  },
+  "101": {
+    "coyote_medic_01": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 101
+    }
+  },
+  "102": {
+    "coyote_medic_02": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 102
+    }
+  },
+  "103": {
+    "coyote_medic_03": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 103
+    }
+  },
+  "104": {
+    "coyote_medic_04": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 104
+    }
+  },
+  "105": {
+    "coyote_medic_05": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 105
+    }
+  },
+  "106": {
+    "coyote_medic_06": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 106
+    }
+  },
+  "107": {
+    "coyote_medic_07": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 107
+    }
+  },
+  "108": {
+    "coyote_medic_08": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 108
+    }
+  },
+  "109": {
+    "coyote_medic_09": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 109
+    }
+  },
+  "110": {
+    "coyote_money_000300": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 110
+    }
+  },
+  "111": {
+    "coyote_money_000500": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 111
+    }
+  },
+  "112": {
+    "coyote_money_001000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 112
+    }
+  },
+  "113": {
+    "coyote_money_002000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 113
+    }
+  },
+  "114": {
+    "coyote_money_003000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 114
+    }
+  },
+  "115": {
+    "coyote_money_004000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 115
+    }
+  },
+  "116": {
+    "coyote_money_005000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 116
+    }
+  },
+  "117": {
+    "coyote_money_006000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 117
+    }
+  },
+  "118": {
+    "coyote_money_007000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 118
+    }
+  },
+  "119": {
+    "coyote_money_008000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 119
+    }
+  },
+  "120": {
+    "coyote_money_009000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 120
+    }
+  },
+  "121": {
+    "coyote_money_010000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 121
+    }
+  },
+  "122": {
+    "coyote_money_020000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 122
+    }
+  },
+  "123": {
+    "coyote_money_030000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 123
+    }
+  },
+  "124": {
+    "coyote_money_050000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 124
+    }
+  },
+  "125": {
+    "coyote_money_100000": {
+      "item": 0,
+      "money": 100000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 218
+    }
+  },
+  "126": {
+    "coyote_smedicine_base_stone": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 126
+    }
+  },
+  "127": {
+    "coyote_smedicine_base_koeda": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 127
+    }
+  },
+  "128": {
+    "coyote_smedicine_base_mimizu": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 128
+    }
+  },
+  "129": {
+    "coyote_smedicine_base_yomogi": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 129
+    }
+  },
+  "130": {
+    "coyote_smedicine_base_pansy": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 130
+    }
+  },
+  "131": {
+    "coyote_smedicine_base_rose": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 131
+    }
+  },
+  "132": {
+    "coyote_smedicine_base_lily": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 132
+    }
+  },
+  "133": {
+    "coyote_smedicine_base_radish": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 133
+    }
+  },
+  "134": {
+    "coyote_smedicine_base_tomato": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 134
+    }
+  },
+  "135": {
+    "coyote_smedicine_base_peppers": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 135
+    }
+  },
+  "136": {
+    "coyote_smedicine_base_potatoes": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 136
+    }
+  },
+  "137": {
+    "coyote_smedicine_base_onion": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 137
+    }
+  },
+  "138": {
+    "coyote_smedicine_base_garlic": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 138
+    }
+  },
+  "139": {
+    "coyote_smedicine_base_mysteriousbulbs": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 139
+    }
+  },
+  "140": {
+    "coyote_smedicine_base_nysteriousmushroom": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 140
+    }
+  },
+  "141": {
+    "coyote_smedicine_base_honeycomb": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 141
+    }
+  },
+  "142": {
+    "coyote_smedicine_base_scorpion": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 142
+    }
+  },
+  "143": {
+    "coyote_smedicine_base_mysteriousseed": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 143
+    }
+  },
+  "144": {
+    "coyote_smedicine_base_ｍysteriousleaf": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 144
+    }
+  },
+  "145": {
+    "coyote_smedicine_base_mysteriousfruit": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 145
+    }
+  },
+  "146": {
+    "coyote_smedicine_base_clover": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 146
+    }
+  },
+  "147": {
+    "coyote_smedicine_base_pachinko": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 147
+    }
+  },
+  "148": {
+    "coyote_smedicine_base_medal": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 148
+    }
+  },
+  "149": {
+    "coyote_smedicine_base_emptybottle": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 149
+    }
+  },
+  "150": {
+    "coyote_smedicine_base_gomu": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 150
+    }
+  },
+  "151": {
+    "coyote_smedicine_base_tabaccosuigara": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 151
+    }
+  },
+  "152": {
+    "coyote_droneparts_neji_01": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 152
+    }
+  },
+  "153": {
+    "coyote_droneparts_wire_01": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 153
+    }
+  },
+  "154": {
+    "coyote_droneparts_neji_02": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 154
+    }
+  },
+  "155": {
+    "coyote_droneparts_wire_02": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 155
+    }
+  },
+  "156": {
+    "coyote_smedicine_base_kanaita": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 156
+    }
+  },
+  "157": {
+    "coyote_smedicine_base_ballet": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 157
+    }
+  },
+  "158": {
+    "coyote_smedicine_base_oldgomu": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 158
+    }
+  },
+  "159": {
+    "coyote_droneparts_carb_01": {
+      "item": 3612,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 160
+    }
+  },
+  "160": {
+    "coyote_droneparts_jishaku_01": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 161
+    }
+  },
+  "161": {
+    "coyote_smedicine_base_shinjuold": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 162
+    }
+  },
+  "162": {
+    "coyote_smedicine_base_shinjmokuhen": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 163
+    }
+  },
+  "163": {
+    "coyote_smedicine_base_wonderstone": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 164
+    }
+  },
+  "164": {
+    "coyote_smedicine_base_kaigara": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 165
+    }
+  },
+  "165": {
+    "coyote_smedicine_base_shinjryouboku": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 166
+    }
+  },
+  "166": {
+    "coyote_smedicine_base_dragoneye": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 174
+    }
+  },
+  "167": {
+    "coyote_dish_paper": {
+      "item": 3544,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 176
+    }
+  },
+  "168": {
+    "coyote_dish_iron": {
+      "item": 3543,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 10
+    }
+  },
+  "169": {
+    "coyote_dish_copper": {
+      "item": 3542,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 233
+    }
+  },
+  "170": {
+    "coyote_dish_silver": {
+      "item": 3541,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 275
+    }
+  },
+  "171": {
+    "coyote_smedicine_base_kisekired": {
+      "item": 3668,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 276
+    }
+  },
+  "172": {
+    "coyote_smedicine_base_kisekiblue": {
+      "item": 3669,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 277
+    }
+  },
+  "173": {
+    "coyote_smedicine_base_kisekiyellow": {
+      "item": 3670,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 234
+    }
+  },
+  "174": {
+    "coyote_smedicine_base_kisekirainbow": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 278
+    }
+  },
+  "175": {
+    "coyote_pocket_tissue": {
+      "item": 3538,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 279
+    }
+  },
+  "176": {
+    "coyote_food_konbuonigiri": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 280
+    }
+  },
+  "177": {
+    "coyote_food_tsunaonigiri": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 281
+    }
+  },
+  "178": {
+    "coyote_food_shakeonigiri": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 235
+    }
+  },
+  "179": {
+    "coyote_food_freshlettucesand": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 282
+    }
+  },
+  "180": {
+    "coyote_food_tsunaeggsand": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 283
+    }
+  },
+  "181": {
+    "coyote_food_oden": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 236
+    }
+  },
+  "182": {
+    "coyote_food_makunouchi": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 237
+    }
+  },
+  "183": {
+    "coyote_food_yakisoba": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 238
+    }
+  },
+  "184": {
+    "coyote_food_tonkatsu": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 239
+    }
+  },
+  "185": {
+    "coyote_food_healthybento": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 240
+    }
+  },
+  "186": {
+    "coyote_food_yakinikubento": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 241
+    }
+  },
+  "187": {
+    "coyote_drink_nihonshu": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 242
+    }
+  },
+  "188": {
+    "coyote_food_sushidume": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 243
+    }
+  },
+  "189": {
+    "coyote_michiyo_water": {
+      "item": 4139,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 244
+    }
+  },
+  "190": {
+    "coyote_food_onigiri_agesenbei": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 245
+    }
+  },
+  "191": {
+    "coyote_catfood01": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 246
+    }
+  },
+  "192": {
+    "coyote_catfood02": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 247
+    }
+  },
+  "193": {
+    "coyote_catfood03": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 248
+    }
+  },
+  "194": {
+    "coyote_catfood04": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 249
+    }
+  },
+  "195": {
+    "coyote_catfood05": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 250
+    }
+  },
+  "196": {
+    "coyote_catfood06": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 251
+    }
+  },
+  "197": {
+    "coyote_catfood10": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 252
+    }
+  },
+  "198": {
+    "coyote_smedicine_bottle": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 253
+    }
+  },
+  "199": {
+    "coyote_money_5000": {
+      "item": 0,
+      "money": 5000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 254
+    }
+  },
+  "200": {
+    "coyote_money_6000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 255
+    }
+  },
+  "201": {
+    "coyote_money_7000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 256
+    }
+  },
+  "202": {
+    "coyote_money_8000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 257
+    }
+  },
+  "203": {
+    "coyote_money_9000": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 258
+    }
+  },
+  "204": {
+    "coyote_money_10000": {
+      "item": 0,
+      "money": 30000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 259
+    }
+  },
+  "205": {
+    "coyote_money_20000": {
+      "item": 0,
+      "money": 80000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 260
+    }
+  },
+  "206": {
+    "coyote_money_30000": {
+      "item": 0,
+      "money": 200000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 261
+    }
+  },
+  "207": {
+    "coyote_money_50000": {
+      "item": 0,
+      "money": 600000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 262
+    }
+  },
+  "208": {
+    "coyote_dish_platinum": {
+      "item": 3539,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 263
+    }
+  },
+  "209": {
+    "coyote_dish_gold": {
+      "item": 3540,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 264
+    }
+  },
+  "210": {
+    "coyote_treasure_minigame_kabu_youkan": {
+      "item": 3588,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 265
+    }
+  },
+  "211": {
+    "coyote_treasure_minigame_kabu_doshippins": {
+      "item": 3589,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 266
+    }
+  },
+  "212": {
+    "coyote_treasure_minigame_koikoi_lucky": {
+      "item": 3590,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 267
+    }
+  },
+  "213": {
+    "coyote_treasure_minigame_bj_bj": {
+      "item": 3591,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 268
+    }
+  },
+  "214": {
+    "coyote_treasure_minigame_bj_bust": {
+      "item": 3592,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 269
+    }
+  },
+  "215": {
+    "coyote_treasure_minigame_poker_royal": {
+      "item": 3593,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 270
+    }
+  },
+  "216": {
+    "coyote_treasure_minigame_shougi_assist": {
+      "item": 3594,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 271
+    }
+  },
+  "217": {
+    "coyote_treasure_minigame_musonohai": {
+      "item": 3595,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 272
+    }
+  },
+  "218": {
+    "coyote_treasure_minigame_batting_ikasama": {
+      "item": 0,
+      "money": 0,
+      "asset_type": 0,
+      "reARMP_isValid": "0",
+      "reARMP_rowIndex": 273
+    }
+  },
+  "219": {
+    "coyote_droneparts_plas_01": {
+      "item": 3604,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 274
+    }
+  },
+  "220": {
+    "coyote_droneparts_plas_02": {
+      "item": 3605,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 228
+    }
+  },
+  "221": {
+    "coyote_droneparts_plas_03": {
+      "item": 3606,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 199
+    }
+  },
+  "222": {
+    "coyote_droneparts_carb_02": {
+      "item": 3613,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 204
+    }
+  },
+  "223": {
+    "coyote_droneparts_coil_01": {
+      "item": 3622,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 207
+    }
+  },
+  "224": {
+    "coyote_droneparts_coil_02": {
+      "item": 3623,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 125
+    }
+  },
+  "225": {
+    "coyote_droneparts_oil_01": {
+      "item": 3624,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 175
+    }
+  },
+  "226": {
+    "coyote_droneparts_jushi_01": {
+      "item": 3625,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 208
+    }
+  },
+  "227": {
+    "coyote_touch_recover_medicine00": {
+      "item": 4277,
+      "money": 0,
+      "asset_type": 57,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 209
+    }
+  },
+  "228": {
+    "coyote_money_1000": {
+      "item": 0,
+      "money": 1000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 170
+    }
+  },
+  "229": {
+    "coyote_toughness_lite": {
+      "item": 3504,
+      "money": 0,
+      "asset_type": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 169
+    }
+  },
+  "230": {
+    "coyote_staminan_lite": {
+      "item": 3507,
+      "money": 0,
+      "asset_type": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 168
+    }
+  },
+  "231": {
+    "coyote_toughnessz": {
+      "item": 3505,
+      "money": 0,
+      "asset_type": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 167
+    }
+  },
+  "232": {
+    "coyote_staminan_a": {
+      "item": 3508,
+      "money": 0,
+      "asset_type": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 210
+    }
+  },
+  "233": {
+    "coyote_dlc_money_1000": {
+      "item": 0,
+      "money": 1000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 211
+    }
+  },
+  "234": {
+    "coyote_dlc_money_5000": {
+      "item": 0,
+      "money": 5000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 212
+    }
+  },
+  "235": {
+    "coyote_dlc_money_10000": {
+      "item": 0,
+      "money": 10000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 213
+    }
+  },
+  "236": {
+    "coyote_dlc_money_50000": {
+      "item": 0,
+      "money": 50000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 214
+    }
+  },
+  "237": {
+    "coyote_dlc_money_100000": {
+      "item": 0,
+      "money": 100000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 215
+    }
+  },
+  "238": {
+    "coyote_dlc_pocket_tissue": {
+      "item": 3538,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 216
+    }
+  },
+  "239": {
+    "coyote_dlc_dish_platinum": {
+      "item": 3539,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 217
+    }
+  },
+  "240": {
+    "coyote_dlc_dish_gold": {
+      "item": 3540,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 219
+    }
+  },
+  "241": {
+    "coyote_dlc_dish_silver": {
+      "item": 3541,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 220
+    }
+  },
+  "242": {
+    "coyote_dlc_dish_copper": {
+      "item": 3542,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 221
+    }
+  },
+  "243": {
+    "coyote_dlc_dish_iron": {
+      "item": 3543,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 159
+    }
+  },
+  "244": {
+    "coyote_dlc_dish_paper": {
+      "item": 3544,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 222
+    }
+  },
+  "245": {
+    "coyote_dlc_treasure_minigame_kabu_youkan": {
+      "item": 3588,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 223
+    }
+  },
+  "246": {
+    "coyote_dlc_treasure_minigame_kabu_doshippins": {
+      "item": 3589,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 224
+    }
+  },
+  "247": {
+    "coyote_dlc_treasure_minigame_koikoi_lucky": {
+      "item": 3590,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 225
+    }
+  },
+  "248": {
+    "coyote_dlc_treasure_minigame_bj_bj": {
+      "item": 3591,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 226
+    }
+  },
+  "249": {
+    "coyote_dlc_treasure_minigame_bj_bust": {
+      "item": 3592,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 171
+    }
+  },
+  "250": {
+    "coyote_dlc_treasure_minigame_poker_royal": {
+      "item": 3593,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 172
+    }
+  },
+  "251": {
+    "coyote_dlc_treasure_minigame_shougi_assist": {
+      "item": 3594,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 173
+    }
+  },
+  "252": {
+    "coyote_dlc_treasure_minigame_musonohai": {
+      "item": 3595,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 189
+    }
+  },
+  "253": {
+    "coyote_dlc_droneparts_plas_01": {
+      "item": 3604,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 227
+    }
+  },
+  "254": {
+    "coyote_dlc_droneparts_plas_02": {
+      "item": 3605,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 229
+    }
+  },
+  "255": {
+    "coyote_dlc_droneparts_plas_03": {
+      "item": 3606,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 231
+    }
+  },
+  "256": {
+    "coyote_dlc_droneparts_carb_01": {
+      "item": 3612,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 230
+    }
+  },
+  "257": {
+    "coyote_dlc_droneparts_carb_02": {
+      "item": 3613,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 232
+    }
+  },
+  "258": {
+    "coyote_dlc_droneparts_coil_01": {
+      "item": 3622,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 29
+    }
+  },
+  "259": {
+    "coyote_dlc_droneparts_coil_02": {
+      "item": 3623,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 30
+    }
+  },
+  "260": {
+    "coyote_dlc_droneparts_oil_01": {
+      "item": 3624,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 31
+    }
+  },
+  "261": {
+    "coyote_dlc_droneparts_jushi_01": {
+      "item": 3625,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 32
+    }
+  },
+  "262": {
+    "coyote_dlc_smedicine_base_kisekired": {
+      "item": 3668,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 33
+    }
+  },
+  "263": {
+    "coyote_dlc_smedicine_base_kisekiblue": {
+      "item": 3669,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 34
+    }
+  },
+  "264": {
+    "coyote_dlc_smedicine_base_kisekiyellow": {
+      "item": 3670,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 35
+    }
+  },
+  "265": {
+    "coyote_dlc_michiyo_water": {
+      "item": 4139,
+      "money": 0,
+      "asset_type": 38,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 36
+    }
+  },
+  "266": {
+    "coyote_dlc_touch_recover_medicine00": {
+      "item": 4277,
+      "money": 0,
+      "asset_type": 57,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 37
+    }
+  },
+  "267": {
+    "coyote_dlc_toughness_lite": {
+      "item": 3504,
+      "money": 0,
+      "asset_type": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 38
+    }
+  },
+  "268": {
+    "coyote_dlc_toughnessz": {
+      "item": 3505,
+      "money": 0,
+      "asset_type": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 39
+    }
+  },
+  "269": {
+    "coyote_dlc_staminan_lite": {
+      "item": 3507,
+      "money": 0,
+      "asset_type": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 40
+    }
+  },
+  "270": {
+    "coyote_dlc_staminan_a": {
+      "item": 3508,
+      "money": 0,
+      "asset_type": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 41
+    }
+  },
+  "271": {
+    "coyote_tauriner_a": {
+      "item": 3506,
+      "money": 0,
+      "asset_type": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 42
+    }
+  },
+  "272": {
+    "coyote_dlc_armor_accessory_05": {
+      "item": 4718,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 43
+    }
+  },
+  "273": {
+    "coyote_dlc_armor_accessory_06": {
+      "item": 4719,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 44
+    }
+  },
+  "274": {
+    "coyote_dlc_armor_accessory_03": {
+      "item": 4716,
+      "money": 0,
+      "asset_type": 32,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 45
+    }
+  },
+  "275": {
+    "coyote_dlc_money_2000": {
+      "item": 0,
+      "money": 2000000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 46
+    }
+  },
+  "276": {
+    "coyote_dlc_money_3000": {
+      "item": 0,
+      "money": 3000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 47
+    }
+  },
+  "277": {
+    "coyote_dlc_money_4000": {
+      "item": 0,
+      "money": 4000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 48
+    }
+  },
+  "278": {
+    "coyote_dlc_money_6000": {
+      "item": 0,
+      "money": 6000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 49
+    }
+  },
+  "279": {
+    "coyote_dlc_money_7000": {
+      "item": 0,
+      "money": 7000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 50
+    }
+  },
+  "280": {
+    "coyote_dlc_money_8000": {
+      "item": 0,
+      "money": 8000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 51
+    }
+  },
+  "281": {
+    "coyote_dlc_money_9000": {
+      "item": 0,
+      "money": 9000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 52
+    }
+  },
+  "282": {
+    "coyote_dlc_money_20000": {
+      "item": 0,
+      "money": 20000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 53
+    }
+  },
+  "283": {
+    "coyote_dlc_money_30000": {
+      "item": 0,
+      "money": 30000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "284": {
+    "coyote_item_accessory_022": {
+      "item": 0,
+      "money": 35000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "285": {
+    "coyote_item_accessory_013": {
+      "item": 0,
+      "money": 40000,
+      "asset_type": 31,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "286": {
+    "coyote_item_accessory_009": {
+      "item": 4184,
+      "money": 0,
+      "asset_type": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "287": {
+    "coyote_item_accessory_005": {
+      "item": 4180,
+      "money": 0,
+      "asset_type": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  },
+  "288": {
+    "coyote_item_accessory_003": {
+      "item": 4178,
+      "money": 0,
+      "asset_type": 29,
+      "reARMP_isValid": "1",
+      "reARMP_rowIndex": 93
+    }
+  }
+}
